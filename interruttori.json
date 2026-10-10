@@ -1,0 +1,15 @@
+{
+  "fonti": {
+    "vt": true,
+    "lefrecce": true,
+    "rfi": true,
+    "eticket_fnb": true,
+    "eticket_fal": true
+  },
+  "funzioni": {
+    "treni": true,
+    "avvisi_treni": true,
+    "cambi_orario": true,
+    "scioperi": true
+  }
+}
