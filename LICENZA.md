@@ -7,6 +7,8 @@ Questi file raccolgono orari di treni a scopo informativo.
   del Regolamento delegato (UE) 2017/1926. Restano dei rispettivi titolari.
 - **Confini delle regioni**: ISTAT, rielaborati dal progetto openpolis/geojson-italy, licenza CC-BY-4.0
   (attribuzione: ISTAT, openpolis).
+- **Scioperi**: RSS pubblica del Ministero delle Infrastrutture e dei Trasporti (`https://scioperi.mit.gov.it`),
+  riuso con citazione della fonte. Il testo degli avvisi resta del Ministero.
 - **Lavorazione**: ritaglio dell'area e compressione fatti da Sciamn.
 
 Gli orari sono **indicativi**: per viaggiare fanno fede le fonti ufficiali degli operatori. Nessuna garanzia
