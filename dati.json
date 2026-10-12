@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "versione": "2026-10-12T14:35:03.133Z",
+  "provvisorio": "Gli stop_id che iniziano con \"nap-\" sono provvisori: nascono dal codice del NAP quando manca l'abbinamento ai codici ViaggiaTreno, e possono cambiare quando l'abbinamento verrà completato.",
+  "operatori": {
+    "TI": {
+      "file": "treni-TI.json",
+      "validoDal": "2026-10-03",
+      "validoAl": "2027-06-12",
+      "sha256": "9a4137a35cfca21740d4b78db5baa29c98bfa453584ff103c94211940e04c6ee",
+      "corse": 1487,
+      "versioneFonte": "2026-10-05T15:07:02Z",
+      "doppie": 137,
+      "asset": [
+        "1080596"
+      ]
+    },
+    "FNB": {
+      "file": "treni-FNB.json",
+      "validoDal": "2026-03-15",
+      "validoAl": "2026-12-31",
+      "sha256": "71c154431fd1530a9e29b84ef44dbd2c0d3cf975f6728e870147fbc0da7b5218",
+      "corse": 317,
+      "versioneFonte": "2026-03-13T00:00:00+01:00",
+      "doppie": 0,
+      "asset": [
+        "477050"
+      ]
+    },
+    "FAL": {
+      "file": "treni-FAL.json",
+      "validoDal": "2026-09-07",
+      "validoAl": "2026-12-31",
+      "sha256": "46772d9720582c0c8662efd11c4da995c461d6714fe5ade294fdae5dd237a6f9",
+      "corse": 415,
+      "versioneFonte": "2026-09-07T00:00:00+02:00",
+      "doppie": 1326,
+      "asset": [
+        "305982"
+      ]
+    },
+    "FDG": {
+      "file": "treni-FDG.json",
+      "validoDal": "2026-10-07",
+      "validoAl": "2026-12-31",
+      "sha256": "afcbc805f6bc2c2ae37fdbc25117faaca95ed077d331b829954bd9b90f7b356a",
+      "corse": 119,
+      "versioneFonte": "2026-10-07T00:00:00+02:00",
+      "doppie": 259,
+      "asset": [
+        "307477"
+      ]
+    }
+  }
+}
