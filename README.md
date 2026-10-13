@@ -8,20 +8,20 @@ ogni giorno) e si leggono da GitHub Pages:
 
 Pages risponde con gzip, `ETag` (304 se non è cambiato niente) e `access-control-allow-origin: *`.
 
-> **Stato.** Gli orari (`dati.json`, `treni-*.json`) sono online e aggiornati ogni lunedì dalla CI.
-> `stazioni.json` e `scioperi.json` arrivano più avanti.
+> **Stato.** Gli orari (`dati.json`, `treni-*.json`) sono online e aggiornati ogni lunedì dalla CI;
+> `scioperi.json` è online e aggiornato ogni giorno. `stazioni.json` arriva più avanti.
 
 ## File
 
 | File | Contenuto |
 |---|---|
-| `dati.json` | Indice, scritto per ultimo: `schema`, `versione`, e per ogni operatore validità (`validoDal`/`validoAl`), `sha256` del file, numero di `corse`, `doppie`, `versioneFonte` e `asset` della fonte. Leggere prima questo. |
+| `dati.json` | Indice, scritto per ultimo: `schema`, `versione` (istante ISO), `provvisorio` (sotto) e per ogni operatore `file`, `validoDal`/`validoAl` (primo e ultimo giorno di una corsa qualunque: **non** la fine del servizio pieno, che può arrivare mesi prima), `sha256` del file, numero di `corse`, `doppie` (quanti numeri hanno almeno un giorno con due corse), `tipico` (corse attive nel giorno più pieno dei 7 giorni dalla generazione), `versioneFonte` e `asset` della fonte. Leggere prima questo. |
 | `treni-TI.json` | Trenitalia: le corse con almeno una fermata in Puglia, Basilicata, Calabria o Molise |
 | `treni-FNB.json` | Ferrotramviaria (Bari Nord) |
 | `treni-FAL.json` | Ferrovie Appulo Lucane |
 | `treni-FDG.json` | Ferrovie del Gargano |
 | `stazioni.json` | *(in arrivo)* Anagrafe unica: per ogni stazione i codici di ViaggiaTreno, lefrecce, RFI, eticket e del Punto di Accesso Nazionale, con coordinate da OpenStreetMap |
-| `scioperi.json` | *(in arrivo)* Scioperi del settore ferroviario e del trasporto locale che riguardano questi operatori, dal Ministero dei Trasporti |
+| `scioperi.json` | Scioperi del settore ferroviario e del trasporto locale che riguardano questi operatori, dal Ministero dei Trasporti |
 | `interruttori.json` | Interruttori di emergenza dell'app [Sciamn](https://lordmarte-a669.github.io/sciamn/): **non fanno parte dei dati**, si possono ignorare |
 
 Lo schema dei file è versionato (`schema` in `dati.json`): un cambio incompatibile alza il numero.
@@ -40,22 +40,28 @@ legge valida il file una volta e poi ne espande le corse del giorno che gli serv
   "generato": "2026-10-12T14:35:03Z",
   "validoDal": "2026-10-03",
   "validoAl": "2027-06-12",
+  "conteggi":  { "corse": 1, "fermate": 1, "doppie": 0 },
   "fermate":   [["rfi:S11119", "BARI CENTRALE", 41.1177, 16.8697, "830011119"]],
-  "calendari": ["0111110011111000"],
+  "calendari": ["0111110011111"],
   "corse":     [["23539", null, "REG", 2, [[1, 837], [2, 845, 1], [0, 885, 0, 1]], 0]]
 }
 ```
 
+- `conteggi`: numeri della lavorazione (corse lette e tenute, fermate, anomalie contate), informativi:
+  le chiavi possono crescere.
 - `fermate[i] = [stop_id, nome, lat, lon, nap]`. `lat`/`lon` a 5 decimali o `null`. `nap` = codice della
   fermata nella fonte (il Punto di Accesso Nazionale).
 - `calendari[j]` = stringa di bit con origine comune `validoDal`: il bit `k` vale `1` se e solo se la
   corsa parte il giorno `validoDal + k`. Gli `0` in coda si tolgono; stringhe uguali si scrivono una
   volta sola e si condividono.
 - `corse[n] = [numero, nome, categoria, route_type, passaggi, j]`:
-  - `numero` è il numero del treno; per i bus (e per ogni nome che non è un numero) è `"x"` + il nome
-    senza spazi né simboli (così non collide coi numeri dei treni).
-  - `nome` è sempre presente: `null` per i treni, il nome originale della corsa quando il `numero` è un
-    `x…`. In coda è riservato `numeroArrivo`, oggi non scritto.
+  - `numero` è il numero del treno quando la fonte lo dà come sole cifre, o come sigla + spazio + cifre
+    (`ET 91137` → `91137`). Per i bus e per ogni altro nome è `"x"` + il nome senza spazi né simboli
+    (`SA153` → `xSA153`), così non collide coi numeri dei treni. Non è una chiave: pochi numeri hanno
+    due corse lo stesso giorno (un treno che si divide in due sezioni, un bus pubblicato due volte);
+    `doppie` in `dati.json` dice quanti.
+  - `nome` è sempre presente: `null` quando `numero` è il numero del treno, il nome originale della
+    corsa quando è un `x…`. In coda è riservato `numeroArrivo`, oggi non scritto.
   - `categoria` ∈ `REG RV IC FR BUS`; `route_type` 2 treno, 3 bus; `j` è l'indice in `calendari`.
   - `passaggi = [[i, arrivo, sosta?, flag?]…]`: `i` indice in `fermate`; `arrivo` in minuti dal
     riferimento GTFS del giorno di partenza (oltre 1440 dopo la mezzanotte); `sosta` = partenza − arrivo
@@ -67,10 +73,11 @@ legge valida il file una volta e poi ne espande le corse del giorno che gli serv
 ### `stop_id` provvisori
 
 Per FNB, FAL e FDG le fermate escono oggi come `fnb:nap-…`, `fal:nap-…`, `fdg:nap-…` (il codice dopo
-`nap-` è l'identificativo della fermata nel Punto di Accesso Nazionale). È una forma **provvisoria**: con
-`stazioni.json` diventeranno `<rete>:<codice eticket>`. Il quinto campo di ogni fermata (`nap`) serve
-proprio a tradurli quando arriverà l'anagrafe. `dati.json` dichiara questa provvisorietà nel campo
-`provvisorio`.
+`nap-` è l'identificativo della fermata nel Punto di Accesso Nazionale). È una forma **provvisoria** per
+le stazioni di FNB e FAL: con `stazioni.json` diventeranno `<rete>:<codice eticket>`; le fermate dei
+bus e quelle di FDG, che un codice eticket non ce l'hanno, restano `nap-`. Il quinto campo di ogni
+fermata (`nap`) serve proprio a tradurli quando arriverà l'anagrafe. `dati.json` lo dichiara nel campo
+`provvisorio`, un array di avvisi in chiaro (oggi uno solo, su questi `stop_id` e sul campo `nap`).
 
 ## Fonti e licenze
 
@@ -80,6 +87,6 @@ proprio a tradurli quando arriverà l'anagrafe. `dati.json` dichiara questa prov
   [openpolis/geojson-italy](https://github.com/openpolis/geojson-italy) (ISTAT, CC-BY-4.0).
 - Coordinate delle stazioni © **OpenStreetMap** contributors, [ODbL](https://opendatacommons.org/licenses/odbl/):
   `stazioni.json` (in arrivo) sarà distribuito sotto ODbL.
-- Scioperi (in arrivo) dal feed pubblico del Ministero delle Infrastrutture e dei Trasporti.
+- Scioperi dal feed pubblico del Ministero delle Infrastrutture e dei Trasporti.
 
 I dettagli sono in `LICENZA.md`. Orari indicativi: per viaggiare fanno fede le fonti ufficiali.
