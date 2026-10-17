@@ -54,5 +54,12 @@
         "307477"
       ]
     }
+  },
+  "anagrafi": {
+    "stazioni": {
+      "file": "stazioni.json",
+      "sha256": "dac2f9137b3c7665d9e6336ec0f0f593c5e49a3d23d9c7746cd60586fb6dac4e",
+      "generato": "2026-10-17"
+    }
   }
 }

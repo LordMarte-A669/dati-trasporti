@@ -1,0 +1,5872 @@
+{
+  "schema": 1,
+  "generato": "2026-10-17",
+  "stazioni": [
+    {
+      "stop_id": "fal:S02110",
+      "nome": "Bari Centrale",
+      "lat": 41.11835,
+      "lon": 16.86876,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02110",
+        "nap": "TRAIN110-174_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02111",
+      "nome": "Bari Scalo",
+      "lat": 41.11292,
+      "lon": 16.85054,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02111",
+        "nap": "TRAIN111-177_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02112",
+      "nome": "Bari Policlinico",
+      "lat": 41.10981,
+      "lon": 16.85174,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02112",
+        "nap": "TRAIN112-175_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02114",
+      "nome": "Modugno",
+      "lat": 41.08657,
+      "lon": 16.77669,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02114",
+        "nap": "TRAIN114-181_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02115",
+      "nome": "Palo del Colle",
+      "lat": 41.05142,
+      "lon": 16.70808,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02115",
+        "nap": "TRAIN115-182_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02116",
+      "nome": "Binetto",
+      "lat": 41.02385,
+      "lon": 16.7005,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02116",
+        "nap": "TRAIN116-184_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02117",
+      "nome": "Grumo Appula",
+      "lat": 41.00857,
+      "lon": 16.7039,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02117",
+        "nap": "TRAIN117-180_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02118",
+      "nome": "Toritto",
+      "lat": 40.99593,
+      "lon": 16.68153,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02118",
+        "nap": "TRAIN118-183_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02119",
+      "nome": "Mellitto",
+      "lat": 40.94571,
+      "lon": 16.63946,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02119",
+        "nap": "TRAIN119-185_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02120",
+      "nome": "Pescariello",
+      "lat": 40.88684,
+      "lon": 16.61623,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02120",
+        "nap": "TRAIN120-186_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02121",
+      "nome": "Altamura",
+      "lat": 40.838,
+      "lon": 16.55182,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02121",
+        "nap": "TRAIN121-178_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02123",
+      "nome": "Venusio",
+      "lat": 40.73067,
+      "lon": 16.56573,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02123",
+        "nap": "TRAIN123-204_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02124",
+      "nome": "Matera Serra Rifusa",
+      "lat": 40.6847,
+      "lon": 16.58489,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02124",
+        "nap": "TRAIN124-187_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02125",
+      "nome": "Matera Villa Longo",
+      "lat": 40.67939,
+      "lon": 16.58743,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02125",
+        "nap": "TRAIN125-188_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02126",
+      "nome": "Matera Centrale",
+      "lat": 40.67941,
+      "lon": 16.5797,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02126",
+        "nap": "TRAIN126-189_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02127",
+      "nome": "Matera Sud",
+      "lat": 40.66309,
+      "lon": 16.59904,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02127",
+        "nap": "TRAIN127-190_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02128",
+      "nome": "Gravina",
+      "lat": 40.82598,
+      "lon": 16.41548,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02128",
+        "nap": "TRAIN128-179_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02131",
+      "nome": "Irsina Fermata (SA)",
+      "lat": 40.78845,
+      "lon": 16.22131,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02131",
+        "nap": "TRAIN131-231_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02132",
+      "nome": "Taccone Fermata (SA)",
+      "lat": 40.79438,
+      "lon": 16.16227,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02132",
+        "nap": "TRAIN132-230_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02134",
+      "nome": "Genzano",
+      "lat": 40.80345,
+      "lon": 16.04955,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02134",
+        "nap": "TRAIN134-205_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02136",
+      "nome": "Oppido Lucano",
+      "lat": 40.78189,
+      "lon": 15.9613,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02136",
+        "nap": "TRAIN136-211_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02137",
+      "nome": "Acerenza",
+      "lat": 40.76795,
+      "lon": 15.92592,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02137",
+        "nap": "TRAIN137-206_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02139",
+      "nome": "Pietragalla",
+      "lat": 40.73926,
+      "lon": 15.85423,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02139",
+        "nap": "TRAIN139-208_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02140",
+      "nome": "San Nicola",
+      "lat": 40.73329,
+      "lon": 15.80467,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02140",
+        "nap": "TRAIN140-209_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02141",
+      "nome": "Avigliano Citta",
+      "lat": 40.7372,
+      "lon": 15.75839,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02141",
+        "nap": "TRAIN141-212_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02142",
+      "nome": "Moccaro",
+      "lat": 40.73068,
+      "lon": 15.72222,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02142",
+        "nap": "TRAIN142-219_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02143",
+      "nome": "Avigliano Lucania",
+      "lat": 40.71509,
+      "lon": 15.7854,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02143",
+        "nap": "TRAIN143-213_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02144",
+      "nome": "Tiera",
+      "lat": 40.69783,
+      "lon": 15.81931,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02144",
+        "nap": "TRAIN144-218_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02146",
+      "nome": "Potenza Macchia Romana",
+      "lat": 40.65206,
+      "lon": 15.80279,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02146",
+        "nap": "TRAIN146-216_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02147",
+      "nome": "Potenza Santa Maria",
+      "lat": 40.64589,
+      "lon": 15.80056,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02147",
+        "nap": "TRAIN147-217_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02148",
+      "nome": "Potenza Rione Mancusi",
+      "lat": 40.64164,
+      "lon": 15.80337,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02148",
+        "nap": "TRAIN148-232_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02149",
+      "nome": "Potenza Citta",
+      "lat": 40.63853,
+      "lon": 15.80967,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02149",
+        "nap": "TRAIN149-214_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02150",
+      "nome": "Potenza San Rocco",
+      "lat": 40.64122,
+      "lon": 15.8136,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02150",
+        "nap": "TRAIN150-210_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02151",
+      "nome": "Potenza Inferiore",
+      "lat": 40.63023,
+      "lon": 15.80703,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02151",
+        "nap": "TRAIN151-215_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02152",
+      "nome": "Potenza Inferiore Scalo",
+      "lat": 40.62808,
+      "lon": 15.80008,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02152",
+        "nap": "TRAIN152-191_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:S02153",
+      "nome": "Potenza Gallitello",
+      "lat": 40.62818,
+      "lon": 15.79781,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S02153",
+        "nap": "TRAIN153-205_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-10_Rete_FAL_GTFS",
+      "nome": "Bari Via Brigata Regina 84",
+      "lat": 41.12634,
+      "lon": 16.8516,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-10_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-11_Rete_FAL_GTFS",
+      "nome": "Bari Via Crispi 161",
+      "lat": 41.12194,
+      "lon": 16.85161,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-11_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-12_Rete_FAL_GTFS",
+      "nome": "Bari Via Capruzzi (difronte civ.236)",
+      "lat": 41.11695,
+      "lon": 16.86686,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-12_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-13_Rete_FAL_GTFS",
+      "nome": "Bari Via Ennio 78 (Policlinico)",
+      "lat": 41.11291,
+      "lon": 16.86187,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-13_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-14_Rete_FAL_GTFS",
+      "nome": "Bari Via Don Luigi Sturzo 16",
+      "lat": 41.10707,
+      "lon": 16.87226,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-14_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-15_Rete_FAL_GTFS",
+      "nome": "Bari Via Papa Giovanni XXIII 145",
+      "lat": 41.10734,
+      "lon": 16.86424,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-15_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-16_Rete_FAL_GTFS",
+      "nome": "Bari Viale Papa Pio XII fronte civ. 4/a",
+      "lat": 41.1058,
+      "lon": 16.85978,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-16_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-171_Rete_FAL_GTFS",
+      "nome": "Bari Villaggio (fermata Amtab)",
+      "lat": 41.1078,
+      "lon": 16.82262,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-171_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-17_Rete_FAL_GTFS",
+      "nome": "Bari Largo Santa Scolastica",
+      "lat": 41.09554,
+      "lon": 16.85451,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-17_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-18_Rete_FAL_GTFS",
+      "nome": "Bari Villaggio (di fronte fermata Amtab)",
+      "lat": 41.10773,
+      "lon": 16.82222,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-18_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-1_Rete_FAL_GTFS",
+      "nome": "Bari Via Oberdan (di fronte civ. 6)",
+      "lat": 41.11714,
+      "lon": 16.88709,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-1_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-238_Rete_FAL_GTFS",
+      "nome": "Bari Via Capruzzi - Terminal RFI",
+      "lat": 41.11713,
+      "lon": 16.86247,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-238_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-2_Rete_FAL_GTFS",
+      "nome": "Bari Via Caldarola (Polivalente)",
+      "lat": 41.10196,
+      "lon": 16.91015,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-2_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-3_Rete_FAL_GTFS",
+      "nome": "Bari Via Gentile (fermata Regione Puglia)",
+      "lat": 41.10744,
+      "lon": 16.91323,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-3_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-4_Rete_FAL_GTFS",
+      "nome": "Bari Via Bovio (Mater Dei)",
+      "lat": 41.09886,
+      "lon": 16.88453,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-4_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-5_Rete_FAL_GTFS",
+      "nome": "Bari Via della Resistenza (FAMILA)",
+      "lat": 41.10623,
+      "lon": 16.87514,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-5_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-63_Rete_FAL_GTFS",
+      "nome": "Bari Via Crispi (di fronte civ. 225)",
+      "lat": 41.12122,
+      "lon": 16.84964,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-63_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-64_Rete_FAL_GTFS",
+      "nome": "Bari Via Brigata Regina n. 1",
+      "lat": 41.12233,
+      "lon": 16.85197,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-64_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-65_Rete_FAL_GTFS",
+      "nome": "Bari Corso Vittorio Veneto 7",
+      "lat": 41.12813,
+      "lon": 16.85884,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-65_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-66_Rete_FAL_GTFS",
+      "nome": "Bari Lung. Di Crollalanza 15",
+      "lat": 41.12512,
+      "lon": 16.87384,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-66_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-67_Rete_FAL_GTFS",
+      "nome": "Bari Lung. Nazario Sauro 49",
+      "lat": 41.11969,
+      "lon": 16.88782,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-67_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-68_Rete_FAL_GTFS",
+      "nome": "Bari Via Peucetia 50",
+      "lat": 41.11426,
+      "lon": 16.88954,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-68_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-69_Rete_FAL_GTFS",
+      "nome": "Bari Via Camillo Rosalba 42",
+      "lat": 41.09523,
+      "lon": 16.85489,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-69_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-6_Rete_FAL_GTFS",
+      "nome": "Bari Via Peucetia 23",
+      "lat": 41.11408,
+      "lon": 16.89029,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-6_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-70_Rete_FAL_GTFS",
+      "nome": "Bari Viale Papa Pio XII 4/a",
+      "lat": 41.1058,
+      "lon": 16.85978,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-70_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-71_Rete_FAL_GTFS",
+      "nome": "Bari Via Papa Giovanni XXIII di fronte civ 145",
+      "lat": 41.10716,
+      "lon": 16.8641,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-71_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-72_Rete_FAL_GTFS",
+      "nome": "Bari Via Don Luigi Sturzo 19",
+      "lat": 41.10696,
+      "lon": 16.87238,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-72_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-73_Rete_FAL_GTFS",
+      "nome": "Bari Via O. Flacco (civ. 6 Policlinico)",
+      "lat": 41.11071,
+      "lon": 16.86188,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-73_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-74_Rete_FAL_GTFS",
+      "nome": "Bari Via Capruzzi (Largo Sorrentino)",
+      "lat": 41.11702,
+      "lon": 16.87006,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-74_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-75_Rete_FAL_GTFS",
+      "nome": "Bari Via Amendola (fronte Ospedale G.XXIII)",
+      "lat": 41.09935,
+      "lon": 16.88924,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-75_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-7_Rete_FAL_GTFS",
+      "nome": "Bari Lung. Nazario Sauro difr.civ.49",
+      "lat": 41.12152,
+      "lon": 16.88181,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-7_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-8_Rete_FAL_GTFS",
+      "nome": "Bari Lung. Di Crollalanza difr.civ.15",
+      "lat": 41.12509,
+      "lon": 16.87406,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-8_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS210-9_Rete_FAL_GTFS",
+      "nome": "Bari Corso Vittorio Veneto 12",
+      "lat": 41.13351,
+      "lon": 16.84447,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS210-9_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-19_Rete_FAL_GTFS",
+      "nome": "Modugno Piscina Preti (via Paolo Marzi civ. 23)",
+      "lat": 41.08837,
+      "lon": 16.77823,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-19_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-20_Rete_FAL_GTFS",
+      "nome": "Modugno 84 SP1 (nuovo pignone)",
+      "lat": 41.09845,
+      "lon": 16.80685,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-20_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-21_Rete_FAL_GTFS",
+      "nome": "Modugno Via X Marzo (di fronte al civ. 61)",
+      "lat": 41.08225,
+      "lon": 16.79161,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-21_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-22_Rete_FAL_GTFS",
+      "nome": "Modugno Viale della Repubblica 29",
+      "lat": 41.08385,
+      "lon": 16.79077,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-22_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-23_Rete_FAL_GTFS",
+      "nome": "Modugno Via Bitritto (p.zza De Nicola)",
+      "lat": 41.07554,
+      "lon": 16.78593,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-23_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-24_Rete_FAL_GTFS",
+      "nome": "Modugno Hotel A14 / SP1",
+      "lat": 41.08854,
+      "lon": 16.79044,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-24_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-25_Rete_FAL_GTFS",
+      "nome": "Modugno Via Roma 54",
+      "lat": 41.08654,
+      "lon": 16.78716,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-25_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-26_Rete_FAL_GTFS",
+      "nome": "Modugno Corso Vittorio Emanuele 67",
+      "lat": 41.08345,
+      "lon": 16.77973,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-26_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-27_Rete_FAL_GTFS",
+      "nome": "Modugno Piazza Garibaldi 13",
+      "lat": 41.08161,
+      "lon": 16.77854,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-27_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-28_Rete_FAL_GTFS",
+      "nome": "Modugno Piazza Garibaldi 44",
+      "lat": 41.08159,
+      "lon": 16.77869,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-28_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-61_Rete_FAL_GTFS",
+      "nome": "Modugno Viale della Repubblica 50",
+      "lat": 41.0843,
+      "lon": 16.79057,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-61_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS211-62_Rete_FAL_GTFS",
+      "nome": "Modugno Via Roma di fronte civ. 93",
+      "lat": 41.08615,
+      "lon": 16.78662,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS211-62_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS214-242_Rete_FAL_GTFS",
+      "nome": "Bitetto Via Beato Giacomo civ.3/5",
+      "lat": 41.04006,
+      "lon": 16.74719,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS214-242_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS214-29_Rete_FAL_GTFS",
+      "nome": "Bitetto Fermata Via Bari SP1",
+      "lat": 41.04132,
+      "lon": 16.75032,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS214-29_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS214-30_Rete_FAL_GTFS",
+      "nome": "Bitetto Via Beato Giacomo civ.141",
+      "lat": 41.03834,
+      "lon": 16.73844,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS214-30_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS214-60_Rete_FAL_GTFS",
+      "nome": "Bitetto Via Cardinale Colasuonno",
+      "lat": 41.03641,
+      "lon": 16.73995,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS214-60_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS215-198_Rete_FAL_GTFS",
+      "nome": "Palo del Colle Via Sardegna fronte civ. 18",
+      "lat": 41.04944,
+      "lon": 16.69581,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS215-198_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS215-31_Rete_FAL_GTFS",
+      "nome": "Palo del Colle Piazza Diaz",
+      "lat": 41.05549,
+      "lon": 16.70678,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS215-31_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS215-32_Rete_FAL_GTFS",
+      "nome": "Palo del Colle Via Ungaretti",
+      "lat": 41.06292,
+      "lon": 16.70313,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS215-32_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS215-33_Rete_FAL_GTFS",
+      "nome": "Palo del Colle Auricarro - Zona 167",
+      "lat": 41.05325,
+      "lon": 16.69737,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS215-33_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS216-34_Rete_FAL_GTFS",
+      "nome": "Binetto Piazza Umberto",
+      "lat": 41.02498,
+      "lon": 16.71023,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS216-34_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS217-244_Rete_FAL_GTFS",
+      "nome": "Grumo Appula Via O. Fallaci",
+      "lat": 41.00448,
+      "lon": 16.71333,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS217-244_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS217-35_Rete_FAL_GTFS",
+      "nome": "Grumo Appula Via Rella fronte civ. 86",
+      "lat": 41.01292,
+      "lon": 16.70668,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS217-35_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS217-36_Rete_FAL_GTFS",
+      "nome": "Grumo Appula Via C.A. Della Chiesa (Via Cassano) dif.civ.29",
+      "lat": 41.0061,
+      "lon": 16.71175,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS217-36_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS218-37_Rete_FAL_GTFS",
+      "nome": "Toritto Via G. Pugliese 314",
+      "lat": 40.99497,
+      "lon": 16.67684,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS218-37_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS218-59_Rete_FAL_GTFS",
+      "nome": "Toritto Via G. Pugliese 267",
+      "lat": 40.99512,
+      "lon": 16.67704,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS218-59_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-239_Rete_FAL_GTFS",
+      "nome": "Altamura HUB Via Santeramo",
+      "lat": 40.82562,
+      "lon": 16.56472,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-239_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-243_Rete_FAL_GTFS",
+      "nome": "Altamura HUB Stazione FS",
+      "lat": 40.83737,
+      "lon": 16.55022,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-243_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-38_Rete_FAL_GTFS",
+      "nome": "Altamura Via Bari 25",
+      "lat": 40.83036,
+      "lon": 16.55435,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-38_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-39_Rete_FAL_GTFS",
+      "nome": "Altamura Via V. Veneto (S.Teresa)",
+      "lat": 40.82922,
+      "lon": 16.55091,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-39_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-40_Rete_FAL_GTFS",
+      "nome": "Altamura Via Gravina 98",
+      "lat": 40.82684,
+      "lon": 16.52464,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-40_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-41_Rete_FAL_GTFS",
+      "nome": "Altamura Via Carpentino (civ. 200)",
+      "lat": 40.81802,
+      "lon": 16.56405,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-41_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-42_Rete_FAL_GTFS",
+      "nome": "Altamura Via Matera (civ.68)",
+      "lat": 40.82034,
+      "lon": 16.55408,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-42_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-43_Rete_FAL_GTFS",
+      "nome": "Altamura Ospedale della Murgia",
+      "lat": 40.82,
+      "lon": 16.47098,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-43_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-55_Rete_FAL_GTFS",
+      "nome": "Altamura Via Matera (di fronte civ. 68)",
+      "lat": 40.82029,
+      "lon": 16.55388,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-55_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-56_Rete_FAL_GTFS",
+      "nome": "Altamura Via Carpentino (di fronte civ. 200)",
+      "lat": 40.81807,
+      "lon": 16.56419,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-56_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-57_Rete_FAL_GTFS",
+      "nome": "Altamura Via Gravina 81",
+      "lat": 40.82861,
+      "lon": 16.54397,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-57_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS219-58_Rete_FAL_GTFS",
+      "nome": "Altamura Via Bari 14",
+      "lat": 40.83054,
+      "lon": 16.55474,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS219-58_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS220-196_Rete_FAL_GTFS",
+      "nome": "Matera Piazza Matteotti (p.zzale Stazione C.le FAL)",
+      "lat": 40.66625,
+      "lon": 16.60137,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS220-196_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS220-197_Rete_FAL_GTFS",
+      "nome": "Matera Sud (Ospedale) Pari",
+      "lat": 40.65544,
+      "lon": 16.61261,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS220-197_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS220-51_Rete_FAL_GTFS",
+      "nome": "Matera Villa Longo Via Nazionale",
+      "lat": 40.67868,
+      "lon": 16.59036,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS220-51_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS220-52_Rete_FAL_GTFS",
+      "nome": "Matera Stazione C.le FAL",
+      "lat": 40.66625,
+      "lon": 16.60137,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS220-52_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS220-53_Rete_FAL_GTFS",
+      "nome": "Matera Sud - (Ospedale)",
+      "lat": 40.65544,
+      "lon": 16.61261,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS220-53_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS221-44_Rete_FAL_GTFS",
+      "nome": "Gravina Via Bari 55",
+      "lat": 40.8176,
+      "lon": 16.42603,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS221-44_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS221-45_Rete_FAL_GTFS",
+      "nome": "Gravina P.zza S. Padre Pio / P.le FS",
+      "lat": 40.82512,
+      "lon": 16.41856,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS221-45_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS221-46_Rete_FAL_GTFS",
+      "nome": "Gravina Piazzale Stazione FAL",
+      "lat": 40.82617,
+      "lon": 16.41809,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS221-46_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS222-47_Rete_FAL_GTFS",
+      "nome": "Irsina Via Giovanni Amendola 3",
+      "lat": 40.75384,
+      "lon": 16.23609,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS222-47_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS223-48_Rete_FAL_GTFS",
+      "nome": "Poggiorsini Via V. Veneto",
+      "lat": 40.9175,
+      "lon": 16.2565,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS223-48_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS224-49_Rete_FAL_GTFS",
+      "nome": "Spinazzola Corso Umberto",
+      "lat": 40.96705,
+      "lon": 16.09251,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS224-49_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fal:nap-BUS225-50_Rete_FAL_GTFS",
+      "nome": "Genzano Corso Vittorio Emanuele",
+      "lat": 40.84947,
+      "lon": 16.03254,
+      "rete": "fal",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BUS225-50_Rete_FAL_GTFS"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-APRICENA_Rete_FDG",
+      "nome": "Stazione di Apricena",
+      "lat": 41.77902,
+      "lon": 15.44543,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "APRICENA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-BELLARIVA_Rete_FDG",
+      "nome": "Fermata Bellariva",
+      "lat": 41.93742,
+      "lon": 15.95515,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "BELLARIVA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-CAGNANO_Rete_FDG",
+      "nome": "Stazione di Cagnano Varano",
+      "lat": 41.8254,
+      "lon": 15.76974,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "CAGNANO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-CALENELLE_Rete_FDG",
+      "nome": "Stazione di Peschici Calenella",
+      "lat": 41.93648,
+      "lon": 15.98506,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "CALENELLE_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-CARPINO1_Rete_FDG",
+      "nome": "Stazione di Carpino",
+      "lat": 41.85417,
+      "lon": 15.82048,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "CARPINO1_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-DONBOSCO_Rete_FDG",
+      "nome": "Fermata Don Bosco",
+      "lat": 41.47524,
+      "lon": 15.46834,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "DONBOSCO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-FOGGIA_Rete_FDG",
+      "nome": "Stazione di Foggia",
+      "lat": 41.46585,
+      "lon": 15.55565,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "FOGGIA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-GUARDIOLA_Rete_FDG",
+      "nome": "Fermata Guardiola",
+      "lat": 41.9259,
+      "lon": 15.85479,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "GUARDIOLA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-ISCHITEFDG_Rete_FDG",
+      "nome": "Stazione di Ischitella",
+      "lat": 41.91439,
+      "lon": 15.84935,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "ISCHITEFDG_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-LUCERA2_Rete_FDG",
+      "nome": "Fermata Lucera 2",
+      "lat": 41.49743,
+      "lon": 15.34159,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "LUCERA2_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-LUCERA_Rete_FDG",
+      "nome": "Stazione di Lucera",
+      "lat": 41.49962,
+      "lon": 15.33164,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "LUCERA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-MANFREDONI0_Rete_FDG",
+      "nome": "Manfredonia",
+      "lat": 41.62657,
+      "lon": 15.91357,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "MANFREDONI0_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-MULINO_Rete_FDG",
+      "nome": "Fermata Mulino di Mare",
+      "lat": 41.93249,
+      "lon": 15.91805,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "MULINO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-MURGENERE_Rete_FDG",
+      "nome": "Fermata Murge Nere",
+      "lat": 41.93475,
+      "lon": 15.93786,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "MURGENERE_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-PPERRONE_Rete_FDG",
+      "nome": "Fermata Portone Perrone",
+      "lat": 41.8258,
+      "lon": 15.54962,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "PPERRONE_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-RODI1_Rete_FDG",
+      "nome": "Stazione di Rodi Garganico",
+      "lat": 41.92918,
+      "lon": 15.89063,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "RODI1_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-RODIPORTO_Rete_FDG",
+      "nome": "Fermata Rodi Porto",
+      "lat": 41.92952,
+      "lon": 15.88794,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "RODIPORTO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-SANNICANDR_Rete_FDG",
+      "nome": "Stazione di San Nicandro Garganico",
+      "lat": 41.83058,
+      "lon": 15.5758,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "SANNICANDR_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-SANTABARBARA_Rete_FDG",
+      "nome": "Fermata Santa Barbara",
+      "lat": 41.92679,
+      "lon": 15.86578,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "SANTABARBARA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-SMENAIO_Rete_FDG",
+      "nome": "Stazione di Vico - San Menaio",
+      "lat": 41.93593,
+      "lon": 15.94655,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "SMENAIO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-SOTTOLACOSTA_Rete_FDG",
+      "nome": "Fermata Sotto la Costa",
+      "lat": 41.9286,
+      "lon": 15.87814,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "SOTTOLACOSTA_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fdg:nap-SSEVERO_Rete_FDG",
+      "nome": "Stazione di San Severo",
+      "lat": 41.68451,
+      "lon": 15.39257,
+      "rete": "fdg",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": "SSEVERO_Rete_FDG"
+      }
+    },
+    {
+      "stop_id": "fnb:S01110",
+      "nome": "Bari",
+      "lat": 41.11836,
+      "lon": 16.86919,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01110",
+        "nap": "0_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01115",
+      "nome": "Quintino Sella",
+      "lat": 41.1181,
+      "lon": 16.86208,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01115",
+        "nap": "100_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01120",
+      "nome": "Brigata Bari",
+      "lat": 41.1181,
+      "lon": 16.85188,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01120",
+        "nap": "200_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01125",
+      "nome": "Francesco Crispi",
+      "lat": 41.12026,
+      "lon": 16.8464,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01125",
+        "nap": "300_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01130",
+      "nome": "Fesca San Girolamo",
+      "lat": 41.12987,
+      "lon": 16.82365,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01130",
+        "nap": "400_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01135",
+      "nome": "Palese",
+      "lat": 41.14924,
+      "lon": 16.78029,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01135",
+        "nap": "500_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01136",
+      "nome": "Europa",
+      "lat": 41.13536,
+      "lon": 16.78144,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01136",
+        "nap": "550_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01140",
+      "nome": "Macchie",
+      "lat": 41.14796,
+      "lon": 16.76898,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01140",
+        "nap": "600_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01141",
+      "nome": "Aeroporto",
+      "lat": 41.13242,
+      "lon": 16.76586,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01141",
+        "nap": "650_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01144",
+      "nome": "Medici",
+      "lat": 41.11728,
+      "lon": 16.69777,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01144",
+        "nap": "830_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01145",
+      "nome": "Bitonto",
+      "lat": 41.11324,
+      "lon": 16.68448,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01145",
+        "nap": "900_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01150",
+      "nome": "Sovereto",
+      "lat": 41.11776,
+      "lon": 16.58505,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01150",
+        "nap": "1200_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01155",
+      "nome": "Terlizzi",
+      "lat": 41.1266,
+      "lon": 16.54858,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01155",
+        "nap": "1300_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01160",
+      "nome": "Ruvo di Puglia",
+      "lat": 41.11494,
+      "lon": 16.47914,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01160",
+        "nap": "1600_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01164",
+      "nome": "Corato Sud",
+      "lat": 41.1453,
+      "lon": 16.41988,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01164",
+        "nap": "1800_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01165",
+      "nome": "Corato",
+      "lat": 41.15675,
+      "lon": 16.41768,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01165",
+        "nap": "1900_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01169",
+      "nome": "Andria Sud",
+      "lat": 41.22465,
+      "lon": 16.31462,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01169",
+        "nap": "2200_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01170",
+      "nome": "Andria",
+      "lat": 41.23229,
+      "lon": 16.30148,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01170",
+        "nap": "2300_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01175",
+      "nome": "Barletta Scalo",
+      "lat": 41.30699,
+      "lon": 16.28868,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01175",
+        "nap": "2700_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01180",
+      "nome": "Barletta",
+      "lat": 41.31483,
+      "lon": 16.27848,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01180",
+        "nap": "2800_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01190",
+      "nome": "San Paolo Tesoro",
+      "lat": 41.12979,
+      "lon": 16.80216,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01190",
+        "nap": "410_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01191",
+      "nome": "San Paolo Cittadella",
+      "lat": 41.12678,
+      "lon": 16.79277,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01191",
+        "nap": "420_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01192",
+      "nome": "San Paolo S.Gabriele",
+      "lat": 41.12403,
+      "lon": 16.78528,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01192",
+        "nap": "430_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01193",
+      "nome": "San Paolo Ospedale",
+      "lat": 41.11725,
+      "lon": 16.78012,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01193",
+        "nap": "440_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "fnb:S01194",
+      "nome": "Cecilia",
+      "lat": 41.11651,
+      "lon": 16.78633,
+      "rete": "fnb",
+      "x_codici": {
+        "vt": null,
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": "S01194",
+        "nap": "441_Rete_FNB"
+      }
+    },
+    {
+      "stop_id": "rfi:S00219",
+      "nome": "TORINO PORTA NUOVA",
+      "lat": 45.06097,
+      "lon": 7.67747,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S00219",
+        "lefrecce": "830000219",
+        "rfi": 2876,
+        "eticket": null,
+        "nap": "830000219"
+      }
+    },
+    {
+      "stop_id": "rfi:S01645",
+      "nome": "MILANO PORTA GARIBALDI",
+      "lat": 45.48492,
+      "lon": 9.18769,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S01645",
+        "lefrecce": "830001645",
+        "rfi": 1715,
+        "eticket": null,
+        "nap": "830001645"
+      }
+    },
+    {
+      "stop_id": "rfi:S01700",
+      "nome": "MILANO CENTRALE",
+      "lat": 45.48634,
+      "lon": 9.20454,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S01700",
+        "lefrecce": "830001700",
+        "rfi": 1728,
+        "eticket": null,
+        "nap": "830001700"
+      }
+    },
+    {
+      "stop_id": "rfi:S02026",
+      "nome": "BOLZANO",
+      "lat": 46.49632,
+      "lon": 11.35857,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S02026",
+        "lefrecce": "830002026",
+        "rfi": 685,
+        "eticket": null,
+        "nap": "830002026"
+      }
+    },
+    {
+      "stop_id": "rfi:S02589",
+      "nome": "VENEZIA MESTRE",
+      "lat": 45.48203,
+      "lon": 12.23208,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S02589",
+        "lefrecce": "830002589",
+        "rfi": 3002,
+        "eticket": null,
+        "nap": "830002589"
+      }
+    },
+    {
+      "stop_id": "rfi:S02593",
+      "nome": "VENEZIA S.LUCIA",
+      "lat": 45.44147,
+      "lon": 12.32089,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S02593",
+        "lefrecce": "830002593",
+        "rfi": 3009,
+        "eticket": null,
+        "nap": "830002593"
+      }
+    },
+    {
+      "stop_id": "rfi:S07810",
+      "nome": "PESCARA",
+      "lat": 42.46713,
+      "lon": 14.20507,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S07810",
+        "lefrecce": "830007810",
+        "rfi": 2096,
+        "eticket": null,
+        "nap": "830007810"
+      }
+    },
+    {
+      "stop_id": "rfi:S07825",
+      "nome": "MONTENERO PETACCIATO",
+      "lat": 42.03222,
+      "lon": 14.85102,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S07825",
+        "lefrecce": "830007825",
+        "rfi": 1814,
+        "eticket": null,
+        "nap": "830007825"
+      }
+    },
+    {
+      "stop_id": "rfi:S07900",
+      "nome": "TERAMO",
+      "lat": 42.6601,
+      "lon": 13.71589,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S07900",
+        "lefrecce": "830007900",
+        "rfi": 2827,
+        "eticket": null,
+        "nap": "830007900"
+      }
+    },
+    {
+      "stop_id": "rfi:S08217",
+      "nome": "ROMA TIBURTINA",
+      "lat": 41.91077,
+      "lon": 12.53075,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S08217",
+        "lefrecce": "830008217",
+        "rfi": 2385,
+        "eticket": null,
+        "nap": "830008217"
+      }
+    },
+    {
+      "stop_id": "rfi:S08406",
+      "nome": "ROMA OSTIENSE",
+      "lat": 41.87252,
+      "lon": 12.48392,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S08406",
+        "lefrecce": "830008406",
+        "rfi": 2379,
+        "eticket": null,
+        "nap": "830008406"
+      }
+    },
+    {
+      "stop_id": "rfi:S08409",
+      "nome": "ROMA TERMINI",
+      "lat": 41.9005,
+      "lon": 12.50203,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S08409",
+        "lefrecce": "830008409",
+        "rfi": 2416,
+        "eticket": null,
+        "nap": "830008409"
+      }
+    },
+    {
+      "stop_id": "rfi:S08671",
+      "nome": "CASSINO",
+      "lat": 41.48382,
+      "lon": 13.83213,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S08671",
+        "lefrecce": "830008671",
+        "rfi": 955,
+        "eticket": null,
+        "nap": "830008671"
+      }
+    },
+    {
+      "stop_id": "rfi:S09050",
+      "nome": "CARPINONE",
+      "lat": 41.58731,
+      "lon": 14.3268,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09050",
+        "lefrecce": "830009050",
+        "rfi": 914,
+        "eticket": null,
+        "nap": "830009050"
+      }
+    },
+    {
+      "stop_id": "rfi:S09053",
+      "nome": "ISERNIA",
+      "lat": 41.59626,
+      "lon": 14.23542,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09053",
+        "lefrecce": "830009053",
+        "rfi": 1497,
+        "eticket": null,
+        "nap": "830009053"
+      }
+    },
+    {
+      "stop_id": "rfi:S09058",
+      "nome": "ROCCA RAVINDOLA",
+      "lat": 41.52041,
+      "lon": 14.12297,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09058",
+        "lefrecce": "830009058",
+        "rfi": 2397,
+        "eticket": null,
+        "nap": "830009058"
+      }
+    },
+    {
+      "stop_id": "rfi:S09060",
+      "nome": "VENAFRO",
+      "lat": 41.48238,
+      "lon": 14.04873,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09060",
+        "lefrecce": "830009060",
+        "rfi": 3007,
+        "eticket": null,
+        "nap": "830009060"
+      }
+    },
+    {
+      "stop_id": "rfi:S09062",
+      "nome": "SESTO CAMPANO",
+      "lat": 41.4194,
+      "lon": 14.08891,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09062",
+        "lefrecce": "830009062",
+        "rfi": 2714,
+        "eticket": null,
+        "nap": "830009062"
+      }
+    },
+    {
+      "stop_id": "rfi:S09203",
+      "nome": "VAIRANO",
+      "lat": 41.31683,
+      "lon": 14.10402,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09203",
+        "lefrecce": "830009203",
+        "rfi": 2967,
+        "eticket": null,
+        "nap": "830009203"
+      }
+    },
+    {
+      "stop_id": "rfi:S09211",
+      "nome": "CASERTA",
+      "lat": 41.06877,
+      "lon": 14.32759,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09211",
+        "lefrecce": "830009211",
+        "rfi": 945,
+        "eticket": null,
+        "nap": "830009211"
+      }
+    },
+    {
+      "stop_id": "rfi:S09218",
+      "nome": "NAPOLI CENTRALE",
+      "lat": 40.85223,
+      "lon": 14.27291,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09218",
+        "lefrecce": "830009218",
+        "rfi": 1888,
+        "eticket": null,
+        "nap": "830009218"
+      }
+    },
+    {
+      "stop_id": "rfi:S09311",
+      "nome": "BENEVENTO",
+      "lat": 41.14089,
+      "lon": 14.77,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09311",
+        "lefrecce": "830009311",
+        "rfi": 626,
+        "eticket": null,
+        "nap": "830009311"
+      }
+    },
+    {
+      "stop_id": "rfi:S09321",
+      "nome": "BOVINO DELICETO",
+      "lat": 41.27684,
+      "lon": 15.36926,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09321",
+        "lefrecce": "830009321",
+        "rfi": 722,
+        "eticket": null,
+        "nap": "830009321"
+      }
+    },
+    {
+      "stop_id": "rfi:S09453",
+      "nome": "BOIANO",
+      "lat": 41.48707,
+      "lon": 14.47456,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09453",
+        "lefrecce": "830009453",
+        "rfi": 681,
+        "eticket": null,
+        "nap": "830009453"
+      }
+    },
+    {
+      "stop_id": "rfi:S09457",
+      "nome": "VINCHIATURO",
+      "lat": 41.49295,
+      "lon": 14.59802,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09457",
+        "lefrecce": "830009457",
+        "rfi": 3112,
+        "eticket": null,
+        "nap": "830009457"
+      }
+    },
+    {
+      "stop_id": "rfi:S09459",
+      "nome": "CAMPOBASSO",
+      "lat": 41.5572,
+      "lon": 14.66394,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09459",
+        "lefrecce": "830009459",
+        "rfi": 827,
+        "eticket": null,
+        "nap": "830009459"
+      }
+    },
+    {
+      "stop_id": "rfi:S09462",
+      "nome": "CAMPOLIETO MONACILIONE",
+      "lat": 41.64157,
+      "lon": 14.76545,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09462",
+        "lefrecce": "830009462",
+        "rfi": 836,
+        "eticket": null,
+        "nap": "830009462"
+      }
+    },
+    {
+      "stop_id": "rfi:S09463",
+      "nome": "RIPABOTTONI S.ELIA",
+      "lat": 41.6686,
+      "lon": 14.84436,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09463",
+        "lefrecce": "830009463",
+        "rfi": 2363,
+        "eticket": null,
+        "nap": "830009463"
+      }
+    },
+    {
+      "stop_id": "rfi:S09465",
+      "nome": "CASACALENDA GUARDIALFIERA",
+      "lat": 41.73704,
+      "lon": 14.84961,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09465",
+        "lefrecce": "830009465",
+        "rfi": 922,
+        "eticket": null,
+        "nap": "830009465"
+      }
+    },
+    {
+      "stop_id": "rfi:S09466",
+      "nome": "LARINO",
+      "lat": 41.79904,
+      "lon": 14.91823,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09466",
+        "lefrecce": "830009466",
+        "rfi": 1534,
+        "eticket": null,
+        "nap": "830009466"
+      }
+    },
+    {
+      "stop_id": "rfi:S09503",
+      "nome": "MORCONE",
+      "lat": 41.3395,
+      "lon": 14.67766,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09503",
+        "lefrecce": "830009503",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830009503"
+      }
+    },
+    {
+      "stop_id": "rfi:S09800",
+      "nome": "NAPOLI S.GIOVANNI BARRA",
+      "lat": 40.83055,
+      "lon": 14.30782,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09800",
+        "lefrecce": "830009800",
+        "rfi": 1882,
+        "eticket": null,
+        "nap": "830009800"
+      }
+    },
+    {
+      "stop_id": "rfi:S09814",
+      "nome": "NOCERA INFERIORE",
+      "lat": 40.74439,
+      "lon": 14.63536,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09814",
+        "lefrecce": "830009814",
+        "rfi": 1905,
+        "eticket": null,
+        "nap": "830009814"
+      }
+    },
+    {
+      "stop_id": "rfi:S09818",
+      "nome": "SALERNO",
+      "lat": 40.67412,
+      "lon": 14.77282,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09818",
+        "lefrecce": "830009818",
+        "rfi": 2617,
+        "eticket": null,
+        "nap": "830009818"
+      }
+    },
+    {
+      "stop_id": "rfi:S09823",
+      "nome": "BATTIPAGLIA",
+      "lat": 40.60562,
+      "lon": 14.98315,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09823",
+        "lefrecce": "830009823",
+        "rfi": 14,
+        "eticket": null,
+        "nap": "830009823"
+      }
+    },
+    {
+      "stop_id": "rfi:S09830",
+      "nome": "BALVANO R.",
+      "lat": 40.64836,
+      "lon": 15.49531,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09830",
+        "lefrecce": "830009830",
+        "rfi": 3348,
+        "eticket": null,
+        "nap": "830009830"
+      }
+    },
+    {
+      "stop_id": "rfi:S09831",
+      "nome": "BELLA MURO",
+      "lat": 40.70098,
+      "lon": 15.54293,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09831",
+        "lefrecce": "830009831",
+        "rfi": 617,
+        "eticket": null,
+        "nap": "830009831"
+      }
+    },
+    {
+      "stop_id": "rfi:S09832",
+      "nome": "BARAGIANO",
+      "lat": 40.69426,
+      "lon": 15.57092,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09832",
+        "lefrecce": "830009832",
+        "rfi": 584,
+        "eticket": null,
+        "nap": "830009832"
+      }
+    },
+    {
+      "stop_id": "rfi:S09833",
+      "nome": "PICERNO",
+      "lat": 40.64035,
+      "lon": 15.64169,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09833",
+        "lefrecce": "830009833",
+        "rfi": 2129,
+        "eticket": null,
+        "nap": "830009833"
+      }
+    },
+    {
+      "stop_id": "rfi:S09834",
+      "nome": "TITO",
+      "lat": 40.60725,
+      "lon": 15.69831,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09834",
+        "lefrecce": "830009834",
+        "rfi": 2852,
+        "eticket": null,
+        "nap": "830009834"
+      }
+    },
+    {
+      "stop_id": "rfi:S09838",
+      "nome": "FRANCIOSA",
+      "lat": 40.67869,
+      "lon": 15.62449,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09838",
+        "lefrecce": "830009838",
+        "rfi": 1369,
+        "eticket": null,
+        "nap": "830009838"
+      }
+    },
+    {
+      "stop_id": "rfi:S09903",
+      "nome": "POLLA",
+      "lat": 40.51128,
+      "lon": 15.49725,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09903",
+        "lefrecce": "830009903",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830009903"
+      }
+    },
+    {
+      "stop_id": "rfi:S09911",
+      "nome": "LAGONEGRO",
+      "lat": 40.12012,
+      "lon": 15.7623,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09911",
+        "lefrecce": "830009911",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830009911"
+      }
+    },
+    {
+      "stop_id": "rfi:S09913",
+      "nome": "CASALETTO",
+      "lat": 40.16852,
+      "lon": 15.7189,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09913",
+        "lefrecce": "830009913",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830009913"
+      }
+    },
+    {
+      "stop_id": "rfi:S11001",
+      "nome": "Potenza Univ.",
+      "lat": 40.64326,
+      "lon": 15.81183,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11001",
+        "lefrecce": "830011001",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011001"
+      }
+    },
+    {
+      "stop_id": "rfi:S11003",
+      "nome": "Villaggio Lav.",
+      "lat": 41.10297,
+      "lon": 16.81317,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11003",
+        "lefrecce": "830011003",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011003"
+      }
+    },
+    {
+      "stop_id": "rfi:S11004",
+      "nome": "Bari Torre Quetta",
+      "lat": 41.11158,
+      "lon": 16.91581,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11004",
+        "lefrecce": "830011004",
+        "rfi": 2699,
+        "eticket": null,
+        "nap": "830011004"
+      }
+    },
+    {
+      "stop_id": "rfi:S11019",
+      "nome": "TERMOLI",
+      "lat": 41.99945,
+      "lon": 14.99281,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11019",
+        "lefrecce": "830011019",
+        "rfi": 2832,
+        "eticket": null,
+        "nap": "830011019"
+      }
+    },
+    {
+      "stop_id": "rfi:S11020",
+      "nome": "CAMPOMARINO",
+      "lat": 41.95727,
+      "lon": 15.04231,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11020",
+        "lefrecce": "830011020",
+        "rfi": 838,
+        "eticket": null,
+        "nap": "830011020"
+      }
+    },
+    {
+      "stop_id": "rfi:S11021",
+      "nome": "CHIEUTI SERRACAPRIOLA",
+      "lat": 41.92175,
+      "lon": 15.15853,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11021",
+        "lefrecce": "830011021",
+        "rfi": 1092,
+        "eticket": null,
+        "nap": "830011021"
+      }
+    },
+    {
+      "stop_id": "rfi:S11023",
+      "nome": "POGGIO IMPERIALE",
+      "lat": 41.80765,
+      "lon": 15.3507,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11023",
+        "lefrecce": "830011023",
+        "rfi": 2190,
+        "eticket": null,
+        "nap": "830011023"
+      }
+    },
+    {
+      "stop_id": "rfi:S11025",
+      "nome": "S.SEVERO",
+      "lat": 41.68299,
+      "lon": 15.39257,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11025",
+        "lefrecce": "830011025",
+        "rfi": 2584,
+        "eticket": null,
+        "nap": "830011025"
+      }
+    },
+    {
+      "stop_id": "rfi:S11054",
+      "nome": "MANFREDONIA",
+      "lat": 41.62311,
+      "lon": 15.90808,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11054",
+        "lefrecce": "830011054",
+        "rfi": 1635,
+        "eticket": null,
+        "nap": "830011054"
+      }
+    },
+    {
+      "stop_id": "rfi:S11056",
+      "nome": "SIPONTO",
+      "lat": 41.61089,
+      "lon": 15.89558,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11056",
+        "lefrecce": "830011056",
+        "rfi": 2741,
+        "eticket": null,
+        "nap": "830011056"
+      }
+    },
+    {
+      "stop_id": "rfi:S11057",
+      "nome": "Manfredon. Ovest",
+      "lat": 41.60415,
+      "lon": 15.88306,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11057",
+        "lefrecce": "830011057",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011057"
+      }
+    },
+    {
+      "stop_id": "rfi:S11100",
+      "nome": "FOGGIA",
+      "lat": 41.46559,
+      "lon": 15.55557,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11100",
+        "lefrecce": "830011100",
+        "rfi": 1334,
+        "eticket": null,
+        "nap": "830011100"
+      }
+    },
+    {
+      "stop_id": "rfi:S11101",
+      "nome": "INCORONATA",
+      "lat": 41.40805,
+      "lon": 15.65066,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11101",
+        "lefrecce": "830011101",
+        "rfi": 1490,
+        "eticket": null,
+        "nap": "830011101"
+      }
+    },
+    {
+      "stop_id": "rfi:S11102",
+      "nome": "ORTANOVA",
+      "lat": 41.35019,
+      "lon": 15.73191,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11102",
+        "lefrecce": "830011102",
+        "rfi": 1958,
+        "eticket": null,
+        "nap": "830011102"
+      }
+    },
+    {
+      "stop_id": "rfi:S11103",
+      "nome": "CERIGNOLA",
+      "lat": 41.31552,
+      "lon": 15.89734,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11103",
+        "lefrecce": "830011103",
+        "rfi": 1065,
+        "eticket": null,
+        "nap": "830011103"
+      }
+    },
+    {
+      "stop_id": "rfi:S11106",
+      "nome": "TRINITAPOLI-S.FERDINANDO DI PUGLIA",
+      "lat": 41.34967,
+      "lon": 16.09083,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11106",
+        "lefrecce": "830011106",
+        "rfi": 2926,
+        "eticket": null,
+        "nap": "830011106"
+      }
+    },
+    {
+      "stop_id": "rfi:S11108",
+      "nome": "BARLETTA",
+      "lat": 41.31537,
+      "lon": 16.27859,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11108",
+        "lefrecce": "830011108",
+        "rfi": 598,
+        "eticket": null,
+        "nap": "830011108"
+      }
+    },
+    {
+      "stop_id": "rfi:S11112",
+      "nome": "TRANI",
+      "lat": 41.27279,
+      "lon": 16.41778,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11112",
+        "lefrecce": "830011112",
+        "rfi": 2902,
+        "eticket": null,
+        "nap": "830011112"
+      }
+    },
+    {
+      "stop_id": "rfi:S11113",
+      "nome": "BISCEGLIE",
+      "lat": 41.23546,
+      "lon": 16.49948,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11113",
+        "lefrecce": "830011113",
+        "rfi": 652,
+        "eticket": null,
+        "nap": "830011113"
+      }
+    },
+    {
+      "stop_id": "rfi:S11114",
+      "nome": "MOLFETTA",
+      "lat": 41.19612,
+      "lon": 16.59689,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11114",
+        "lefrecce": "830011114",
+        "rfi": 1757,
+        "eticket": null,
+        "nap": "830011114"
+      }
+    },
+    {
+      "stop_id": "rfi:S11115",
+      "nome": "GIOVINAZZO",
+      "lat": 41.18096,
+      "lon": 16.66918,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11115",
+        "lefrecce": "830011115",
+        "rfi": 1437,
+        "eticket": null,
+        "nap": "830011115"
+      }
+    },
+    {
+      "stop_id": "rfi:S11116",
+      "nome": "BARI S.SPIRITO",
+      "lat": 41.15966,
+      "lon": 16.74632,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11116",
+        "lefrecce": "830011116",
+        "rfi": 560,
+        "eticket": null,
+        "nap": "830011116"
+      }
+    },
+    {
+      "stop_id": "rfi:S11118",
+      "nome": "BARI PALESE MACCHIE",
+      "lat": 41.15155,
+      "lon": 16.76741,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11118",
+        "lefrecce": "830011118",
+        "rfi": 555,
+        "eticket": null,
+        "nap": "830011118"
+      }
+    },
+    {
+      "stop_id": "rfi:S11119",
+      "nome": "BARI CENTRALE",
+      "lat": 41.11783,
+      "lon": 16.87027,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11119",
+        "lefrecce": "830011119",
+        "rfi": 595,
+        "eticket": null,
+        "nap": "830011119"
+      }
+    },
+    {
+      "stop_id": "rfi:S11120",
+      "nome": "BARI ZONA INDUSTRIALE",
+      "lat": 41.12812,
+      "lon": 16.82618,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11120",
+        "lefrecce": "830011156",
+        "rfi": 563,
+        "eticket": null,
+        "nap": "830011156"
+      }
+    },
+    {
+      "stop_id": "rfi:S11121",
+      "nome": "MARCONI",
+      "lat": 41.11727,
+      "lon": 16.8868,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11121",
+        "lefrecce": "830011122",
+        "rfi": 554,
+        "eticket": null,
+        "nap": "830011122"
+      }
+    },
+    {
+      "stop_id": "rfi:S11125",
+      "nome": "BARI PARCO SUD",
+      "lat": 41.11529,
+      "lon": 16.8979,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11125",
+        "lefrecce": "830011125",
+        "rfi": 557,
+        "eticket": null,
+        "nap": "830011125"
+      }
+    },
+    {
+      "stop_id": "rfi:S11126",
+      "nome": "BARI TORRE A MARE",
+      "lat": 41.08302,
+      "lon": 16.99439,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11126",
+        "lefrecce": "830011126",
+        "rfi": 562,
+        "eticket": null,
+        "nap": "830011126"
+      }
+    },
+    {
+      "stop_id": "rfi:S11127",
+      "nome": "MOLA DI BARI",
+      "lat": 41.05745,
+      "lon": 17.08109,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11127",
+        "lefrecce": "830011127",
+        "rfi": 1756,
+        "eticket": null,
+        "nap": "830011127"
+      }
+    },
+    {
+      "stop_id": "rfi:S11128",
+      "nome": "POLIGNANO A MARE",
+      "lat": 40.99138,
+      "lon": 17.2173,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11128",
+        "lefrecce": "830011128",
+        "rfi": 2198,
+        "eticket": null,
+        "nap": "830011128"
+      }
+    },
+    {
+      "stop_id": "rfi:S11129",
+      "nome": "MONOPOLI",
+      "lat": 40.95218,
+      "lon": 17.29274,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11129",
+        "lefrecce": "830011129",
+        "rfi": 1774,
+        "eticket": null,
+        "nap": "830011129"
+      }
+    },
+    {
+      "stop_id": "rfi:S11130",
+      "nome": "FASANO",
+      "lat": 40.85175,
+      "lon": 17.38564,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11130",
+        "lefrecce": "830011130",
+        "rfi": 1299,
+        "eticket": null,
+        "nap": "830011130"
+      }
+    },
+    {
+      "stop_id": "rfi:S11131",
+      "nome": "CISTERNINO",
+      "lat": 40.81643,
+      "lon": 17.45691,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11131",
+        "lefrecce": "830011131",
+        "rfi": 1114,
+        "eticket": null,
+        "nap": "830011131"
+      }
+    },
+    {
+      "stop_id": "rfi:S11132",
+      "nome": "OSTUNI",
+      "lat": 40.75219,
+      "lon": 17.58071,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11132",
+        "lefrecce": "830011132",
+        "rfi": 1978,
+        "eticket": null,
+        "nap": "830011132"
+      }
+    },
+    {
+      "stop_id": "rfi:S11133",
+      "nome": "CAROVIGNO",
+      "lat": 40.7372,
+      "lon": 17.68379,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11133",
+        "lefrecce": "830011133",
+        "rfi": 909,
+        "eticket": null,
+        "nap": "830011133"
+      }
+    },
+    {
+      "stop_id": "rfi:S11136",
+      "nome": "BRINDISI",
+      "lat": 40.63434,
+      "lon": 17.93896,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11136",
+        "lefrecce": "830011136",
+        "rfi": 741,
+        "eticket": null,
+        "nap": "830011136"
+      }
+    },
+    {
+      "stop_id": "rfi:S11139",
+      "nome": "Brindisi-Perrino",
+      "lat": 40.62858,
+      "lon": 17.91489,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11139",
+        "lefrecce": "830011139",
+        "rfi": 2786,
+        "eticket": null,
+        "nap": "830011139"
+      }
+    },
+    {
+      "stop_id": "rfi:S11141",
+      "nome": "S.PIETRO VERNOTICO",
+      "lat": 40.48902,
+      "lon": 18.00073,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11141",
+        "lefrecce": "830011141",
+        "rfi": 2576,
+        "eticket": null,
+        "nap": "830011141"
+      }
+    },
+    {
+      "stop_id": "rfi:S11142",
+      "nome": "SQUINZANO",
+      "lat": 40.43927,
+      "lon": 18.0461,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11142",
+        "lefrecce": "830011142",
+        "rfi": 2779,
+        "eticket": null,
+        "nap": "830011142"
+      }
+    },
+    {
+      "stop_id": "rfi:S11143",
+      "nome": "TREPUZZI",
+      "lat": 40.40965,
+      "lon": 18.07689,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11143",
+        "lefrecce": "830011143",
+        "rfi": 2914,
+        "eticket": null,
+        "nap": "830011143"
+      }
+    },
+    {
+      "stop_id": "rfi:S11145",
+      "nome": "LECCE",
+      "lat": 40.34568,
+      "lon": 18.16589,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11145",
+        "lefrecce": "830011145",
+        "rfi": 1549,
+        "eticket": null,
+        "nap": "830011145"
+      }
+    },
+    {
+      "stop_id": "rfi:S11202",
+      "nome": "ORDONA",
+      "lat": 41.31484,
+      "lon": 15.62088,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11202",
+        "lefrecce": "830011202",
+        "rfi": 1946,
+        "eticket": null,
+        "nap": "830011202"
+      }
+    },
+    {
+      "stop_id": "rfi:S11203",
+      "nome": "ASCOLI SATRIANO",
+      "lat": 41.21963,
+      "lon": 15.54765,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11203",
+        "lefrecce": "830011203",
+        "rfi": 470,
+        "eticket": null,
+        "nap": "830011203"
+      }
+    },
+    {
+      "stop_id": "rfi:S11204",
+      "nome": "CANDELA",
+      "lat": 41.15156,
+      "lon": 15.53276,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11204",
+        "lefrecce": "830011204",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011204"
+      }
+    },
+    {
+      "stop_id": "rfi:S11205",
+      "nome": "ROCCHETTA S.ANTONIO-LACEDONIA",
+      "lat": 41.07736,
+      "lon": 15.55053,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11205",
+        "lefrecce": "830011205",
+        "rfi": 2411,
+        "eticket": null,
+        "nap": "830011205"
+      }
+    },
+    {
+      "stop_id": "rfi:S11206",
+      "nome": "MELFI",
+      "lat": 40.98808,
+      "lon": 15.6469,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11206",
+        "lefrecce": "830011206",
+        "rfi": 1689,
+        "eticket": null,
+        "nap": "830011206"
+      }
+    },
+    {
+      "stop_id": "rfi:S11208",
+      "nome": "BARILE",
+      "lat": 40.94123,
+      "lon": 15.67097,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11208",
+        "lefrecce": "830011208",
+        "rfi": 597,
+        "eticket": null,
+        "nap": "830011208"
+      }
+    },
+    {
+      "stop_id": "rfi:S11209",
+      "nome": "RIONERO ATELLA RIPACANDITA",
+      "lat": 40.92024,
+      "lon": 15.67871,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11209",
+        "lefrecce": "830011209",
+        "rfi": 2362,
+        "eticket": null,
+        "nap": "830011209"
+      }
+    },
+    {
+      "stop_id": "rfi:S11210",
+      "nome": "FORENZA",
+      "lat": 40.8671,
+      "lon": 15.7256,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11210",
+        "lefrecce": "830011210",
+        "rfi": 1348,
+        "eticket": null,
+        "nap": "830011210"
+      }
+    },
+    {
+      "stop_id": "rfi:S11211",
+      "nome": "FILIANO",
+      "lat": 40.83712,
+      "lon": 15.75248,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11211",
+        "lefrecce": "830011211",
+        "rfi": 1322,
+        "eticket": null,
+        "nap": "830011211"
+      }
+    },
+    {
+      "stop_id": "rfi:S11212",
+      "nome": "CASTEL LAGOPESOLE",
+      "lat": 40.78759,
+      "lon": 15.75801,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11212",
+        "lefrecce": "830011212",
+        "rfi": 971,
+        "eticket": null,
+        "nap": "830011212"
+      }
+    },
+    {
+      "stop_id": "rfi:S11213",
+      "nome": "PIETRAGALLA",
+      "lat": 40.73944,
+      "lon": 15.85413,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11213",
+        "lefrecce": "830011213",
+        "rfi": 2133,
+        "eticket": null,
+        "nap": "830011213"
+      }
+    },
+    {
+      "stop_id": "rfi:S11214",
+      "nome": "AVIGLIANO LUCANIA",
+      "lat": 40.71454,
+      "lon": 15.7854,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11214",
+        "lefrecce": "830011214",
+        "rfi": 488,
+        "eticket": null,
+        "nap": "830011214"
+      }
+    },
+    {
+      "stop_id": "rfi:S11217",
+      "nome": "POTENZA SUPERIORE",
+      "lat": 40.64389,
+      "lon": 15.80098,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11217",
+        "lefrecce": "830011217",
+        "rfi": 2268,
+        "eticket": null,
+        "nap": "830011217"
+      }
+    },
+    {
+      "stop_id": "rfi:S11220",
+      "nome": "POSSIDENTE",
+      "lat": 40.78133,
+      "lon": 15.77704,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11220",
+        "lefrecce": "830011220",
+        "rfi": 2264,
+        "eticket": null,
+        "nap": "830011220"
+      }
+    },
+    {
+      "stop_id": "rfi:S11221",
+      "nome": "POTENZA MACCHIA ROMANA",
+      "lat": 40.65195,
+      "lon": 15.80257,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11221",
+        "lefrecce": "830011221",
+        "rfi": 2267,
+        "eticket": null,
+        "nap": "830011221"
+      }
+    },
+    {
+      "stop_id": "rfi:S11250",
+      "nome": "BARI SANTA RITA",
+      "lat": 41.07307,
+      "lon": 16.85142,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11250",
+        "lefrecce": "830011250",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011250"
+      }
+    },
+    {
+      "stop_id": "rfi:S11251",
+      "nome": "LOSETO",
+      "lat": 41.04381,
+      "lon": 16.84723,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11251",
+        "lefrecce": "830011251",
+        "rfi": 3234,
+        "eticket": null,
+        "nap": "830011251"
+      }
+    },
+    {
+      "stop_id": "rfi:S11252",
+      "nome": "BITRITTO",
+      "lat": 41.04381,
+      "lon": 16.83277,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11252",
+        "lefrecce": "830011252",
+        "rfi": 3235,
+        "eticket": null,
+        "nap": "830011252"
+      }
+    },
+    {
+      "stop_id": "rfi:S11300",
+      "nome": "S.NICOLA DI MELFI",
+      "lat": 41.07309,
+      "lon": 15.67845,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11300",
+        "lefrecce": "830011300",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011300"
+      }
+    },
+    {
+      "stop_id": "rfi:S11304",
+      "nome": "SPINAZZOLA",
+      "lat": 40.95371,
+      "lon": 16.08723,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11304",
+        "lefrecce": "830011304",
+        "rfi": 2772,
+        "eticket": null,
+        "nap": "830011304"
+      }
+    },
+    {
+      "stop_id": "rfi:S11305",
+      "nome": "POGGIORSINI",
+      "lat": 40.935,
+      "lon": 16.26672,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11305",
+        "lefrecce": "830011305",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011305"
+      }
+    },
+    {
+      "stop_id": "rfi:S11306",
+      "nome": "GRAVINA IN PUGLIA",
+      "lat": 40.82513,
+      "lon": 16.41892,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11306",
+        "lefrecce": "830011306",
+        "rfi": 1458,
+        "eticket": null,
+        "nap": "830011306"
+      }
+    },
+    {
+      "stop_id": "rfi:S11307",
+      "nome": "ALTAMURA",
+      "lat": 40.83759,
+      "lon": 16.55167,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11307",
+        "lefrecce": "830011307",
+        "rfi": 418,
+        "eticket": null,
+        "nap": "830011307"
+      }
+    },
+    {
+      "stop_id": "rfi:S11310",
+      "nome": "SANTERAMO",
+      "lat": 40.80242,
+      "lon": 16.76382,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11310",
+        "lefrecce": "830011310",
+        "rfi": 2646,
+        "eticket": null,
+        "nap": "830011310"
+      }
+    },
+    {
+      "stop_id": "rfi:S11311",
+      "nome": "Spinazzola Citta`",
+      "lat": 40.96873,
+      "lon": 16.09088,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11311",
+        "lefrecce": "830011311",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011311"
+      }
+    },
+    {
+      "stop_id": "rfi:S11402",
+      "nome": "CANOSA DI PUGLIA",
+      "lat": 41.21864,
+      "lon": 16.05441,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11402",
+        "lefrecce": "830011402",
+        "rfi": 868,
+        "eticket": null,
+        "nap": "830011402"
+      }
+    },
+    {
+      "stop_id": "rfi:S11403",
+      "nome": "MINERVINO MURGE",
+      "lat": 41.0818,
+      "lon": 16.07529,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11403",
+        "lefrecce": "830011403",
+        "rfi": 1735,
+        "eticket": null,
+        "nap": "830011403"
+      }
+    },
+    {
+      "stop_id": "rfi:S11406",
+      "nome": "CANNE DELLA BATTAGLIA",
+      "lat": 41.29302,
+      "lon": 16.14566,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11406",
+        "lefrecce": "830011406",
+        "rfi": 865,
+        "eticket": null,
+        "nap": "830011406"
+      }
+    },
+    {
+      "stop_id": "rfi:S11420",
+      "nome": "POTENZA CENTRALE",
+      "lat": 40.62972,
+      "lon": 15.80657,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11420",
+        "lefrecce": "830011420",
+        "rfi": 2266,
+        "eticket": null,
+        "nap": "830011420"
+      }
+    },
+    {
+      "stop_id": "rfi:S11452",
+      "nome": "TRIVIGNO",
+      "lat": 40.58836,
+      "lon": 15.99775,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11452",
+        "lefrecce": "830011452",
+        "rfi": 2931,
+        "eticket": null,
+        "nap": "830011452"
+      }
+    },
+    {
+      "stop_id": "rfi:S11453",
+      "nome": "ALBANO DI LUCANIA",
+      "lat": 40.57483,
+      "lon": 16.02138,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11453",
+        "lefrecce": "830011453",
+        "rfi": 395,
+        "eticket": null,
+        "nap": "830011453"
+      }
+    },
+    {
+      "stop_id": "rfi:S11456",
+      "nome": "GRASSANO",
+      "lat": 40.59356,
+      "lon": 16.24115,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11456",
+        "lefrecce": "830011456",
+        "rfi": 1456,
+        "eticket": null,
+        "nap": "830011456"
+      }
+    },
+    {
+      "stop_id": "rfi:S11457",
+      "nome": "SALANDRA",
+      "lat": 40.58325,
+      "lon": 16.35174,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11457",
+        "lefrecce": "830011457",
+        "rfi": 2613,
+        "eticket": null,
+        "nap": "830011457"
+      }
+    },
+    {
+      "stop_id": "rfi:S11458",
+      "nome": "FERRANDINA-SCALO MATERA",
+      "lat": 40.51651,
+      "lon": 16.47499,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11458",
+        "lefrecce": "830011458",
+        "rfi": 1308,
+        "eticket": null,
+        "nap": "830011458"
+      }
+    },
+    {
+      "stop_id": "rfi:S11459",
+      "nome": "PISTICCI",
+      "lat": 40.42067,
+      "lon": 16.55202,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11459",
+        "lefrecce": "830011459",
+        "rfi": 2160,
+        "eticket": null,
+        "nap": "830011459"
+      }
+    },
+    {
+      "stop_id": "rfi:S11460",
+      "nome": "BERNALDA",
+      "lat": 40.39762,
+      "lon": 16.68226,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11460",
+        "lefrecce": "830011460",
+        "rfi": 633,
+        "eticket": null,
+        "nap": "830011460"
+      }
+    },
+    {
+      "stop_id": "rfi:S11461",
+      "nome": "METAPONTO",
+      "lat": 40.36847,
+      "lon": 16.81478,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11461",
+        "lefrecce": "830011461",
+        "rfi": 88,
+        "eticket": null,
+        "nap": "830011461"
+      }
+    },
+    {
+      "stop_id": "rfi:S11462",
+      "nome": "GINOSA",
+      "lat": 40.42932,
+      "lon": 16.89083,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11462",
+        "lefrecce": "830011462",
+        "rfi": 1434,
+        "eticket": null,
+        "nap": "830011462"
+      }
+    },
+    {
+      "stop_id": "rfi:S11463",
+      "nome": "CASTELLANETA MARINA",
+      "lat": 40.48115,
+      "lon": 16.96533,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11463",
+        "lefrecce": "830011463",
+        "rfi": 994,
+        "eticket": null,
+        "nap": "830011463"
+      }
+    },
+    {
+      "stop_id": "rfi:S11464",
+      "nome": "PALAGIANO CHIATONA",
+      "lat": 40.51719,
+      "lon": 17.05908,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11464",
+        "lefrecce": "830011464",
+        "rfi": 2010,
+        "eticket": null,
+        "nap": "830011464"
+      }
+    },
+    {
+      "stop_id": "rfi:S11465",
+      "nome": "TARANTO",
+      "lat": 40.4834,
+      "lon": 17.22441,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11465",
+        "lefrecce": "830011465",
+        "rfi": 2811,
+        "eticket": null,
+        "nap": "830011465"
+      }
+    },
+    {
+      "stop_id": "rfi:S11501",
+      "nome": "BITETTO PALO DEL COLLE",
+      "lat": 41.04574,
+      "lon": 16.7438,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11501",
+        "lefrecce": "830011501",
+        "rfi": 655,
+        "eticket": null,
+        "nap": "830011501"
+      }
+    },
+    {
+      "stop_id": "rfi:S11502",
+      "nome": "GRUMO APPULA",
+      "lat": 41.0151,
+      "lon": 16.71897,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11502",
+        "lefrecce": "830011502",
+        "rfi": 1474,
+        "eticket": null,
+        "nap": "830011502"
+      }
+    },
+    {
+      "stop_id": "rfi:S11504",
+      "nome": "ACQUAVIVA DELLE FONTI",
+      "lat": 40.89306,
+      "lon": 16.84023,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11504",
+        "lefrecce": "830011504",
+        "rfi": 377,
+        "eticket": null,
+        "nap": "830011504"
+      }
+    },
+    {
+      "stop_id": "rfi:S11505",
+      "nome": "GIOIA DEL COLLE",
+      "lat": 40.79336,
+      "lon": 16.91658,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11505",
+        "lefrecce": "830011505",
+        "rfi": 1435,
+        "eticket": null,
+        "nap": "830011505"
+      }
+    },
+    {
+      "stop_id": "rfi:S11507",
+      "nome": "CASTELLANETA",
+      "lat": 40.61973,
+      "lon": 16.92884,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11507",
+        "lefrecce": "830011511",
+        "rfi": 993,
+        "eticket": null,
+        "nap": "830011511"
+      }
+    },
+    {
+      "stop_id": "rfi:S11508",
+      "nome": "PALAGIANELLO",
+      "lat": 40.6069,
+      "lon": 16.98446,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11508",
+        "lefrecce": "830011508",
+        "rfi": 2009,
+        "eticket": null,
+        "nap": "830011508"
+      }
+    },
+    {
+      "stop_id": "rfi:S11510",
+      "nome": "MASSAFRA",
+      "lat": 40.58297,
+      "lon": 17.10812,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11510",
+        "lefrecce": "830011510",
+        "rfi": 1673,
+        "eticket": null,
+        "nap": "830011510"
+      }
+    },
+    {
+      "stop_id": "rfi:S11516",
+      "nome": "Modugno (new)",
+      "lat": 41.07347,
+      "lon": 16.77484,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11516",
+        "lefrecce": "830011516",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011516"
+      }
+    },
+    {
+      "stop_id": "rfi:S11602",
+      "nome": "GROTTAGLIE",
+      "lat": 40.52924,
+      "lon": 17.42436,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11602",
+        "lefrecce": "830011602",
+        "rfi": 1469,
+        "eticket": null,
+        "nap": "830011602"
+      }
+    },
+    {
+      "stop_id": "rfi:S11603",
+      "nome": "FRANCAVILLA FONTANA",
+      "lat": 40.52334,
+      "lon": 17.58481,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11603",
+        "lefrecce": "830011603",
+        "rfi": 1366,
+        "eticket": null,
+        "nap": "830011603"
+      }
+    },
+    {
+      "stop_id": "rfi:S11605",
+      "nome": "ORIA",
+      "lat": 40.50794,
+      "lon": 17.64648,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11605",
+        "lefrecce": "830011605",
+        "rfi": 1947,
+        "eticket": null,
+        "nap": "830011605"
+      }
+    },
+    {
+      "stop_id": "rfi:S11606",
+      "nome": "LATIANO",
+      "lat": 40.55796,
+      "lon": 17.71769,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11606",
+        "lefrecce": "830011606",
+        "rfi": 1538,
+        "eticket": null,
+        "nap": "830011606"
+      }
+    },
+    {
+      "stop_id": "rfi:S11607",
+      "nome": "MESAGNE",
+      "lat": 40.56303,
+      "lon": 17.8022,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11607",
+        "lefrecce": "830011607",
+        "rfi": 1699,
+        "eticket": null,
+        "nap": "830011607"
+      }
+    },
+    {
+      "stop_id": "rfi:S11709",
+      "nome": "VALLO DELLA LUCANIA-CASTELNUOVO",
+      "lat": 40.2283,
+      "lon": 15.15805,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11709",
+        "lefrecce": "830011709",
+        "rfi": 177,
+        "eticket": null,
+        "nap": "830011709"
+      }
+    },
+    {
+      "stop_id": "rfi:S11712",
+      "nome": "PISCIOTTA PALINURO",
+      "lat": 40.09014,
+      "lon": 15.24361,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11712",
+        "lefrecce": "830011712",
+        "rfi": 111,
+        "eticket": null,
+        "nap": "830011712"
+      }
+    },
+    {
+      "stop_id": "rfi:S11721",
+      "nome": "SAPRI",
+      "lat": 40.07782,
+      "lon": 15.6277,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11721",
+        "lefrecce": "830011721",
+        "rfi": 153,
+        "eticket": null,
+        "nap": "830011721"
+      }
+    },
+    {
+      "stop_id": "rfi:S11722",
+      "nome": "ACQUAFREDDA",
+      "lat": 40.0337,
+      "lon": 15.67186,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11722",
+        "lefrecce": "830011722",
+        "rfi": 1,
+        "eticket": null,
+        "nap": "830011722"
+      }
+    },
+    {
+      "stop_id": "rfi:S11723",
+      "nome": "MARATEA",
+      "lat": 39.99316,
+      "lon": 15.70976,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11723",
+        "lefrecce": "830011723",
+        "rfi": 81,
+        "eticket": null,
+        "nap": "830011723"
+      }
+    },
+    {
+      "stop_id": "rfi:S11724",
+      "nome": "MARINA DI MARATEA",
+      "lat": 39.95761,
+      "lon": 15.73596,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11724",
+        "lefrecce": "830011724",
+        "rfi": 85,
+        "eticket": null,
+        "nap": "830011724"
+      }
+    },
+    {
+      "stop_id": "rfi:S11725",
+      "nome": "PRAJA AJETA TORTORA",
+      "lat": 39.89888,
+      "lon": 15.78063,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11725",
+        "lefrecce": "830011725",
+        "rfi": 115,
+        "eticket": null,
+        "nap": "830011725"
+      }
+    },
+    {
+      "stop_id": "rfi:S11727",
+      "nome": "SCALEA S.DOMENICA TALAO",
+      "lat": 39.80632,
+      "lon": 15.8014,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11727",
+        "lefrecce": "830011727",
+        "rfi": 154,
+        "eticket": null,
+        "nap": "830011727"
+      }
+    },
+    {
+      "stop_id": "rfi:S11728",
+      "nome": "MARCELLINA-VERBICARO-ORSOMARSO",
+      "lat": 39.76497,
+      "lon": 15.82267,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11728",
+        "lefrecce": "830011728",
+        "rfi": 82,
+        "eticket": null,
+        "nap": "830011728"
+      }
+    },
+    {
+      "stop_id": "rfi:S11729",
+      "nome": "GRISOLIA S.MARIA",
+      "lat": 39.73774,
+      "lon": 15.82108,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11729",
+        "lefrecce": "830011729",
+        "rfi": 70,
+        "eticket": null,
+        "nap": "830011729"
+      }
+    },
+    {
+      "stop_id": "rfi:S11731",
+      "nome": "DIAMANTE BUONVICINO",
+      "lat": 39.67501,
+      "lon": 15.82429,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11731",
+        "lefrecce": "830011731",
+        "rfi": 56,
+        "eticket": null,
+        "nap": "830011731"
+      }
+    },
+    {
+      "stop_id": "rfi:S11732",
+      "nome": "BELVEDERE MARITTIMO",
+      "lat": 39.61451,
+      "lon": 15.85305,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11732",
+        "lefrecce": "830011732",
+        "rfi": 16,
+        "eticket": null,
+        "nap": "830011732"
+      }
+    },
+    {
+      "stop_id": "rfi:S11734",
+      "nome": "CAPO BONIFATI",
+      "lat": 39.55629,
+      "lon": 15.87406,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11734",
+        "lefrecce": "830011734",
+        "rfi": 30,
+        "eticket": null,
+        "nap": "830011734"
+      }
+    },
+    {
+      "stop_id": "rfi:S11735",
+      "nome": "CETRARO",
+      "lat": 39.51041,
+      "lon": 15.93927,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11735",
+        "lefrecce": "830011735",
+        "rfi": 44,
+        "eticket": null,
+        "nap": "830011735"
+      }
+    },
+    {
+      "stop_id": "rfi:S11736",
+      "nome": "ACQUAPPESA",
+      "lat": 39.48432,
+      "lon": 15.956,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11736",
+        "lefrecce": "830011736",
+        "rfi": 2,
+        "eticket": null,
+        "nap": "830011736"
+      }
+    },
+    {
+      "stop_id": "rfi:S11737",
+      "nome": "GUARDIA PIEMONTESE TERME",
+      "lat": 39.46207,
+      "lon": 15.97925,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11737",
+        "lefrecce": "830011737",
+        "rfi": 72,
+        "eticket": null,
+        "nap": "830011737"
+      }
+    },
+    {
+      "stop_id": "rfi:S11738",
+      "nome": "FUSCALDO",
+      "lat": 39.40746,
+      "lon": 16.01148,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11738",
+        "lefrecce": "830011738",
+        "rfi": 65,
+        "eticket": null,
+        "nap": "830011738"
+      }
+    },
+    {
+      "stop_id": "rfi:S11739",
+      "nome": "PAOLA",
+      "lat": 39.35719,
+      "lon": 16.0331,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11739",
+        "lefrecce": "830011739",
+        "rfi": 107,
+        "eticket": null,
+        "nap": "830011739"
+      }
+    },
+    {
+      "stop_id": "rfi:S11740",
+      "nome": "S.LUCIDO MARINA",
+      "lat": 39.31093,
+      "lon": 16.04555,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11740",
+        "lefrecce": "830011740",
+        "rfi": 142,
+        "eticket": null,
+        "nap": "830011740"
+      }
+    },
+    {
+      "stop_id": "rfi:S11744",
+      "nome": "AMANTEA",
+      "lat": 39.13204,
+      "lon": 16.06846,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11744",
+        "lefrecce": "830011744",
+        "rfi": 8,
+        "eticket": null,
+        "nap": "830011744"
+      }
+    },
+    {
+      "stop_id": "rfi:S11745",
+      "nome": "CAMPORA S.GIOVANNI SERRA AIELLO",
+      "lat": 39.06606,
+      "lon": 16.09102,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11745",
+        "lefrecce": "830011745",
+        "rfi": 27,
+        "eticket": null,
+        "nap": "830011745"
+      }
+    },
+    {
+      "stop_id": "rfi:S11749",
+      "nome": "LAMEZIA TERME CENTRALE",
+      "lat": 38.92093,
+      "lon": 16.25553,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11749",
+        "lefrecce": "830011749",
+        "rfi": 75,
+        "eticket": null,
+        "nap": "830011749"
+      }
+    },
+    {
+      "stop_id": "rfi:S11753",
+      "nome": "PIZZO",
+      "lat": 38.72672,
+      "lon": 16.15045,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11753",
+        "lefrecce": "830011753",
+        "rfi": 112,
+        "eticket": null,
+        "nap": "830011753"
+      }
+    },
+    {
+      "stop_id": "rfi:S11754",
+      "nome": "VIBO MARINA",
+      "lat": 38.71368,
+      "lon": 16.12022,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11754",
+        "lefrecce": "830011754",
+        "rfi": 178,
+        "eticket": null,
+        "nap": "830011754"
+      }
+    },
+    {
+      "stop_id": "rfi:S11757",
+      "nome": "BRIATICO",
+      "lat": 38.72526,
+      "lon": 16.02534,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11757",
+        "lefrecce": "830011757",
+        "rfi": 25,
+        "eticket": null,
+        "nap": "830011757"
+      }
+    },
+    {
+      "stop_id": "rfi:S11758",
+      "nome": "ZAMBRONE",
+      "lat": 38.71055,
+      "lon": 15.97621,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11758",
+        "lefrecce": "830011758",
+        "rfi": 187,
+        "eticket": null,
+        "nap": "830011758"
+      }
+    },
+    {
+      "stop_id": "rfi:S11759",
+      "nome": "PARGHELIA",
+      "lat": 38.68333,
+      "lon": 15.92518,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11759",
+        "lefrecce": "830011759",
+        "rfi": 108,
+        "eticket": null,
+        "nap": "830011759"
+      }
+    },
+    {
+      "stop_id": "rfi:S11760",
+      "nome": "TROPEA",
+      "lat": 38.6721,
+      "lon": 15.89467,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11760",
+        "lefrecce": "830011760",
+        "rfi": 176,
+        "eticket": null,
+        "nap": "830011760"
+      }
+    },
+    {
+      "stop_id": "rfi:S11761",
+      "nome": "RICADI",
+      "lat": 38.62865,
+      "lon": 15.83985,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11761",
+        "lefrecce": "830011761",
+        "rfi": 129,
+        "eticket": null,
+        "nap": "830011761"
+      }
+    },
+    {
+      "stop_id": "rfi:S11763",
+      "nome": "JOPPOLO",
+      "lat": 38.58047,
+      "lon": 15.89708,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11763",
+        "lefrecce": "830011763",
+        "rfi": 74,
+        "eticket": null,
+        "nap": "830011763"
+      }
+    },
+    {
+      "stop_id": "rfi:S11764",
+      "nome": "NICOTERA",
+      "lat": 38.54935,
+      "lon": 15.93376,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11764",
+        "lefrecce": "830011764",
+        "rfi": 97,
+        "eticket": null,
+        "nap": "830011764"
+      }
+    },
+    {
+      "stop_id": "rfi:S11765",
+      "nome": "ROSARNO",
+      "lat": 38.48865,
+      "lon": 15.97014,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11765",
+        "lefrecce": "830011765",
+        "rfi": 133,
+        "eticket": null,
+        "nap": "830011765"
+      }
+    },
+    {
+      "stop_id": "rfi:S11766",
+      "nome": "GIOIA TAURO",
+      "lat": 38.42342,
+      "lon": 15.89694,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11766",
+        "lefrecce": "830011766",
+        "rfi": 67,
+        "eticket": null,
+        "nap": "830011766"
+      }
+    },
+    {
+      "stop_id": "rfi:S11769",
+      "nome": "PALMI",
+      "lat": 38.36468,
+      "lon": 15.84454,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11769",
+        "lefrecce": "830011769",
+        "rfi": 106,
+        "eticket": null,
+        "nap": "830011769"
+      }
+    },
+    {
+      "stop_id": "rfi:S11770",
+      "nome": "BAGNARA",
+      "lat": 38.28271,
+      "lon": 15.80034,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11770",
+        "lefrecce": "830011770",
+        "rfi": 13,
+        "eticket": null,
+        "nap": "830011770"
+      }
+    },
+    {
+      "stop_id": "rfi:S11771",
+      "nome": "FAVAZZINA",
+      "lat": 38.25893,
+      "lon": 15.7563,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11771",
+        "lefrecce": "830011771",
+        "rfi": 60,
+        "eticket": null,
+        "nap": "830011771"
+      }
+    },
+    {
+      "stop_id": "rfi:S11772",
+      "nome": "SCILLA",
+      "lat": 38.25122,
+      "lon": 15.71087,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11772",
+        "lefrecce": "830011772",
+        "rfi": 156,
+        "eticket": null,
+        "nap": "830011772"
+      }
+    },
+    {
+      "stop_id": "rfi:S11774",
+      "nome": "VILLA S.GIOVANNI",
+      "lat": 38.21485,
+      "lon": 15.63435,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11774",
+        "lefrecce": "830011774",
+        "rfi": 183,
+        "eticket": null,
+        "nap": "830011774"
+      }
+    },
+    {
+      "stop_id": "rfi:S11776",
+      "nome": "REGGIO DI CALABRIA CATONA",
+      "lat": 38.18401,
+      "lon": 15.64121,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11776",
+        "lefrecce": "830011776",
+        "rfi": 121,
+        "eticket": null,
+        "nap": "830011776"
+      }
+    },
+    {
+      "stop_id": "rfi:S11777",
+      "nome": "REGGIO DI CALABRIA GALLICO",
+      "lat": 38.16343,
+      "lon": 15.65072,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11777",
+        "lefrecce": "830011777",
+        "rfi": 122,
+        "eticket": null,
+        "nap": "830011777"
+      }
+    },
+    {
+      "stop_id": "rfi:S11778",
+      "nome": "REGGIO DI CALABRIA ARCHI",
+      "lat": 38.14894,
+      "lon": 15.65882,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11778",
+        "lefrecce": "830011778",
+        "rfi": 119,
+        "eticket": null,
+        "nap": "830011778"
+      }
+    },
+    {
+      "stop_id": "rfi:S11779",
+      "nome": "REGGIO DI CALABRIA S.CATERINA",
+      "lat": 38.12524,
+      "lon": 15.6526,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11779",
+        "lefrecce": "830011779",
+        "rfi": 126,
+        "eticket": null,
+        "nap": "830011779"
+      }
+    },
+    {
+      "stop_id": "rfi:S11780",
+      "nome": "REGGIO DI CALABRIA LIDO",
+      "lat": 38.11587,
+      "lon": 15.64918,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11780",
+        "lefrecce": "830011780",
+        "rfi": 123,
+        "eticket": null,
+        "nap": "830011780"
+      }
+    },
+    {
+      "stop_id": "rfi:S11781",
+      "nome": "REGGIO DI CALABRIA CENTRALE",
+      "lat": 38.10209,
+      "lon": 15.63585,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11781",
+        "lefrecce": "830011781",
+        "rfi": 116,
+        "eticket": null,
+        "nap": "830011781"
+      }
+    },
+    {
+      "stop_id": "rfi:S11786",
+      "nome": "S.DOMENICA",
+      "lat": 38.66376,
+      "lon": 15.85988,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11786",
+        "lefrecce": "830011786",
+        "rfi": 151,
+        "eticket": null,
+        "nap": "830011786"
+      }
+    },
+    {
+      "stop_id": "rfi:S11789",
+      "nome": "VIBO VALENTIA PIZZO",
+      "lat": 38.71447,
+      "lon": 16.14019,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11789",
+        "lefrecce": "830011789",
+        "rfi": 179,
+        "eticket": null,
+        "nap": "830011789"
+      }
+    },
+    {
+      "stop_id": "rfi:S11790",
+      "nome": "MILETO",
+      "lat": 38.57719,
+      "lon": 16.05992,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11790",
+        "lefrecce": "830011790",
+        "rfi": 89,
+        "eticket": null,
+        "nap": "830011790"
+      }
+    },
+    {
+      "stop_id": "rfi:S11801",
+      "nome": "SCANZANO JONICO-MONTALBANO JONICO",
+      "lat": 40.25361,
+      "lon": 16.70529,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11801",
+        "lefrecce": "830011801",
+        "rfi": 155,
+        "eticket": null,
+        "nap": "830011801"
+      }
+    },
+    {
+      "stop_id": "rfi:S11802",
+      "nome": "POLICORO TURSI",
+      "lat": 40.20729,
+      "lon": 16.68865,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11802",
+        "lefrecce": "830011802",
+        "rfi": 114,
+        "eticket": null,
+        "nap": "830011802"
+      }
+    },
+    {
+      "stop_id": "rfi:S11803",
+      "nome": "NOVA SIRI ROTONDELLA",
+      "lat": 40.13036,
+      "lon": 16.64366,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11803",
+        "lefrecce": "830011803",
+        "rfi": 99,
+        "eticket": null,
+        "nap": "830011803"
+      }
+    },
+    {
+      "stop_id": "rfi:S11804",
+      "nome": "ROCCA IMPERIALE",
+      "lat": 40.09995,
+      "lon": 16.61536,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11804",
+        "lefrecce": "830011804",
+        "rfi": 130,
+        "eticket": null,
+        "nap": "830011804"
+      }
+    },
+    {
+      "stop_id": "rfi:S11805",
+      "nome": "MONTE GIORDANO",
+      "lat": 40.04086,
+      "lon": 16.59762,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11805",
+        "lefrecce": "830011805",
+        "rfi": 94,
+        "eticket": null,
+        "nap": "830011805"
+      }
+    },
+    {
+      "stop_id": "rfi:S11806",
+      "nome": "ROSETO CAPO SPULICO",
+      "lat": 39.9724,
+      "lon": 16.62064,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11806",
+        "lefrecce": "830011806",
+        "rfi": 134,
+        "eticket": null,
+        "nap": "830011806"
+      }
+    },
+    {
+      "stop_id": "rfi:S11807",
+      "nome": "AMENDOLARA ORIOLO",
+      "lat": 39.93372,
+      "lon": 16.60293,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11807",
+        "lefrecce": "830011807",
+        "rfi": 9,
+        "eticket": null,
+        "nap": "830011807"
+      }
+    },
+    {
+      "stop_id": "rfi:S11808",
+      "nome": "TREBISACCE",
+      "lat": 39.86563,
+      "lon": 16.53202,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11808",
+        "lefrecce": "830011808",
+        "rfi": 175,
+        "eticket": null,
+        "nap": "830011808"
+      }
+    },
+    {
+      "stop_id": "rfi:S11809",
+      "nome": "VILLAPIANA LIDO",
+      "lat": 39.81053,
+      "lon": 16.4906,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11809",
+        "lefrecce": "830011809",
+        "rfi": 184,
+        "eticket": null,
+        "nap": "830011809"
+      }
+    },
+    {
+      "stop_id": "rfi:S11810",
+      "nome": "VILLAPIANA TORRE CERCHIARA",
+      "lat": 39.79062,
+      "lon": 16.47927,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11810",
+        "lefrecce": "830011810",
+        "rfi": 185,
+        "eticket": null,
+        "nap": "830011810"
+      }
+    },
+    {
+      "stop_id": "rfi:S11811",
+      "nome": "SIBARI",
+      "lat": 39.74932,
+      "lon": 16.45613,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11811",
+        "lefrecce": "830011811",
+        "rfi": 159,
+        "eticket": null,
+        "nap": "830011811"
+      }
+    },
+    {
+      "stop_id": "rfi:S11812",
+      "nome": "CORIGLIANO CALABRO",
+      "lat": 39.62815,
+      "lon": 16.5149,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11812",
+        "lefrecce": "830011812",
+        "rfi": 49,
+        "eticket": null,
+        "nap": "830011812"
+      }
+    },
+    {
+      "stop_id": "rfi:S11813",
+      "nome": "ROSSANO",
+      "lat": 39.60282,
+      "lon": 16.64087,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11813",
+        "lefrecce": "830011813",
+        "rfi": 135,
+        "eticket": null,
+        "nap": "830011813"
+      }
+    },
+    {
+      "stop_id": "rfi:S11814",
+      "nome": "MIRTO CROSIA",
+      "lat": 39.60468,
+      "lon": 16.77726,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11814",
+        "lefrecce": "830011814",
+        "rfi": 90,
+        "eticket": null,
+        "nap": "830011814"
+      }
+    },
+    {
+      "stop_id": "rfi:S11815",
+      "nome": "CALOPEZZATI",
+      "lat": 39.57555,
+      "lon": 16.81937,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11815",
+        "lefrecce": "830011815",
+        "rfi": 26,
+        "eticket": null,
+        "nap": "830011815"
+      }
+    },
+    {
+      "stop_id": "rfi:S11817",
+      "nome": "MANDATORICCIO CAMPANA",
+      "lat": 39.52527,
+      "lon": 16.89306,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11817",
+        "lefrecce": "830011817",
+        "rfi": 80,
+        "eticket": null,
+        "nap": "830011817"
+      }
+    },
+    {
+      "stop_id": "rfi:S11818",
+      "nome": "CARIATI",
+      "lat": 39.49673,
+      "lon": 16.95213,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11818",
+        "lefrecce": "830011818",
+        "rfi": 34,
+        "eticket": null,
+        "nap": "830011818"
+      }
+    },
+    {
+      "stop_id": "rfi:S11819",
+      "nome": "CRUCOLI",
+      "lat": 39.44952,
+      "lon": 17.0407,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11819",
+        "lefrecce": "830011819",
+        "rfi": 53,
+        "eticket": null,
+        "nap": "830011819"
+      }
+    },
+    {
+      "stop_id": "rfi:S11820",
+      "nome": "CIRO`",
+      "lat": 39.369,
+      "lon": 17.1171,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11820",
+        "lefrecce": "830011820",
+        "rfi": 46,
+        "eticket": null,
+        "nap": "830011820"
+      }
+    },
+    {
+      "stop_id": "rfi:S11821",
+      "nome": "TORRE MELISSA",
+      "lat": 39.30038,
+      "lon": 17.10841,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11821",
+        "lefrecce": "830011821",
+        "rfi": 171,
+        "eticket": null,
+        "nap": "830011821"
+      }
+    },
+    {
+      "stop_id": "rfi:S11822",
+      "nome": "STRONGOLI",
+      "lat": 39.22811,
+      "lon": 17.10819,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11822",
+        "lefrecce": "830011822",
+        "rfi": 165,
+        "eticket": null,
+        "nap": "830011822"
+      }
+    },
+    {
+      "stop_id": "rfi:S11823",
+      "nome": "CROTONE",
+      "lat": 39.08447,
+      "lon": 17.1085,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11823",
+        "lefrecce": "830011823",
+        "rfi": 52,
+        "eticket": null,
+        "nap": "830011823"
+      }
+    },
+    {
+      "stop_id": "rfi:S11826",
+      "nome": "CUTRO",
+      "lat": 39.02593,
+      "lon": 16.9639,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11826",
+        "lefrecce": "830011826",
+        "rfi": 55,
+        "eticket": null,
+        "nap": "830011826"
+      }
+    },
+    {
+      "stop_id": "rfi:S11829",
+      "nome": "BOTRICELLO",
+      "lat": 38.93408,
+      "lon": 16.85743,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11829",
+        "lefrecce": "830011829",
+        "rfi": 21,
+        "eticket": null,
+        "nap": "830011829"
+      }
+    },
+    {
+      "stop_id": "rfi:S11830",
+      "nome": "CROPANI",
+      "lat": 38.92204,
+      "lon": 16.81349,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11830",
+        "lefrecce": "830011830",
+        "rfi": 51,
+        "eticket": null,
+        "nap": "830011830"
+      }
+    },
+    {
+      "stop_id": "rfi:S11833",
+      "nome": "CATANZARO LIDO",
+      "lat": 38.82187,
+      "lon": 16.61274,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11833",
+        "lefrecce": "830011833",
+        "rfi": 40,
+        "eticket": null,
+        "nap": "830011833"
+      }
+    },
+    {
+      "stop_id": "rfi:S11836",
+      "nome": "MONTEPAONE-MONTAURO",
+      "lat": 38.7286,
+      "lon": 16.54173,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11836",
+        "lefrecce": "830011836",
+        "rfi": 95,
+        "eticket": null,
+        "nap": "830011836"
+      }
+    },
+    {
+      "stop_id": "rfi:S11837",
+      "nome": "SOVERATO",
+      "lat": 38.68442,
+      "lon": 16.54961,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11837",
+        "lefrecce": "830011837",
+        "rfi": 162,
+        "eticket": null,
+        "nap": "830011837"
+      }
+    },
+    {
+      "stop_id": "rfi:S11841",
+      "nome": "BADOLATO",
+      "lat": 38.56923,
+      "lon": 16.56765,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11841",
+        "lefrecce": "830011841",
+        "rfi": 12,
+        "eticket": null,
+        "nap": "830011841"
+      }
+    },
+    {
+      "stop_id": "rfi:S11842",
+      "nome": "S.CATERINA DELL'JONIO",
+      "lat": 38.5274,
+      "lon": 16.5711,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11842",
+        "lefrecce": "830011842",
+        "rfi": 140,
+        "eticket": null,
+        "nap": "830011842"
+      }
+    },
+    {
+      "stop_id": "rfi:S11843",
+      "nome": "GUARDAVALLE",
+      "lat": 38.4772,
+      "lon": 16.57893,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11843",
+        "lefrecce": "830011843",
+        "rfi": 71,
+        "eticket": null,
+        "nap": "830011843"
+      }
+    },
+    {
+      "stop_id": "rfi:S11844",
+      "nome": "MONASTERACE-STILO",
+      "lat": 38.43747,
+      "lon": 16.57468,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11844",
+        "lefrecce": "830011844",
+        "rfi": 91,
+        "eticket": null,
+        "nap": "830011844"
+      }
+    },
+    {
+      "stop_id": "rfi:S11846",
+      "nome": "CAULONIA",
+      "lat": 38.34399,
+      "lon": 16.46705,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11846",
+        "lefrecce": "830011846",
+        "rfi": 41,
+        "eticket": null,
+        "nap": "830011846"
+      }
+    },
+    {
+      "stop_id": "rfi:S11847",
+      "nome": "ROCCELLA JONICA",
+      "lat": 38.32216,
+      "lon": 16.40687,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11847",
+        "lefrecce": "830011847",
+        "rfi": 132,
+        "eticket": null,
+        "nap": "830011847"
+      }
+    },
+    {
+      "stop_id": "rfi:S11848",
+      "nome": "GIOIOSA JONICA",
+      "lat": 38.30022,
+      "lon": 16.33073,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11848",
+        "lefrecce": "830011848",
+        "rfi": 68,
+        "eticket": null,
+        "nap": "830011848"
+      }
+    },
+    {
+      "stop_id": "rfi:S11850",
+      "nome": "SIDERNO",
+      "lat": 38.27082,
+      "lon": 16.30172,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11850",
+        "lefrecce": "830011850",
+        "rfi": 160,
+        "eticket": null,
+        "nap": "830011850"
+      }
+    },
+    {
+      "stop_id": "rfi:S11851",
+      "nome": "LOCRI",
+      "lat": 38.23369,
+      "lon": 16.265,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11851",
+        "lefrecce": "830011851",
+        "rfi": 78,
+        "eticket": null,
+        "nap": "830011851"
+      }
+    },
+    {
+      "stop_id": "rfi:S11853",
+      "nome": "ARDORE",
+      "lat": 38.17578,
+      "lon": 16.20722,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11853",
+        "lefrecce": "830011853",
+        "rfi": 10,
+        "eticket": null,
+        "nap": "830011853"
+      }
+    },
+    {
+      "stop_id": "rfi:S11854",
+      "nome": "BOVALINO",
+      "lat": 38.15019,
+      "lon": 16.18161,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11854",
+        "lefrecce": "830011854",
+        "rfi": 23,
+        "eticket": null,
+        "nap": "830011854"
+      }
+    },
+    {
+      "stop_id": "rfi:S11855",
+      "nome": "BIANCO",
+      "lat": 38.08665,
+      "lon": 16.15335,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11855",
+        "lefrecce": "830011855",
+        "rfi": 17,
+        "eticket": null,
+        "nap": "830011855"
+      }
+    },
+    {
+      "stop_id": "rfi:S11856",
+      "nome": "FERRUZZANO",
+      "lat": 38.01391,
+      "lon": 16.13449,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11856",
+        "lefrecce": "830011856",
+        "rfi": 62,
+        "eticket": null,
+        "nap": "830011856"
+      }
+    },
+    {
+      "stop_id": "rfi:S11857",
+      "nome": "BRANCALEONE",
+      "lat": 37.96557,
+      "lon": 16.10331,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11857",
+        "lefrecce": "830011857",
+        "rfi": 24,
+        "eticket": null,
+        "nap": "830011857"
+      }
+    },
+    {
+      "stop_id": "rfi:S11859",
+      "nome": "PALIZZI",
+      "lat": 37.91906,
+      "lon": 15.98632,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11859",
+        "lefrecce": "830011859",
+        "rfi": 105,
+        "eticket": null,
+        "nap": "830011859"
+      }
+    },
+    {
+      "stop_id": "rfi:S11860",
+      "nome": "BOVA MARINA",
+      "lat": 37.93047,
+      "lon": 15.92393,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11860",
+        "lefrecce": "830011860",
+        "rfi": 22,
+        "eticket": null,
+        "nap": "830011860"
+      }
+    },
+    {
+      "stop_id": "rfi:S11861",
+      "nome": "CONDOFURI",
+      "lat": 37.92775,
+      "lon": 15.87492,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11861",
+        "lefrecce": "830011861",
+        "rfi": 48,
+        "eticket": null,
+        "nap": "830011861"
+      }
+    },
+    {
+      "stop_id": "rfi:S11862",
+      "nome": "MARINA DI S.LORENZO",
+      "lat": 37.91981,
+      "lon": 15.82635,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11862",
+        "lefrecce": "830011862",
+        "rfi": 86,
+        "eticket": null,
+        "nap": "830011862"
+      }
+    },
+    {
+      "stop_id": "rfi:S11863",
+      "nome": "MELITO DI PORTO SALVO",
+      "lat": 37.91701,
+      "lon": 15.78092,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11863",
+        "lefrecce": "830011863",
+        "rfi": 87,
+        "eticket": null,
+        "nap": "830011863"
+      }
+    },
+    {
+      "stop_id": "rfi:S11864",
+      "nome": "SALINE DI REGGIO",
+      "lat": 37.93681,
+      "lon": 15.71067,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11864",
+        "lefrecce": "830011864",
+        "rfi": 146,
+        "eticket": null,
+        "nap": "830011864"
+      }
+    },
+    {
+      "stop_id": "rfi:S11865",
+      "nome": "MOTTA S.GIOVANNI LAZZARO",
+      "lat": 37.97652,
+      "lon": 15.66043,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11865",
+        "lefrecce": "830011865",
+        "rfi": 96,
+        "eticket": null,
+        "nap": "830011865"
+      }
+    },
+    {
+      "stop_id": "rfi:S11866",
+      "nome": "REGGIO DI CALABRIA BOCALE",
+      "lat": 38.00264,
+      "lon": 15.63906,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11866",
+        "lefrecce": "830011866",
+        "rfi": 120,
+        "eticket": null,
+        "nap": "830011866"
+      }
+    },
+    {
+      "stop_id": "rfi:S11867",
+      "nome": "REGGIO DI CALABRIA PELLARO",
+      "lat": 38.0254,
+      "lon": 15.6502,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11867",
+        "lefrecce": "830011867",
+        "rfi": 125,
+        "eticket": null,
+        "nap": "830011867"
+      }
+    },
+    {
+      "stop_id": "rfi:S11868",
+      "nome": "REGGIO DI CALABRIA S.GREGORIO",
+      "lat": 38.05947,
+      "lon": 15.65206,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11868",
+        "lefrecce": "830011868",
+        "rfi": 127,
+        "eticket": null,
+        "nap": "830011868"
+      }
+    },
+    {
+      "stop_id": "rfi:S11872",
+      "nome": "AFRICO NUOVO",
+      "lat": 38.05135,
+      "lon": 16.14428,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11872",
+        "lefrecce": "830011872",
+        "rfi": 4,
+        "eticket": null,
+        "nap": "830011872"
+      }
+    },
+    {
+      "stop_id": "rfi:S11873",
+      "nome": "REGGIO DI CALABRIA OMECA",
+      "lat": 38.08132,
+      "lon": 15.63423,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11873",
+        "lefrecce": "830011873",
+        "rfi": 124,
+        "eticket": null,
+        "nap": "830011873"
+      }
+    },
+    {
+      "stop_id": "rfi:S11904",
+      "nome": "S.MARCO ROGGIANO",
+      "lat": 39.60273,
+      "lon": 16.20879,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11904",
+        "lefrecce": "830011904",
+        "rfi": 143,
+        "eticket": null,
+        "nap": "830011904"
+      }
+    },
+    {
+      "stop_id": "rfi:S11906",
+      "nome": "TORANO LATTARICO",
+      "lat": 39.49206,
+      "lon": 16.21051,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11906",
+        "lefrecce": "830011906",
+        "rfi": 169,
+        "eticket": null,
+        "nap": "830011906"
+      }
+    },
+    {
+      "stop_id": "rfi:S11909",
+      "nome": "CASTIGLIONE COSENTINO",
+      "lat": 39.35287,
+      "lon": 16.24439,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11909",
+        "lefrecce": "830011909",
+        "rfi": 38,
+        "eticket": null,
+        "nap": "830011909"
+      }
+    },
+    {
+      "stop_id": "rfi:S11910",
+      "nome": "COSENZA",
+      "lat": 39.31581,
+      "lon": 16.26096,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11910",
+        "lefrecce": "830011910",
+        "rfi": 50,
+        "eticket": null,
+        "nap": "830011910"
+      }
+    },
+    {
+      "stop_id": "rfi:S11950",
+      "nome": "LAMEZIA TERME SAMBIASE",
+      "lat": 38.96035,
+      "lon": 16.28483,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11950",
+        "lefrecce": "830011950",
+        "rfi": 77,
+        "eticket": null,
+        "nap": "830011950"
+      }
+    },
+    {
+      "stop_id": "rfi:S11951",
+      "nome": "LAMEZIA TERME NICASTRO",
+      "lat": 38.96697,
+      "lon": 16.32015,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11951",
+        "lefrecce": "830011951",
+        "rfi": 76,
+        "eticket": null,
+        "nap": "830011951"
+      }
+    },
+    {
+      "stop_id": "rfi:S11956",
+      "nome": "CATANZARO",
+      "lat": 38.89313,
+      "lon": 16.59908,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11956",
+        "lefrecce": "830011956",
+        "rfi": 39,
+        "eticket": null,
+        "nap": "830011956"
+      }
+    },
+    {
+      "stop_id": "rfi:S11974",
+      "nome": "Reggio di Calabria Pentimele",
+      "lat": 38.13703,
+      "lon": 15.65765,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11974",
+        "lefrecce": "830011974",
+        "rfi": 2693,
+        "eticket": null,
+        "nap": "830011974"
+      }
+    },
+    {
+      "stop_id": "rfi:S12002",
+      "nome": "PALERMO CENTRALE",
+      "lat": 38.10886,
+      "lon": 13.36752,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S12002",
+        "lefrecce": "830012002",
+        "rfi": 2018,
+        "eticket": null,
+        "nap": "830012002"
+      }
+    },
+    {
+      "stop_id": "rfi:S12332",
+      "nome": "CATANIA CENTRALE",
+      "lat": 37.50494,
+      "lon": 15.09943,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S12332",
+        "lefrecce": "830012332",
+        "rfi": 1032,
+        "eticket": null,
+        "nap": "830012332"
+      }
+    },
+    {
+      "stop_id": "rfi:S13704",
+      "nome": "Reggio di Calabria Aeroporto",
+      "lat": 38.06715,
+      "lon": 15.65191,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S13704",
+        "lefrecce": "830013704",
+        "rfi": 1305,
+        "eticket": null,
+        "nap": "830013704"
+      }
+    },
+    {
+      "stop_id": "rfi:S13708",
+      "nome": "Brindisi Ricerca",
+      "lat": 40.58898,
+      "lon": 17.84777,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S13708",
+        "lefrecce": "830013708",
+        "rfi": 2723,
+        "eticket": null,
+        "nap": "830013708"
+      }
+    },
+    {
+      "stop_id": "rfi:S60015",
+      "nome": "Lagonegro Centro",
+      "lat": 40.13129,
+      "lon": 15.7635,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S60015",
+        "lefrecce": "830060015",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830060015"
+      }
+    }
+  ]
+}
