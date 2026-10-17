@@ -2327,6 +2327,1280 @@
       }
     },
     {
+      "stop_id": "fse:S11653",
+      "nome": "S.CESARIO DI LECCE",
+      "lat": 40.30409,
+      "lon": 18.16661,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S11653",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S11672",
+      "nome": "GALLIPOLI",
+      "lat": 40.05749,
+      "lon": 17.98822,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S11672",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13092",
+      "nome": "BARI SUD EST",
+      "lat": 41.11743,
+      "lon": 16.87979,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13092",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13093",
+      "nome": "MUNGIVACCA",
+      "lat": 41.09022,
+      "lon": 16.90013,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13093",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13094",
+      "nome": "BARI CEGLIE-CARBONARA",
+      "lat": 41.06839,
+      "lon": 16.87113,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13094",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13095",
+      "nome": "BARI LA FITTA",
+      "lat": 41.06126,
+      "lon": 16.87178,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13095",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13096",
+      "nome": "VALENZANO",
+      "lat": 41.04297,
+      "lon": 16.87899,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13096",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13097",
+      "nome": "VALENZANO LAMIE",
+      "lat": 41.03206,
+      "lon": 16.87842,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13097",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13098",
+      "nome": "ADELFIA",
+      "lat": 41.00649,
+      "lon": 16.87198,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13098",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13099",
+      "nome": "CASAMASSIMA",
+      "lat": 40.95442,
+      "lon": 16.91467,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13099",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13100",
+      "nome": "SAMMICHELE",
+      "lat": 40.89311,
+      "lon": 16.94981,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13100",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13101",
+      "nome": "TURI",
+      "lat": 40.91434,
+      "lon": 17.01744,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13101",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13102",
+      "nome": "PUTIGNANO S.PIETRO PITURNO",
+      "lat": 40.87019,
+      "lon": 17.08766,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13102",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13103",
+      "nome": "PUTIGNANO",
+      "lat": 40.85675,
+      "lon": 17.12336,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13103",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13104",
+      "nome": "MARTINA FRANCA",
+      "lat": 40.70061,
+      "lon": 17.33159,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13104",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13105",
+      "nome": "CISTERNINO (FSC)",
+      "lat": 40.73715,
+      "lon": 17.42647,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13105",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13106",
+      "nome": "PASCAROSA",
+      "lat": 40.68924,
+      "lon": 17.47314,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13106",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13107",
+      "nome": "CEGLIE MESSAPICA",
+      "lat": 40.64696,
+      "lon": 17.52204,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13107",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13108",
+      "nome": "CAPECE",
+      "lat": 40.58597,
+      "lon": 17.56635,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13108",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13109",
+      "nome": "SAVA",
+      "lat": null,
+      "lon": null,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13109",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13110",
+      "nome": "MANDURIA",
+      "lat": 40.40501,
+      "lon": 17.63771,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13110",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13113",
+      "nome": "GUAGNANO",
+      "lat": 40.3988,
+      "lon": 17.94426,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13113",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13115",
+      "nome": "CAMPI SALENTINA",
+      "lat": 40.39328,
+      "lon": 18.01466,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13115",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13116",
+      "nome": "NOVOLI",
+      "lat": 40.38151,
+      "lon": 18.04832,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13116",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13117",
+      "nome": "TRIGGIANO",
+      "lat": 41.06405,
+      "lon": 16.91641,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13117",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13118",
+      "nome": "CAPURSO",
+      "lat": 41.04935,
+      "lon": 16.92338,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13118",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13119",
+      "nome": "NOICATTARO",
+      "lat": 41.02874,
+      "lon": 16.98652,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13119",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13120",
+      "nome": "RUTIGLIANO",
+      "lat": 41.01164,
+      "lon": 17.00852,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13120",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13121",
+      "nome": "CONVERSANO",
+      "lat": 40.97119,
+      "lon": 17.11559,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13121",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13122",
+      "nome": "CASTELLANA GROTTE",
+      "lat": 40.88704,
+      "lon": 17.16597,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13122",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13123",
+      "nome": "GROTTE DI CASTELLANA",
+      "lat": 40.87391,
+      "lon": 17.15229,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13123",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13124",
+      "nome": "PUTIGNANO IN MONTE LAURETO",
+      "lat": 40.8284,
+      "lon": 17.10804,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13124",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13125",
+      "nome": "NOCI",
+      "lat": 40.79556,
+      "lon": 17.1281,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13125",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13126",
+      "nome": "ALBEROBELLO",
+      "lat": 40.78667,
+      "lon": 17.24219,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13126",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13127",
+      "nome": "LOCOROTONDO",
+      "lat": 40.75594,
+      "lon": 17.32095,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13127",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13128",
+      "nome": "MARTINA FRANCA-COLONNE GRASSI",
+      "lat": 40.68516,
+      "lon": 17.33142,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13128",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13129",
+      "nome": "S.PAOLO (FSC)",
+      "lat": 40.64584,
+      "lon": 17.31506,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13129",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13130",
+      "nome": "CRISPIANO S.RAFFAELE",
+      "lat": 40.61542,
+      "lon": 17.24784,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13130",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13131",
+      "nome": "CRISPIANO",
+      "lat": 40.60503,
+      "lon": 17.23793,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13131",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13132",
+      "nome": "STATTE",
+      "lat": 40.56579,
+      "lon": 17.21252,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13132",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13133",
+      "nome": "TARANTO GALESE",
+      "lat": 40.49458,
+      "lon": 17.23516,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13133",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13147",
+      "nome": "CARMIANO-MAGLIANO",
+      "lat": 40.34822,
+      "lon": 18.05408,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13147",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13148",
+      "nome": "MONTERONI DI LECCE",
+      "lat": 40.31572,
+      "lon": 18.05467,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13148",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13149",
+      "nome": "COPERTINO",
+      "lat": 40.26804,
+      "lon": 18.05399,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13149",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13150",
+      "nome": "NARDO' CITTA'",
+      "lat": 40.18152,
+      "lon": 18.04086,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13150",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13151",
+      "nome": "NARDO' CENTRALE",
+      "lat": 40.16165,
+      "lon": 18.04945,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13151",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13152",
+      "nome": "GALATONE CITTA'",
+      "lat": 40.14736,
+      "lon": 18.06314,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13152",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13153",
+      "nome": "SECLI'-NEVIANO-ARADEO",
+      "lat": 40.11653,
+      "lon": 18.10854,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13153",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13154",
+      "nome": "TUGLIE",
+      "lat": 40.07013,
+      "lon": 18.10453,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13154",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13155",
+      "nome": "PARABITA",
+      "lat": 40.04756,
+      "lon": 18.12174,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13155",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13156",
+      "nome": "MATINO",
+      "lat": 40.02925,
+      "lon": 18.13136,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13156",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13157",
+      "nome": "CASARANO",
+      "lat": 40.00307,
+      "lon": 18.15864,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13157",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13158",
+      "nome": "UGENTO-TAURISANO",
+      "lat": 39.94452,
+      "lon": 18.1907,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13158",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13159",
+      "nome": "PRESICCE-ACQUARICA",
+      "lat": 39.90489,
+      "lon": 18.25858,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13159",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13160",
+      "nome": "SALVE-RUGGIANO",
+      "lat": 39.87076,
+      "lon": 18.31139,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13160",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13161",
+      "nome": "MORCIANO B.C.G.",
+      "lat": 39.85874,
+      "lon": 18.33246,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13161",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13162",
+      "nome": "GAGLIANO L.",
+      "lat": 39.85054,
+      "lon": 18.35949,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13162",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13163",
+      "nome": "TUGLIE MUSEO D. CIVILTA` CONTADINA",
+      "lat": null,
+      "lon": null,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13163",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13164",
+      "nome": "S.DONATO DI LECCE",
+      "lat": 40.26991,
+      "lon": 18.18529,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13164",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13165",
+      "nome": "GALUGNANO",
+      "lat": 40.25666,
+      "lon": 18.2063,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13165",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13166",
+      "nome": "STERNATIA",
+      "lat": 40.21824,
+      "lon": 18.22537,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13166",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13167",
+      "nome": "ZOLLINO",
+      "lat": 40.199,
+      "lon": 18.23703,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13167",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13168",
+      "nome": "SOLETO",
+      "lat": 40.18574,
+      "lon": 18.21111,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13168",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13169",
+      "nome": "GALATINA",
+      "lat": 40.17906,
+      "lon": 18.16466,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13169",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13170",
+      "nome": "SANNICOLA",
+      "lat": 40.09012,
+      "lon": 18.05592,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13170",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13171",
+      "nome": "ALEZIO",
+      "lat": 40.06864,
+      "lon": 18.05248,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13171",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13172",
+      "nome": "GALLIPOLI VIA AGRIGENTO",
+      "lat": 40.06138,
+      "lon": 18.0015,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13172",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13174",
+      "nome": "GALLIPOLI PORTO",
+      "lat": null,
+      "lon": null,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13174",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13175",
+      "nome": "GALLIPOLI VIA SALENTO",
+      "lat": 40.0521,
+      "lon": 17.99969,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13175",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13176",
+      "nome": "GALLIPOLI BAIA VERDE",
+      "lat": 40.04189,
+      "lon": 18.01877,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13176",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13177",
+      "nome": "TAVIANO",
+      "lat": 39.98095,
+      "lon": 18.08081,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13177",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13178",
+      "nome": "RACALE-ALLISTE",
+      "lat": 39.96549,
+      "lon": 18.08763,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13178",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13179",
+      "nome": "MELISSANO",
+      "lat": 39.9762,
+      "lon": 18.12083,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13179",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13180",
+      "nome": "CORIGLIANO D'OTRANTO",
+      "lat": 40.16187,
+      "lon": 18.26246,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13180",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13181",
+      "nome": "MELPIGNANO",
+      "lat": 40.14785,
+      "lon": 18.27708,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13181",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13182",
+      "nome": "MAGLIE",
+      "lat": 40.12594,
+      "lon": 18.30006,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13182",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13183",
+      "nome": "MAGLIE VIA OTRANTO",
+      "lat": null,
+      "lon": null,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13183",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13184",
+      "nome": "MURO LECCESE",
+      "lat": 40.09872,
+      "lon": 18.33474,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13184",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13185",
+      "nome": "SANARICA",
+      "lat": 40.08356,
+      "lon": 18.34717,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13185",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13186",
+      "nome": "POGGIARDO",
+      "lat": 40.05166,
+      "lon": 18.37036,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13186",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13187",
+      "nome": "SPONGANO",
+      "lat": 40.01398,
+      "lon": 18.35923,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13187",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13188",
+      "nome": "ANDRANO-CASTIGLIONE",
+      "lat": 39.97955,
+      "lon": 18.33975,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13188",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13189",
+      "nome": "MIGGIANO",
+      "lat": 39.9644,
+      "lon": 18.32335,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13189",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13190",
+      "nome": "TRICASE",
+      "lat": 39.93345,
+      "lon": 18.3525,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13190",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13191",
+      "nome": "TIGGIANO",
+      "lat": 39.90461,
+      "lon": 18.35781,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13191",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13192",
+      "nome": "ALESSANO CORSANO",
+      "lat": 39.89209,
+      "lon": 18.34712,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13192",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13193",
+      "nome": "OTRANTO",
+      "lat": 40.14957,
+      "lon": 18.48105,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13193",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13194",
+      "nome": "GIURDIGNANO",
+      "lat": 40.14062,
+      "lon": 18.41408,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13194",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13195",
+      "nome": "CANNOLE",
+      "lat": 40.15594,
+      "lon": 18.37297,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13195",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13196",
+      "nome": "BAGNOLO DEL SALENTO",
+      "lat": 40.14609,
+      "lon": 18.35444,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13196",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
+      "stop_id": "fse:S13201",
+      "nome": "BARI CENTRALE (FC)",
+      "lat": 41.11723,
+      "lon": 16.87063,
+      "rete": "fse",
+      "x_codici": {
+        "vt": "S13201",
+        "lefrecce": null,
+        "rfi": null,
+        "eticket": null,
+        "nap": null
+      }
+    },
+    {
       "stop_id": "rfi:S00219",
       "nome": "TORINO PORTA NUOVA",
       "lat": 45.06097,
