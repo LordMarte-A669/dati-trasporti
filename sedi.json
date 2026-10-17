@@ -1,0 +1,512 @@
+{
+  "schema": 1,
+  "generato": "2026-10-17",
+  "edifici": [
+    {
+      "codice": "E002",
+      "ateneo": "uniba",
+      "nome": "Campus Chimica",
+      "lat": 41.1089761,
+      "lon": 16.8836417
+    },
+    {
+      "codice": "E004",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Scienze del suolo, della pianta e degli alimenti. (Di.S.S.P.A.)",
+      "lat": 41.1105496,
+      "lon": 16.8823508
+    },
+    {
+      "codice": "E006",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Farmacia e Scienze del Farmaco - Pal. V. Tortorella",
+      "lat": 41.1087431,
+      "lon": 16.8824343
+    },
+    {
+      "codice": "E007",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Fisica",
+      "lat": 41.1081077,
+      "lon": 16.884143
+    },
+    {
+      "codice": "E008",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Informatica",
+      "lat": 41.1097291,
+      "lon": 16.8815109
+    },
+    {
+      "codice": "E009",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Matematica",
+      "lat": 41.1085461,
+      "lon": 16.8808012
+    },
+    {
+      "codice": "E010",
+      "ateneo": "uniba",
+      "nome": "Palazzo delle Aule presso Campus",
+      "lat": 41.1093824,
+      "lon": 16.8817686
+    },
+    {
+      "codice": "E011",
+      "ateneo": "uniba",
+      "nome": "Palazzo di Scienze della Terra",
+      "lat": 41.1096434,
+      "lon": 16.8804877
+    },
+    {
+      "codice": "E025",
+      "ateneo": "uniba",
+      "nome": "Scienze della Formazione",
+      "lat": 41.1195245,
+      "lon": 16.8670883
+    },
+    {
+      "codice": "E034",
+      "ateneo": "uniba",
+      "nome": "Palazzo Ateneo",
+      "lat": 41.1205612,
+      "lon": 16.868484
+    }
+  ],
+  "piedi": [
+    {
+      "da": "E002",
+      "a": "fal:S02110",
+      "min": 33,
+      "m": 2487,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E002",
+      "a": "fnb:S01110",
+      "min": 28,
+      "m": 2103,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E002",
+      "a": "rfi:S11119",
+      "min": 27,
+      "m": 2043,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E002",
+      "a": "rfi:S11121",
+      "min": 25,
+      "m": 1855,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E002",
+      "a": "rfi:S11125",
+      "min": 28,
+      "m": 2090,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E004",
+      "a": "fal:S02110",
+      "min": 35,
+      "m": 2592,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E004",
+      "a": "fnb:S01110",
+      "min": 29,
+      "m": 2208,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E004",
+      "a": "rfi:S11119",
+      "min": 29,
+      "m": 2148,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E004",
+      "a": "rfi:S11121",
+      "min": 27,
+      "m": 2047,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E004",
+      "a": "rfi:S11125",
+      "min": 31,
+      "m": 2282,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E006",
+      "a": "fal:S02110",
+      "min": 33,
+      "m": 2471,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E006",
+      "a": "fnb:S01110",
+      "min": 28,
+      "m": 2087,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E006",
+      "a": "rfi:S11119",
+      "min": 27,
+      "m": 2027,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E006",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1913,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E006",
+      "a": "rfi:S11125",
+      "min": 29,
+      "m": 2147,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E007",
+      "a": "fal:S02110",
+      "min": 34,
+      "m": 2581,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E007",
+      "a": "fnb:S01110",
+      "min": 29,
+      "m": 2197,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E007",
+      "a": "rfi:S11119",
+      "min": 28,
+      "m": 2137,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E007",
+      "a": "rfi:S11121",
+      "min": 27,
+      "m": 2002,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E007",
+      "a": "rfi:S11125",
+      "min": 30,
+      "m": 2237,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "fal:S02110",
+      "min": 30,
+      "m": 2240,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "fnb:S01110",
+      "min": 25,
+      "m": 1856,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "fnb:S01115",
+      "min": 33,
+      "m": 2497,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "rfi:S11119",
+      "min": 24,
+      "m": 1796,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1951,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E008",
+      "a": "rfi:S11125",
+      "min": 32,
+      "m": 2398,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "fal:S02110",
+      "min": 30,
+      "m": 2244,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "fnb:S01110",
+      "min": 25,
+      "m": 1861,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "fnb:S01115",
+      "min": 33,
+      "m": 2501,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "rfi:S11119",
+      "min": 24,
+      "m": 1801,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1955,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E009",
+      "a": "rfi:S11125",
+      "min": 32,
+      "m": 2369,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "fal:S02110",
+      "min": 31,
+      "m": 2333,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "fnb:S01110",
+      "min": 26,
+      "m": 1950,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "fnb:S01115",
+      "min": 35,
+      "m": 2591,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "rfi:S11119",
+      "min": 25,
+      "m": 1890,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "rfi:S11121",
+      "min": 27,
+      "m": 2044,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E010",
+      "a": "rfi:S11125",
+      "min": 31,
+      "m": 2332,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "fal:S02110",
+      "min": 29,
+      "m": 2193,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "fnb:S01110",
+      "min": 24,
+      "m": 1809,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "fnb:S01115",
+      "min": 33,
+      "m": 2450,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "rfi:S11119",
+      "min": 23,
+      "m": 1749,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "rfi:S11121",
+      "min": 25,
+      "m": 1904,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E011",
+      "a": "rfi:S11125",
+      "min": 32,
+      "m": 2429,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fal:S02110",
+      "min": 9,
+      "m": 695,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fal:S02111",
+      "min": 31,
+      "m": 2321,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fal:S02112",
+      "min": 29,
+      "m": 2162,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fnb:S01110",
+      "min": 4,
+      "m": 324,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fnb:S01115",
+      "min": 8,
+      "m": 574,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fnb:S01120",
+      "min": 20,
+      "m": 1528,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "fnb:S01125",
+      "min": 28,
+      "m": 2115,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "rfi:S11119",
+      "min": 6,
+      "m": 479,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E025",
+      "a": "rfi:S11121",
+      "min": 28,
+      "m": 2108,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fal:S02110",
+      "min": 9,
+      "m": 661,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fal:S02111",
+      "min": 35,
+      "m": 2590,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fal:S02112",
+      "min": 33,
+      "m": 2431,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fnb:S01110",
+      "min": 3,
+      "m": 261,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fnb:S01115",
+      "min": 11,
+      "m": 842,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fnb:S01120",
+      "min": 24,
+      "m": 1805,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "fnb:S01125",
+      "min": 30,
+      "m": 2217,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "rfi:S11119",
+      "min": 6,
+      "m": 416,
+      "fonte": "fossgis-20261017"
+    },
+    {
+      "da": "E034",
+      "a": "rfi:S11121",
+      "min": 27,
+      "m": 2004,
+      "fonte": "fossgis-20261017"
+    }
+  ]
+}

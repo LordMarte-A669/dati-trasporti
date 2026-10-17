@@ -9,6 +9,9 @@ Questi file raccolgono orari di treni a scopo informativo.
   (attribuzione: ISTAT, openpolis).
 - **Scioperi**: RSS pubblica del Ministero delle Infrastrutture e dei Trasporti (`https://scioperi.mit.gov.it`),
   riuso con citazione della fonte. Il testo degli avvisi resta del Ministero.
+- **Sedi universitarie (coordinate e tempi a piedi)**: © OpenStreetMap contributors, licenza ODbL.
+  I centroidi degli edifici vengono da OpenStreetMap (Overpass), i minuti a piedi dal router pedonale
+  `routing.openstreetmap.de` (FOSSGIS).
 - **Lavorazione**: ritaglio dell'area e compressione fatti da Sciamn.
 
 Gli orari sono **indicativi**: per viaggiare fanno fede le fonti ufficiali degli operatori. Nessuna garanzia

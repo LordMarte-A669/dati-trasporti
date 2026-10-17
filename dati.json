@@ -60,6 +60,11 @@
       "file": "stazioni.json",
       "sha256": "dac2f9137b3c7665d9e6336ec0f0f593c5e49a3d23d9c7746cd60586fb6dac4e",
       "generato": "2026-10-17"
+    },
+    "sedi": {
+      "file": "sedi.json",
+      "sha256": "7e009b5670361cab10c17b71edae6ecf5420bc7cd599d74c13977f41915b8675",
+      "generato": "2026-10-17"
     }
   }
 }
