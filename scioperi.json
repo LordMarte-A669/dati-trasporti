@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generato": "2026-10-18",
+  "generato": "2026-10-19",
   "fonte": "mit-rss",
   "scioperi": [
     {
@@ -43,7 +43,7 @@
       "rilevanza": "Nazionale",
       "regione": "Italia",
       "provincia": "Tutte",
-      "modalita": "INTERA GIORNATA - AEREO: DALLE 00.00 ALLE 23.59; FERROVIARIO: DALLE 21.00 DEL 29/10 ALLE 20.59 DEL 30/10; AUTOSTRADE: DALLE 22.00 DEL 29/10: TAXI: DALLE 00.01 ALLE 23.59",
+      "modalita": "INTERA GIORNATA - AEREO: DALLE 00.00 ALLE 23.59; FERROVIARIO: DALLE 21.00 DEL 29/10 ALLE 20.59 DEL 30/10; TPL: DURATA E MODALITA' STABILITE A LIVELLO TERRITORIALE; AUTOSTRADE: DALLE 22.00 DEL 29/10: TAXI: DALLE 00.01 ALLE 23.59",
       "categoria": "SCIOPERO GENERALE SETTORI PUBBLICI E PRIVATI",
       "operatori": [],
       "tutti": true,
