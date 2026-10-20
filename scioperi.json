@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generato": "2026-10-19",
+  "generato": "2026-10-20",
   "fonte": "mit-rss",
   "scioperi": [
     {
@@ -50,6 +50,20 @@
       "incerto": false
     },
     {
+      "id": "8611",
+      "inizio": "2026-10-30",
+      "fine": "2026-10-30",
+      "settore": "Generale",
+      "rilevanza": "Nazionale",
+      "regione": "Italia",
+      "provincia": "Tutte",
+      "modalita": "INTERA GIORNATA DALLE 00.01 ALLE 23.59",
+      "categoria": "SCIOPERO GENERALE SETTORI PUBBLICI E PRIVATI*",
+      "operatori": [],
+      "tutti": true,
+      "incerto": false
+    },
+    {
       "id": "8592",
       "inizio": "2026-11-20",
       "fine": "2026-11-21",
@@ -59,6 +73,20 @@
       "provincia": "Tutte",
       "modalita": "SETTORE FERROVIARIO, TRASPORTO MERCI SU ROTAIA 23 ORE: DALLE 21.00 DEL 20/11 ALLE 20.00 DEL 21/11; *TPL: INTERA PRESTAZIONE DEL 21/11",
       "categoria": "PERSONALE IMPRESE CHE SVOLGONO ATTIVITA' FERROVIARIA",
+      "operatori": [],
+      "tutti": true,
+      "incerto": false
+    },
+    {
+      "id": "8610",
+      "inizio": "2026-11-20",
+      "fine": "2026-11-20",
+      "settore": "Generale",
+      "rilevanza": "Nazionale",
+      "regione": "Italia",
+      "provincia": "Tutte",
+      "modalita": "INTERA GIORNATA DI LAVORO",
+      "categoria": "SCIOPERO GENERALE SETTORI PUBBLICI E PRIVATI ANCHE IN APPALTO E STRUMENTALI",
       "operatori": [],
       "tutti": true,
       "incerto": false
