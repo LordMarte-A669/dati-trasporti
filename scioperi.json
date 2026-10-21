@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generato": "2026-10-20",
+  "generato": "2026-10-21",
   "fonte": "mit-rss",
   "scioperi": [
     {
@@ -59,6 +59,20 @@
       "provincia": "Tutte",
       "modalita": "INTERA GIORNATA DALLE 00.01 ALLE 23.59",
       "categoria": "SCIOPERO GENERALE SETTORI PUBBLICI E PRIVATI*",
+      "operatori": [],
+      "tutti": true,
+      "incerto": false
+    },
+    {
+      "id": "8612",
+      "inizio": "2026-10-30",
+      "fine": "2026-10-30",
+      "settore": "Generale",
+      "rilevanza": "Nazionale",
+      "regione": "Italia",
+      "provincia": "Tutte",
+      "modalita": "INTERA GIORNATA",
+      "categoria": "SCIOPERO GENERALE CATEGORIE PUBBLICHE E PRIVATE*",
       "operatori": [],
       "tutti": true,
       "incerto": false
