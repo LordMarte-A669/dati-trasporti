@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "versione": "2026-10-17T08:03:43Z",
+  "versione": "2026-10-26T14:03:52Z",
   "operatori": {
     "TI": {
       "file": "treni-TI.json",
-      "validoDal": "2026-10-17",
+      "validoDal": "2026-10-24",
       "validoAl": "2027-12-11",
-      "sha256": "676d56a28d01eae66fdbbc68caa56a2babcaeed61b5d6c1d31c3c1d0eaa1d03f",
-      "corse": 1713,
-      "tipico": 889,
-      "versioneFonte": "2026-10-15T14:16:04Z",
+      "sha256": "f695d9be1ca045330ce3ff58d68fee82fda5f685c224b957a76ff5b71f02f968",
+      "corse": 1913,
+      "tipico": 894,
+      "versioneFonte": "2026-10-22T14:15:47Z",
       "doppie": 2,
       "asset": [
         "1080596"
@@ -32,7 +32,7 @@
       "file": "treni-FAL.json",
       "validoDal": "2026-09-07",
       "validoAl": "2026-12-31",
-      "sha256": "dc39b0c9801a2ce805789a38c3775100903e15ce4348599415d993f57765b979",
+      "sha256": "89ff712a9cc5413871c134753a7a582bfffc9160ddd09c816365c55bf1c6d1c4",
       "corse": 415,
       "tipico": 374,
       "versioneFonte": "2026-09-07T00:00:00+02:00",
