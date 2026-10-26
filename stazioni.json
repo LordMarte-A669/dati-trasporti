@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generato": "2026-10-17",
+  "generato": "2026-10-26",
   "stazioni": [
     {
       "stop_id": "fal:S02110",
@@ -3769,6 +3769,20 @@
       }
     },
     {
+      "stop_id": "rfi:S08650",
+      "nome": "CIAMPINO",
+      "lat": 41.8043,
+      "lon": 12.59956,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S08650",
+        "lefrecce": "830008650",
+        "rfi": 1106,
+        "eticket": null,
+        "nap": "830008650"
+      }
+    },
+    {
       "stop_id": "rfi:S08671",
       "nome": "CASSINO",
       "lat": 41.48382,
@@ -6065,6 +6079,20 @@
       }
     },
     {
+      "stop_id": "rfi:S11773",
+      "nome": "VILLA S.GIOVANNI CANNITELLO",
+      "lat": 38.23228,
+      "lon": 15.65325,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11773",
+        "lefrecce": "830011773",
+        "rfi": 182,
+        "eticket": null,
+        "nap": "830011773"
+      }
+    },
+    {
       "stop_id": "rfi:S11774",
       "nome": "VILLA S.GIOVANNI",
       "lat": 38.21485,
@@ -6569,6 +6597,20 @@
       }
     },
     {
+      "stop_id": "rfi:S11835",
+      "nome": "SQUILLACE",
+      "lat": 38.77705,
+      "lon": 16.57042,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11835",
+        "lefrecce": "830011835",
+        "rfi": 164,
+        "eticket": null,
+        "nap": "830011835"
+      }
+    },
+    {
       "stop_id": "rfi:S11836",
       "nome": "MONTEPAONE-MONTAURO",
       "lat": 38.7286,
@@ -6933,6 +6975,20 @@
       }
     },
     {
+      "stop_id": "rfi:S11870",
+      "nome": "Ann�",
+      "lat": 37.92504,
+      "lon": 15.74916,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11870",
+        "lefrecce": "830011870",
+        "rfi": null,
+        "eticket": null,
+        "nap": "830011870"
+      }
+    },
+    {
       "stop_id": "rfi:S11872",
       "nome": "AFRICO NUOVO",
       "lat": 38.05135,
@@ -7084,6 +7140,20 @@
         "rfi": 2018,
         "eticket": null,
         "nap": "830012002"
+      }
+    },
+    {
+      "stop_id": "rfi:S12301",
+      "nome": "MESSINA CENTRALE",
+      "lat": 38.18326,
+      "lon": 15.56129,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S12301",
+        "lefrecce": "830012301",
+        "rfi": 1700,
+        "eticket": null,
+        "nap": "830012301"
       }
     },
     {

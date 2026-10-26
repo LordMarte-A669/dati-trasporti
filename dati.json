@@ -58,8 +58,8 @@
   "anagrafi": {
     "stazioni": {
       "file": "stazioni.json",
-      "sha256": "1e6419919dc9f94487d48383a26c86255ca75ea1f5048bd4db27b8bcb552f77c",
-      "generato": "2026-10-17"
+      "sha256": "76a3847cc01c820b0115dfdb72de341e817293bedc0ee26a8a6f0e70a3fb96f5",
+      "generato": "2026-10-26"
     },
     "sedi": {
       "file": "sedi.json",
