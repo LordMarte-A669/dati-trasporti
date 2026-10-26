@@ -6976,14 +6976,14 @@
     },
     {
       "stop_id": "rfi:S11870",
-      "nome": "Ann�",
+      "nome": "ANNÀ",
       "lat": 37.92504,
       "lon": 15.74916,
       "rete": "rfi",
       "x_codici": {
         "vt": "S11870",
         "lefrecce": "830011870",
-        "rfi": null,
+        "rfi": 1310,
         "eticket": null,
         "nap": "830011870"
       }
