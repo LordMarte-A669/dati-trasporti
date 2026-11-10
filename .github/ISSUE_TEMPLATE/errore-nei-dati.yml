@@ -1,0 +1,48 @@
+name: Errore nei dati
+description: Una stazione, un orario, un codice o uno sciopero sbagliato o mancante
+title: "[dati] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie della segnalazione. Gli orari vengono dal Punto di Accesso Nazionale: se l'errore c'è anche
+        lì, si corregge alla fonte, ma serve saperlo lo stesso.
+  - type: dropdown
+    id: file
+    attributes:
+      label: In quale file?
+      options:
+        - treni-TI.json (Trenitalia)
+        - treni-FNB.json (Ferrotramviaria)
+        - treni-FAL.json (Ferrovie Appulo Lucane)
+        - treni-FDG.json (Ferrovie del Gargano)
+        - stazioni.json
+        - sedi.json
+        - scioperi.json
+        - Non lo so
+    validations:
+      required: true
+  - type: input
+    id: dove
+    attributes:
+      label: Quale stazione, treno o giorno?
+      description: "`stop_id`, numero del treno, data: quello che serve per ritrovarlo"
+      placeholder: "es. rfi:S11119, treno 23539 del 14/11"
+    validations:
+      required: true
+  - type: textarea
+    id: errore
+    attributes:
+      label: Cosa c'è nei dati e cosa dovrebbe esserci
+    validations:
+      required: true
+  - type: input
+    id: fonte
+    attributes:
+      label: Dove l'hai verificato?
+      description: Sito dell'operatore, ViaggiaTreno, cartello in stazione…
+  - type: textarea
+    id: uso
+    attributes:
+      label: Per cosa usi questi dati? (facoltativo)
+      description: Un'app, una ricerca, una tesi… Aiuta a capire cosa migliorare per primo.
