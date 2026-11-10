@@ -129,4 +129,6 @@ FDG e i bus non hanno un codice eticket, quindi restano `nap-`. Il quinto campo 
   siti, che non dichiarano una licenza.
 - Scioperi dal feed pubblico del Ministero delle Infrastrutture e dei Trasporti.
 
-I dettagli sono in `LICENZA.md`. Orari indicativi: per viaggiare fanno fede le fonti ufficiali.
+La licenza di ogni file è in [`LICENZA.md`](LICENZA.md): `stazioni.json` e `sedi.json` sono ODbL, la
+licenza degli orari è in attesa di conferma dai titolari. Orari indicativi: per viaggiare fanno fede le
+fonti ufficiali.
