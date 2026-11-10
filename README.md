@@ -8,6 +8,10 @@ scioperi annunciati. Li scrive una CI e si leggono da GitHub Pages:
 
 Pages risponde con gzip, `ETag` (304 se non è cambiato niente) e `access-control-allow-origin: *`.
 
+Usi questi dati? Scrivilo nella [discussione](https://github.com/LordMarte-A669/dati-trasporti/discussions/1):
+serve a sapere chi dipende dal formato prima di cambiarlo. Un errore nei dati si segnala con il modulo
+[«Errore nei dati»](https://github.com/LordMarte-A669/dati-trasporti/issues/new/choose).
+
 > **Stato.** Gli orari (`dati.json`, `treni-*.json`) sono aggiornati ogni lunedì dalla CI;
 > `stazioni.json` e `sedi.json` si rigenerano quando cambiano le fonti.
 > **`scioperi.json` è fermo al 22/10/2026**: il feed del Ministero rifiuta le richieste che non
