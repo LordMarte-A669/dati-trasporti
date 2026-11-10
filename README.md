@@ -1,28 +1,32 @@
 # dati-trasporti
 
 Orari dei treni del Sud Italia in JSON, pronti da usare in un'app: un file per operatore, le stazioni
-con i codici di ogni fonte e gli scioperi annunciati. Li scrive una CI ogni settimana (gli scioperi
-ogni giorno) e si leggono da GitHub Pages:
+con i codici di ogni fonte, le sedi universitarie di Bari coi tempi a piedi fino alle stazioni e gli
+scioperi annunciati. Li scrive una CI e si leggono da GitHub Pages:
 
     https://lordmarte-a669.github.io/dati-trasporti/<file>
 
 Pages risponde con gzip, `ETag` (304 se non è cambiato niente) e `access-control-allow-origin: *`.
 
-> **Stato.** Gli orari (`dati.json`, `treni-*.json`) sono online e aggiornati ogni lunedì dalla CI;
-> `scioperi.json` è online e aggiornato ogni giorno. `stazioni.json` arriva più avanti.
+> **Stato.** Gli orari (`dati.json`, `treni-*.json`) sono aggiornati ogni lunedì dalla CI;
+> `stazioni.json` e `sedi.json` si rigenerano quando cambiano le fonti.
+> **`scioperi.json` è fermo al 22/10/2026**: il feed del Ministero rifiuta le richieste che non
+> arrivano dall'Italia, e la CI gira all'estero. Finché non torna aggiornato, chi lo usa controlli
+> `generato` e non lo tratti come «nessuno sciopero».
 
 ## File
 
 | File | Contenuto |
 |---|---|
-| `dati.json` | Indice, scritto per ultimo: `schema`, `versione` (istante ISO), `provvisorio` (sotto) e per ogni operatore `file`, `validoDal`/`validoAl` (primo e ultimo giorno di una corsa qualunque: **non** la fine del servizio pieno, che può arrivare mesi prima), `sha256` del file, numero di `corse`, `doppie` (quanti numeri hanno almeno un giorno con due corse), `tipico` (corse attive nel giorno più pieno dei 7 giorni dalla generazione), `versioneFonte` e `asset` della fonte. Leggere prima questo. |
+| `dati.json` | Indice, scritto per ultimo: `schema`, `versione` (istante ISO); per ogni operatore `file`, `validoDal`/`validoAl` (primo e ultimo giorno di una corsa qualunque: **non** la fine del servizio pieno, che può arrivare mesi prima), `sha256` del file, numero di `corse`, `doppie` (quanti numeri hanno almeno un giorno con due corse), `tipico` (corse attive nel giorno più pieno dei 7 giorni dalla generazione), `versioneFonte` e `asset` della fonte; in `anagrafi` `file`, `sha256` e `generato` di `stazioni.json` e `sedi.json`. Leggere prima questo. |
 | `treni-TI.json` | Trenitalia: le corse con almeno una fermata in Puglia, Basilicata, Calabria o Molise |
 | `treni-FNB.json` | Ferrotramviaria (Bari Nord) |
 | `treni-FAL.json` | Ferrovie Appulo Lucane |
 | `treni-FDG.json` | Ferrovie del Gargano |
-| `stazioni.json` | *(in arrivo)* Anagrafe unica: per ogni stazione i codici di ViaggiaTreno, lefrecce, RFI, eticket e del Punto di Accesso Nazionale, con coordinate da OpenStreetMap |
-| `scioperi.json` | Scioperi del settore ferroviario e del trasporto locale che riguardano questi operatori, dal Ministero dei Trasporti |
-| `interruttori.json` | Interruttori di emergenza dell'app [Sciamn](https://lordmarte-a669.github.io/sciamn/): **non fanno parte dei dati**, si possono ignorare |
+| `stazioni.json` | Anagrafe unica delle stazioni (515, sulle reti RFI, FAL, FSE, FNB e FDG): per ognuna i codici di ViaggiaTreno, lefrecce, RFI, eticket e del Punto di Accesso Nazionale, con le coordinate da OpenStreetMap. Formato sotto |
+| `sedi.json` | Edifici dell'Università di Bari e minuti a piedi fino alle stazioni vicine. Formato sotto |
+| `scioperi.json` | Scioperi del settore ferroviario e del trasporto locale che riguardano questi operatori, dal Ministero dei Trasporti. **Fermo, vedi Stato** |
+| `interruttori.json`, `banchetto/` | File dell'app [Sciamn](https://lordmarte-a669.github.io/sciamn/): **non fanno parte dei dati**, si possono ignorare |
 
 Lo schema dei file è versionato (`schema` in `dati.json`): un cambio incompatibile alza il numero.
 
@@ -70,14 +74,47 @@ legge valida il file una volta e poi ne espande le corse del giorno che gli serv
   più dell'oggetto. Un campo nuovo si aggiunge solo in coda; cambiare posizione o significato di un
   campo è un cambio incompatibile e alza `schema`.
 
-### `stop_id` provvisori
+### `stop_id`
 
-Per FNB, FAL e FDG le fermate escono oggi come `fnb:nap-…`, `fal:nap-…`, `fdg:nap-…` (il codice dopo
-`nap-` è l'identificativo della fermata nel Punto di Accesso Nazionale). È una forma **provvisoria** per
-le stazioni di FNB e FAL: con `stazioni.json` diventeranno `<rete>:<codice eticket>`; le fermate dei
-bus e quelle di FDG, che un codice eticket non ce l'hanno, restano `nap-`. Il quinto campo di ogni
-fermata (`nap`) serve proprio a tradurli quando arriverà l'anagrafe. `dati.json` lo dichiara nel campo
-`provvisorio`, un array di avvisi in chiaro (oggi uno solo, su questi `stop_id` e sul campo `nap`).
+Ogni `stop_id` è `<rete>:<codice>`, e il codice dipende da cosa la fonte mette a disposizione:
+
+| Rete | `stop_id` | Esempio |
+|---|---|---|
+| RFI (Trenitalia) | codice di ViaggiaTreno | `rfi:S11119` |
+| FSE | codice di ViaggiaTreno | `fse:S11653` |
+| FNB, stazioni FAL | codice eticket | `fnb:S01110`, `fal:S02110` |
+| FDG, fermate dei bus FAL | `nap-` + identificativo nel Punto di Accesso Nazionale | `fdg:nap-APRICENA_Rete_FDG` |
+
+FDG e i bus non hanno un codice eticket, quindi restano `nap-`. Il quinto campo di ogni fermata (`nap`)
+è sempre il codice della fonte, e permette di passare dagli orari all'anagrafe e viceversa.
+
+## Formato di `stazioni.json`
+
+```json
+{
+  "schema": 1,
+  "generato": "2026-10-26",
+  "stazioni": [
+    { "stop_id": "rfi:S00219", "nome": "TORINO PORTA NUOVA", "lat": 45.06097, "lon": 7.67747, "rete": "rfi",
+      "x_codici": { "vt": "S00219", "lefrecce": "830000219", "rfi": 2876, "eticket": null, "nap": "830000219" } }
+  ]
+}
+```
+
+- `stop_id` è lo stesso dei file degli orari; `rete` ∈ `rfi fse fal fnb fdg`.
+- `x_codici`: il codice della stazione in ogni fonte, `null` dove quella fonte non la conosce. `vt` è
+  ViaggiaTreno, `lefrecce` il sito di vendita Trenitalia, `rfi` l'identificativo numerico di RFI,
+  `eticket` il sistema di bigliettazione di FNB e FAL, `nap` il Punto di Accesso Nazionale.
+- `lat`/`lon` vengono da OpenStreetMap; sono `null` per le poche stazioni che lì non si trovano.
+- Ci sono tutte le fermate dei file degli orari, anche fuori dal Sud quando una corsa ci arriva. Una
+  stazione che sparisce dagli orari resta nell'anagrafe.
+
+## Formato di `sedi.json`
+
+- `edifici[] = { codice, ateneo, nome, lat, lon }`: le sedi universitarie, con le coordinate del
+  centroide dell'edificio su OpenStreetMap.
+- `piedi[] = { da, a, min, m, fonte }`: da un edificio (`codice`) a una stazione (`stop_id`), i minuti e
+  i metri a piedi; `fonte` dice quale router li ha calcolati e quando.
 
 ## Fonti e licenze
 
@@ -85,8 +122,11 @@ fermata (`nap`) serve proprio a tradurli quando arriverà l'anagrafe. `dati.json
   Trenitalia, Ferrotramviaria, Ferrovie Appulo Lucane e Ferrovie del Gargano.
 - I confini delle regioni usati per scegliere le corse del Sud vengono da
   [openpolis/geojson-italy](https://github.com/openpolis/geojson-italy) (ISTAT, CC-BY-4.0).
-- Coordinate delle stazioni © **OpenStreetMap** contributors, [ODbL](https://opendatacommons.org/licenses/odbl/):
-  `stazioni.json` (in arrivo) sarà distribuito sotto ODbL.
+- Coordinate delle stazioni e delle sedi © **OpenStreetMap** contributors,
+  [ODbL](https://opendatacommons.org/licenses/odbl/): `stazioni.json` e `sedi.json` sono distribuiti
+  sotto ODbL. I minuti a piedi sono calcolati dal router pedonale di FOSSGIS su dati OpenStreetMap.
+- I codici ViaggiaTreno, lefrecce e RFI di `stazioni.json` vengono dai servizi pubblici dei rispettivi
+  siti, che non dichiarano una licenza.
 - Scioperi dal feed pubblico del Ministero delle Infrastrutture e dei Trasporti.
 
 I dettagli sono in `LICENZA.md`. Orari indicativi: per viaggiare fanno fede le fonti ufficiali.
