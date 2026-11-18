@@ -12,6 +12,9 @@ Questi file raccolgono orari di treni a scopo informativo.
 - **Sedi universitarie (coordinate e tempi a piedi)**: © OpenStreetMap contributors, licenza ODbL.
   I centroidi degli edifici vengono da OpenStreetMap (Overpass), i minuti a piedi dal router pedonale
   `routing.openstreetmap.de` (FOSSGIS).
+- **Planimetrie dei piani**: Patrimonio immobiliare, Università degli Studi di Bari Aldo Moro, dalle pagine
+  "Ubicazione aule" dei dipartimenti; ridisegnate in forma semplificata da Sciamn con autorizzazione
+  (prot. 303598 del 29/10/2026).
 - **Lavorazione**: ritaglio dell'area e compressione fatti da Sciamn.
 
 Gli orari sono **indicativi**: per viaggiare fanno fede le fonti ufficiali degli operatori. Nessuna garanzia
