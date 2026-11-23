@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generato": "2026-10-26",
+  "generato": "2026-11-23",
   "stazioni": [
     {
       "stop_id": "fal:S02110",
@@ -4105,6 +4105,20 @@
       }
     },
     {
+      "stop_id": "rfi:S09824",
+      "nome": "EBOLI",
+      "lat": 40.61131,
+      "lon": 15.0524,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S09824",
+        "lefrecce": "830009824",
+        "rfi": 1266,
+        "eticket": null,
+        "nap": "830009824"
+      }
+    },
+    {
       "stop_id": "rfi:S09830",
       "nome": "BALVANO R.",
       "lat": 40.64836,
@@ -7017,6 +7031,20 @@
       }
     },
     {
+      "stop_id": "rfi:S11875",
+      "nome": "TOSCANO",
+      "lat": 39.60801,
+      "lon": 16.70341,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11875",
+        "lefrecce": "830011875",
+        "rfi": 174,
+        "eticket": null,
+        "nap": "830011875"
+      }
+    },
+    {
       "stop_id": "rfi:S11904",
       "nome": "S.MARCO ROGGIANO",
       "lat": 39.60273,
@@ -7042,6 +7070,20 @@
         "rfi": 169,
         "eticket": null,
         "nap": "830011906"
+      }
+    },
+    {
+      "stop_id": "rfi:S11908",
+      "nome": "MONTALTO ROSE",
+      "lat": 39.40466,
+      "lon": 16.24729,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S11908",
+        "lefrecce": "830011908",
+        "rfi": 93,
+        "eticket": null,
+        "nap": "830011908"
       }
     },
     {
@@ -7168,6 +7210,20 @@
         "rfi": 1032,
         "eticket": null,
         "nap": "830012332"
+      }
+    },
+    {
+      "stop_id": "rfi:S12349",
+      "nome": "SIRACUSA",
+      "lat": 37.06747,
+      "lon": 15.2809,
+      "rete": "rfi",
+      "x_codici": {
+        "vt": "S12349",
+        "lefrecce": "830012349",
+        "rfi": 2742,
+        "eticket": null,
+        "nap": "830012349"
       }
     },
     {

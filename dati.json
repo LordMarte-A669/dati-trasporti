@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "versione": "2026-11-16T21:09:26Z",
+  "versione": "2026-11-23T22:49:15Z",
   "operatori": {
     "TI": {
       "file": "treni-TI.json",
-      "validoDal": "2026-11-07",
+      "validoDal": "2026-11-21",
       "validoAl": "2027-12-11",
-      "sha256": "9fca83c2c4e9abb373e348780f512e6414ab5cfbf8459900feb323b1b2e6b7f0",
-      "corse": 2178,
-      "tipico": 894,
-      "versioneFonte": "2026-11-05T16:27:46Z",
-      "doppie": 2,
+      "sha256": "8d23078d9561117ac509a640b44a788c19afbaab66d58335304ea17cf09c9a76",
+      "corse": 2552,
+      "tipico": 909,
+      "versioneFonte": "2026-11-20T10:13:15Z",
+      "doppie": 5,
       "asset": [
         "1080596"
       ]
@@ -58,8 +58,8 @@
   "anagrafi": {
     "stazioni": {
       "file": "stazioni.json",
-      "sha256": "b568b2ca7451f4da2859f4c875f4725ca38680309e4fe0c43d7c196a3baa5f89",
-      "generato": "2026-10-26"
+      "sha256": "36c05db6b899bf09d3dace49e7bdc2dde12c13c5dd26f5bf3c4b99f2852a7141",
+      "generato": "2026-11-23"
     },
     "sedi": {
       "file": "sedi.json",
