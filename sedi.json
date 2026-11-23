@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "generato": "2026-10-17",
+  "generato": "2026-11-23",
   "edifici": [
+    {
+      "codice": "E001",
+      "ateneo": "uniba",
+      "nome": "Campus Biologia Vegetale - EX BOTANICA",
+      "lat": 41.1081563,
+      "lon": 16.8827293
+    },
     {
       "codice": "E002",
       "ateneo": "uniba",
@@ -10,11 +17,25 @@
       "lon": 16.8836417
     },
     {
+      "codice": "E003",
+      "ateneo": "uniba",
+      "nome": "Campus Nuovo Palazzo degli Istituti Biologici",
+      "lat": 41.1103461,
+      "lon": 16.8807453
+    },
+    {
       "codice": "E004",
       "ateneo": "uniba",
       "nome": "Dipartimento di Scienze del suolo, della pianta e degli alimenti. (Di.S.S.P.A.)",
       "lat": 41.1105496,
       "lon": 16.8823508
+    },
+    {
+      "codice": "E005",
+      "ateneo": "uniba",
+      "nome": "Campus Vecchio palazzo  ex-Istituti Biologici",
+      "lat": 41.1098425,
+      "lon": 16.8836448
     },
     {
       "codice": "E006",
@@ -59,6 +80,55 @@
       "lon": 16.8804877
     },
     {
+      "codice": "E012",
+      "ateneo": "uniba",
+      "nome": "LaboBiotech",
+      "lat": 41.1048631,
+      "lon": 16.8791423
+    },
+    {
+      "codice": "E013",
+      "ateneo": "uniba",
+      "nome": "Campus di Economia",
+      "lat": 41.0945753,
+      "lon": 16.8521822
+    },
+    {
+      "codice": "E018",
+      "ateneo": "uniba",
+      "nome": "Policlinico Oculistica",
+      "lat": 41.111045,
+      "lon": 16.8581118
+    },
+    {
+      "codice": "E019",
+      "ateneo": "uniba",
+      "nome": "Policlinico Ortopedia",
+      "lat": 41.1108743,
+      "lon": 16.8600378
+    },
+    {
+      "codice": "E020",
+      "ateneo": "uniba",
+      "nome": "Policlinico Plesso Istituti Biologici",
+      "lat": 41.1136544,
+      "lon": 16.8610112
+    },
+    {
+      "codice": "E022",
+      "ateneo": "uniba",
+      "nome": "Policlinico Psichiatria",
+      "lat": 41.1141463,
+      "lon": 16.8596131
+    },
+    {
+      "codice": "E024",
+      "ateneo": "uniba",
+      "nome": "Palazzo Del Prete",
+      "lat": 41.120096,
+      "lon": 16.8669406
+    },
+    {
       "codice": "E025",
       "ateneo": "uniba",
       "nome": "Scienze della Formazione",
@@ -66,587 +136,5447 @@
       "lon": 16.8670883
     },
     {
+      "codice": "E026",
+      "ateneo": "uniba",
+      "nome": "Palazzo Franco Cassano",
+      "lat": 41.1186632,
+      "lon": 16.8667691
+    },
+    {
+      "codice": "E027",
+      "ateneo": "uniba",
+      "nome": "Dipartimento di Medicina Veterinaria",
+      "lat": 41.0246394,
+      "lon": 16.9006185
+    },
+    {
+      "codice": "E028",
+      "ateneo": "uniba",
+      "nome": "DIM Taranto Banca dei Saperi",
+      "lat": 40.4672578,
+      "lon": 17.2429391
+    },
+    {
+      "codice": "E030",
+      "ateneo": "uniba",
+      "nome": "Ex II Facoltà Scienze",
+      "lat": 40.5261006,
+      "lon": 17.2831167
+    },
+    {
+      "codice": "E031",
+      "ateneo": "uniba",
+      "nome": "Dipartimento Jonico - Sede di Economia",
+      "lat": 40.4504156,
+      "lon": 17.2655424
+    },
+    {
+      "codice": "E032",
+      "ateneo": "uniba",
+      "nome": "Dipartimento Jonico - Sede di Giurisprudenza",
+      "lat": 40.4746185,
+      "lon": 17.2325612
+    },
+    {
       "codice": "E034",
       "ateneo": "uniba",
       "nome": "Palazzo Ateneo",
       "lat": 41.1205612,
       "lon": 16.868484
+    },
+    {
+      "codice": "E035",
+      "ateneo": "uniba",
+      "nome": "Palazzo Ex Lingue",
+      "lat": 41.1202136,
+      "lon": 16.8660779
+    },
+    {
+      "codice": "E037",
+      "ateneo": "uniba",
+      "nome": "Policlinico Ginecologia",
+      "lat": 41.1122946,
+      "lon": 16.8584496
+    },
+    {
+      "codice": "E038",
+      "ateneo": "uniba",
+      "nome": "Policlinico Malattie Infettive",
+      "lat": 41.1104215,
+      "lon": 16.8565888
+    },
+    {
+      "codice": "E039",
+      "ateneo": "uniba",
+      "nome": "Policlinico Odontoiatria",
+      "lat": 41.1124534,
+      "lon": 16.8597021
+    },
+    {
+      "codice": "E041",
+      "ateneo": "uniba",
+      "nome": "Policlinico Padiglione Brienza",
+      "lat": 41.1128504,
+      "lon": 16.8605683
+    },
+    {
+      "codice": "E043",
+      "ateneo": "uniba",
+      "nome": "Policlinico Pediatria",
+      "lat": 41.1119331,
+      "lon": 16.8574428
+    },
+    {
+      "codice": "E044",
+      "ateneo": "uniba",
+      "nome": "Palazzo Via Suppa n. 9",
+      "lat": 41.1187183,
+      "lon": 16.8674361
+    },
+    {
+      "codice": "E046",
+      "ateneo": "uniba",
+      "nome": "RECAS",
+      "lat": 41.1073023,
+      "lon": 16.8837125
+    },
+    {
+      "codice": "E047",
+      "ateneo": "uniba",
+      "nome": "VILLA LA ROCCA",
+      "lat": 41.1115325,
+      "lon": 16.8807021
+    },
+    {
+      "codice": "E048",
+      "ateneo": "uniba",
+      "nome": "La Rossani",
+      "lat": 41.1154981,
+      "lon": 16.8716639
+    },
+    {
+      "codice": "ED_02",
+      "ateneo": "poliba",
+      "nome": "Grandi aule",
+      "lat": 41.108269,
+      "lon": 16.8793864
+    },
+    {
+      "codice": "ED_03",
+      "ateneo": "poliba",
+      "nome": "Corpo Biblioteca",
+      "lat": 41.1089331,
+      "lon": 16.8789568
+    },
+    {
+      "codice": "ED_04",
+      "ateneo": "poliba",
+      "nome": "Palazzo Architettura",
+      "lat": 41.1095478,
+      "lon": 16.8790118
+    },
+    {
+      "codice": "ED_06",
+      "ateneo": "poliba",
+      "nome": "Celso Ulpiani",
+      "lat": 41.1100396,
+      "lon": 16.8789974
+    },
+    {
+      "codice": "ED_08",
+      "ateneo": "poliba",
+      "nome": "DMMM - Japigia",
+      "lat": 41.1136437,
+      "lon": 16.9001546
     }
   ],
   "piedi": [
+    {
+      "da": "E001",
+      "a": "fal:S02110",
+      "min": 32,
+      "m": 2407,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "fnb:S01110",
+      "min": 27,
+      "m": 2024,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "fse:S13092",
+      "min": 22,
+      "m": 1649,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "fse:S13201",
+      "min": 25,
+      "m": 1910,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "rfi:S11119",
+      "min": 26,
+      "m": 1964,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1909,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E001",
+      "a": "rfi:S11125",
+      "min": 29,
+      "m": 2144,
+      "fonte": "fossgis-20261123"
+    },
     {
       "da": "E002",
       "a": "fal:S02110",
       "min": 33,
       "m": 2487,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "fnb:S01110",
       "min": 28,
       "m": 2103,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "fse:S13092",
       "min": 20,
-      "m": 1535,
-      "fonte": "fossgis-20261017"
+      "m": 1537,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "fse:S13201",
       "min": 27,
       "m": 1989,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "rfi:S11119",
       "min": 27,
       "m": 2043,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "rfi:S11121",
       "min": 25,
       "m": 1855,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E002",
       "a": "rfi:S11125",
       "min": 28,
       "m": 2090,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "fal:S02110",
+      "min": 30,
+      "m": 2220,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "fnb:S01110",
+      "min": 24,
+      "m": 1837,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "fnb:S01115",
+      "min": 33,
+      "m": 2477,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "fse:S13092",
+      "min": 19,
+      "m": 1462,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "fse:S13201",
+      "min": 23,
+      "m": 1722,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "rfi:S11119",
+      "min": 24,
+      "m": 1777,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1936,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E003",
+      "a": "rfi:S11125",
+      "min": 32,
+      "m": 2417,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "fal:S02110",
       "min": 35,
       "m": 2592,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "fnb:S01110",
       "min": 29,
       "m": 2208,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "fse:S13092",
       "min": 24,
-      "m": 1832,
-      "fonte": "fossgis-20261017"
+      "m": 1833,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "fse:S13201",
       "min": 28,
       "m": 2094,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "rfi:S11119",
       "min": 29,
       "m": 2148,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "rfi:S11121",
       "min": 27,
       "m": 2047,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E004",
       "a": "rfi:S11125",
       "min": 31,
       "m": 2282,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "fal:S02110",
+      "min": 33,
+      "m": 2469,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "fnb:S01110",
+      "min": 28,
+      "m": 2086,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "fse:S13092",
+      "min": 23,
+      "m": 1711,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "fse:S13201",
+      "min": 26,
+      "m": 1971,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "rfi:S11119",
+      "min": 27,
+      "m": 2026,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "rfi:S11121",
+      "min": 26,
+      "m": 1925,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E005",
+      "a": "rfi:S11125",
+      "min": 29,
+      "m": 2159,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "fal:S02110",
       "min": 33,
       "m": 2471,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "fnb:S01110",
       "min": 28,
       "m": 2087,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "fse:S13092",
       "min": 23,
-      "m": 1711,
-      "fonte": "fossgis-20261017"
+      "m": 1712,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "fse:S13201",
       "min": 26,
       "m": 1973,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "rfi:S11119",
       "min": 27,
       "m": 2027,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "rfi:S11121",
       "min": 26,
       "m": 1913,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E006",
       "a": "rfi:S11125",
       "min": 29,
       "m": 2147,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "fal:S02110",
       "min": 34,
       "m": 2581,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "fnb:S01110",
       "min": 29,
       "m": 2197,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "fse:S13092",
       "min": 22,
-      "m": 1682,
-      "fonte": "fossgis-20261017"
+      "m": 1684,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "fse:S13201",
       "min": 28,
       "m": 2083,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "rfi:S11119",
       "min": 28,
       "m": 2137,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "rfi:S11121",
       "min": 27,
       "m": 2002,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E007",
       "a": "rfi:S11125",
       "min": 30,
       "m": 2237,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "fal:S02110",
       "min": 30,
       "m": 2240,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "fnb:S01110",
       "min": 25,
       "m": 1856,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "fnb:S01115",
       "min": 33,
       "m": 2497,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "fse:S13092",
       "min": 20,
-      "m": 1480,
-      "fonte": "fossgis-20261017"
+      "m": 1481,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "fse:S13201",
       "min": 23,
       "m": 1742,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "rfi:S11119",
       "min": 24,
       "m": 1796,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "rfi:S11121",
       "min": 26,
-      "m": 1951,
-      "fonte": "fossgis-20261017"
+      "m": 1956,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E008",
       "a": "rfi:S11125",
       "min": 32,
       "m": 2398,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "fal:S02110",
       "min": 30,
       "m": 2244,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "fnb:S01110",
       "min": 25,
       "m": 1861,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "fnb:S01115",
       "min": 33,
       "m": 2501,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "fse:S13092",
       "min": 20,
-      "m": 1484,
-      "fonte": "fossgis-20261017"
+      "m": 1486,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "fse:S13201",
       "min": 23,
       "m": 1746,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "rfi:S11119",
       "min": 24,
       "m": 1801,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "rfi:S11121",
       "min": 26,
-      "m": 1955,
-      "fonte": "fossgis-20261017"
+      "m": 1960,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E009",
       "a": "rfi:S11125",
       "min": 32,
       "m": 2369,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "fal:S02110",
       "min": 31,
       "m": 2333,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "fnb:S01110",
       "min": 26,
       "m": 1950,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "fnb:S01115",
       "min": 35,
       "m": 2591,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "fse:S13092",
       "min": 21,
-      "m": 1574,
-      "fonte": "fossgis-20261017"
+      "m": 1575,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "fse:S13201",
       "min": 24,
       "m": 1836,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "rfi:S11119",
       "min": 25,
       "m": 1890,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "rfi:S11121",
       "min": 27,
-      "m": 2044,
-      "fonte": "fossgis-20261017"
+      "m": 2050,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E010",
       "a": "rfi:S11125",
       "min": 31,
       "m": 2332,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "fal:S02110",
       "min": 29,
       "m": 2193,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "fnb:S01110",
       "min": 24,
       "m": 1809,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "fnb:S01115",
       "min": 33,
       "m": 2450,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "fse:S13092",
       "min": 19,
-      "m": 1433,
-      "fonte": "fossgis-20261017"
+      "m": 1434,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "fse:S13201",
       "min": 23,
       "m": 1695,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "rfi:S11119",
       "min": 23,
       "m": 1749,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "rfi:S11121",
       "min": 25,
-      "m": 1904,
-      "fonte": "fossgis-20261017"
+      "m": 1909,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E011",
       "a": "rfi:S11125",
       "min": 32,
       "m": 2429,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "fal:S02110",
+      "min": 33,
+      "m": 2440,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "fnb:S01110",
+      "min": 27,
+      "m": 2056,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "fse:S13092",
+      "min": 26,
+      "m": 1970,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "fse:S13201",
+      "min": 26,
+      "m": 1942,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "rfi:S11119",
+      "min": 27,
+      "m": 1996,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "rfi:S11121",
+      "min": 33,
+      "m": 2445,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E012",
+      "a": "rfi:S11125",
+      "min": 33,
+      "m": 2446,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E013",
+      "a": "fal:S02112",
+      "min": 30,
+      "m": 2197,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fal:S02110",
+      "min": 26,
+      "m": 1970,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fal:S02111",
+      "min": 29,
+      "m": 2138,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fal:S02112",
+      "min": 19,
+      "m": 1365,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fnb:S01110",
+      "min": 22,
+      "m": 1627,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fnb:S01115",
+      "min": 17,
+      "m": 1233,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fnb:S01120",
+      "min": 33,
+      "m": 2451,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fse:S13092",
+      "min": 33,
+      "m": 2443,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "fse:S13201",
+      "min": 21,
+      "m": 1598,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E018",
+      "a": "rfi:S11119",
+      "min": 22,
+      "m": 1652,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fal:S02110",
+      "min": 25,
+      "m": 1852,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fal:S02111",
+      "min": 27,
+      "m": 2003,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fal:S02112",
+      "min": 17,
+      "m": 1230,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fnb:S01110",
+      "min": 20,
+      "m": 1510,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fnb:S01115",
+      "min": 15,
+      "m": 1116,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fnb:S01120",
+      "min": 31,
+      "m": 2334,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fse:S13092",
+      "min": 31,
+      "m": 2325,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "fse:S13201",
+      "min": 20,
+      "m": 1480,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E019",
+      "a": "rfi:S11119",
+      "min": 21,
+      "m": 1535,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fal:S02110",
+      "min": 25,
+      "m": 1863,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fal:S02111",
+      "min": 33,
+      "m": 2447,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fal:S02112",
+      "min": 23,
+      "m": 1653,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fnb:S01110",
+      "min": 20,
+      "m": 1521,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fnb:S01115",
+      "min": 15,
+      "m": 1127,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fnb:S01120",
+      "min": 31,
+      "m": 2345,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fse:S13092",
+      "min": 31,
+      "m": 2336,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "fse:S13201",
+      "min": 20,
+      "m": 1491,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E020",
+      "a": "rfi:S11119",
+      "min": 21,
+      "m": 1546,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fal:S02110",
+      "min": 27,
+      "m": 1992,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fal:S02111",
+      "min": 34,
+      "m": 2576,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fal:S02112",
+      "min": 24,
+      "m": 1782,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fnb:S01110",
+      "min": 22,
+      "m": 1650,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fnb:S01115",
+      "min": 17,
+      "m": 1256,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fnb:S01120",
+      "min": 33,
+      "m": 2474,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fse:S13092",
+      "min": 33,
+      "m": 2465,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "fse:S13201",
+      "min": 22,
+      "m": 1620,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E022",
+      "a": "rfi:S11119",
+      "min": 22,
+      "m": 1675,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fal:S02110",
+      "min": 12,
+      "m": 870,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fal:S02111",
+      "min": 33,
+      "m": 2508,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fal:S02112",
+      "min": 32,
+      "m": 2350,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fnb:S01110",
+      "min": 6,
+      "m": 470,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fnb:S01115",
+      "min": 10,
+      "m": 761,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fnb:S01120",
+      "min": 22,
+      "m": 1684,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fnb:S01125",
+      "min": 28,
+      "m": 2123,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fse:S13092",
+      "min": 21,
+      "m": 1578,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "fse:S13201",
+      "min": 10,
+      "m": 729,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "rfi:S11119",
+      "min": 8,
+      "m": 624,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E024",
+      "a": "rfi:S11121",
+      "min": 30,
+      "m": 2228,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fal:S02110",
       "min": 9,
       "m": 695,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fal:S02111",
       "min": 31,
       "m": 2321,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fal:S02112",
       "min": 29,
       "m": 2162,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fnb:S01110",
       "min": 4,
       "m": 324,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fnb:S01115",
       "min": 8,
       "m": 574,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fnb:S01120",
       "min": 20,
       "m": 1528,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fnb:S01125",
       "min": 28,
       "m": 2115,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fse:S13092",
       "min": 19,
-      "m": 1447,
-      "fonte": "fossgis-20261017"
+      "m": 1448,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "fse:S13201",
       "min": 8,
       "m": 583,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "rfi:S11119",
       "min": 6,
       "m": 479,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E025",
       "a": "rfi:S11121",
       "min": 28,
       "m": 2108,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fal:S02110",
+      "min": 8,
+      "m": 616,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fal:S02111",
+      "min": 29,
+      "m": 2176,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fal:S02112",
+      "min": 27,
+      "m": 2018,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fnb:S01110",
+      "min": 3,
+      "m": 245,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fnb:S01115",
+      "min": 6,
+      "m": 429,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fnb:S01120",
+      "min": 22,
+      "m": 1619,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fnb:S01125",
+      "min": 29,
+      "m": 2202,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fse:S13092",
+      "min": 18,
+      "m": 1372,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "fse:S13201",
+      "min": 7,
+      "m": 504,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "rfi:S11119",
+      "min": 5,
+      "m": 399,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E026",
+      "a": "rfi:S11121",
+      "min": 25,
+      "m": 1846,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E032",
+      "a": "rfi:S11465",
+      "min": 21,
+      "m": 1537,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fal:S02110",
       "min": 9,
       "m": 661,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fal:S02111",
       "min": 35,
       "m": 2590,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fal:S02112",
       "min": 33,
       "m": 2431,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fnb:S01110",
       "min": 3,
       "m": 261,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fnb:S01115",
       "min": 11,
       "m": 842,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fnb:S01120",
       "min": 24,
       "m": 1805,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fnb:S01125",
       "min": 30,
       "m": 2217,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fse:S13092",
       "min": 18,
-      "m": 1356,
-      "fonte": "fossgis-20261017"
+      "m": 1357,
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "fse:S13201",
       "min": 7,
       "m": 520,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "rfi:S11119",
       "min": 6,
       "m": 416,
-      "fonte": "fossgis-20261017"
+      "fonte": "fossgis-20261123"
     },
     {
       "da": "E034",
       "a": "rfi:S11121",
       "min": 27,
-      "m": 2004,
-      "fonte": "fossgis-20261017"
+      "m": 1999,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fal:S02110",
+      "min": 12,
+      "m": 903,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fal:S02111",
+      "min": 31,
+      "m": 2337,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fal:S02112",
+      "min": 30,
+      "m": 2179,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fnb:S01110",
+      "min": 7,
+      "m": 503,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fnb:S01115",
+      "min": 8,
+      "m": 590,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fnb:S01120",
+      "min": 20,
+      "m": 1513,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fnb:S01125",
+      "min": 26,
+      "m": 1952,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fse:S13092",
+      "min": 22,
+      "m": 1611,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "fse:S13201",
+      "min": 10,
+      "m": 762,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "rfi:S11119",
+      "min": 9,
+      "m": 658,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E035",
+      "a": "rfi:S11121",
+      "min": 30,
+      "m": 2262,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fal:S02110",
+      "min": 27,
+      "m": 2055,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fal:S02111",
+      "min": 33,
+      "m": 2466,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fal:S02112",
+      "min": 23,
+      "m": 1692,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fnb:S01110",
+      "min": 23,
+      "m": 1712,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fnb:S01115",
+      "min": 18,
+      "m": 1318,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fnb:S01120",
+      "min": 34,
+      "m": 2536,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fse:S13092",
+      "min": 34,
+      "m": 2528,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "fse:S13201",
+      "min": 23,
+      "m": 1683,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E037",
+      "a": "rfi:S11119",
+      "min": 23,
+      "m": 1737,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fal:S02110",
+      "min": 29,
+      "m": 2168,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fal:S02111",
+      "min": 27,
+      "m": 1996,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fal:S02112",
+      "min": 17,
+      "m": 1223,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fnb:S01110",
+      "min": 24,
+      "m": 1825,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fnb:S01115",
+      "min": 19,
+      "m": 1431,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fnb:S01120",
+      "min": 35,
+      "m": 2649,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fse:S13092",
+      "min": 35,
+      "m": 2641,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "fse:S13201",
+      "min": 24,
+      "m": 1796,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E038",
+      "a": "rfi:S11119",
+      "min": 25,
+      "m": 1850,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fal:S02110",
+      "min": 28,
+      "m": 2082,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fal:S02111",
+      "min": 33,
+      "m": 2493,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fal:S02112",
+      "min": 23,
+      "m": 1720,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fnb:S01110",
+      "min": 23,
+      "m": 1739,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fnb:S01115",
+      "min": 18,
+      "m": 1346,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fnb:S01120",
+      "min": 34,
+      "m": 2564,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fse:S13092",
+      "min": 34,
+      "m": 2555,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "fse:S13201",
+      "min": 23,
+      "m": 1710,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E039",
+      "a": "rfi:S11119",
+      "min": 24,
+      "m": 1764,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fal:S02110",
+      "min": 26,
+      "m": 1915,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fal:S02111",
+      "min": 33,
+      "m": 2498,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fal:S02112",
+      "min": 23,
+      "m": 1705,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fnb:S01110",
+      "min": 21,
+      "m": 1572,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fnb:S01115",
+      "min": 16,
+      "m": 1178,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fnb:S01120",
+      "min": 32,
+      "m": 2397,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fse:S13092",
+      "min": 32,
+      "m": 2388,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "fse:S13201",
+      "min": 21,
+      "m": 1543,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E041",
+      "a": "rfi:S11119",
+      "min": 21,
+      "m": 1597,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fal:S02110",
+      "min": 29,
+      "m": 2203,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fal:S02111",
+      "min": 31,
+      "m": 2291,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fal:S02112",
+      "min": 21,
+      "m": 1518,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fnb:S01110",
+      "min": 25,
+      "m": 1861,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fnb:S01115",
+      "min": 20,
+      "m": 1467,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "fse:S13201",
+      "min": 24,
+      "m": 1831,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E043",
+      "a": "rfi:S11119",
+      "min": 25,
+      "m": 1886,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fal:S02110",
+      "min": 7,
+      "m": 558,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fal:S02111",
+      "min": 30,
+      "m": 2254,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fal:S02112",
+      "min": 28,
+      "m": 2096,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fnb:S01110",
+      "min": 2,
+      "m": 187,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fnb:S01115",
+      "min": 7,
+      "m": 507,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fnb:S01120",
+      "min": 22,
+      "m": 1669,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fnb:S01125",
+      "min": 30,
+      "m": 2256,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fse:S13092",
+      "min": 18,
+      "m": 1314,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "fse:S13201",
+      "min": 6,
+      "m": 445,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "rfi:S11119",
+      "min": 5,
+      "m": 341,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E044",
+      "a": "rfi:S11121",
+      "min": 24,
+      "m": 1788,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "fal:S02110",
+      "min": 34,
+      "m": 2566,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "fnb:S01110",
+      "min": 29,
+      "m": 2183,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "fse:S13092",
+      "min": 22,
+      "m": 1669,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "fse:S13201",
+      "min": 28,
+      "m": 2069,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "rfi:S11119",
+      "min": 28,
+      "m": 2123,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "rfi:S11121",
+      "min": 27,
+      "m": 1988,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E046",
+      "a": "rfi:S11125",
+      "min": 30,
+      "m": 2223,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "fal:S02110",
+      "min": 27,
+      "m": 2017,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "fnb:S01110",
+      "min": 22,
+      "m": 1634,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "fnb:S01115",
+      "min": 30,
+      "m": 2275,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "fse:S13092",
+      "min": 16,
+      "m": 1168,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "fse:S13201",
+      "min": 20,
+      "m": 1520,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "rfi:S11119",
+      "min": 21,
+      "m": 1574,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "rfi:S11121",
+      "min": 22,
+      "m": 1642,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E047",
+      "a": "rfi:S11125",
+      "min": 35,
+      "m": 2633,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fal:S02110",
+      "min": 11,
+      "m": 856,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fal:S02111",
+      "min": 34,
+      "m": 2558,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fal:S02112",
+      "min": 33,
+      "m": 2400,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fnb:S01110",
+      "min": 6,
+      "m": 472,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fnb:S01115",
+      "min": 15,
+      "m": 1113,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fnb:S01120",
+      "min": 31,
+      "m": 2303,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fse:S13092",
+      "min": 14,
+      "m": 1011,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "fse:S13201",
+      "min": 5,
+      "m": 358,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "rfi:S11119",
+      "min": 5,
+      "m": 412,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "rfi:S11121",
+      "min": 20,
+      "m": 1486,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "E048",
+      "a": "rfi:S11125",
+      "min": 35,
+      "m": 2647,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "fal:S02110",
+      "min": 31,
+      "m": 2349,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "fnb:S01110",
+      "min": 26,
+      "m": 1966,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "fnb:S01115",
+      "min": 35,
+      "m": 2607,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "fse:S13092",
+      "min": 22,
+      "m": 1646,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "fse:S13201",
+      "min": 25,
+      "m": 1852,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "rfi:S11119",
+      "min": 25,
+      "m": 1906,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "rfi:S11121",
+      "min": 28,
+      "m": 2121,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_02",
+      "a": "rfi:S11125",
+      "min": 34,
+      "m": 2576,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "fal:S02110",
+      "min": 31,
+      "m": 2314,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "fnb:S01110",
+      "min": 26,
+      "m": 1931,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "fnb:S01115",
+      "min": 34,
+      "m": 2572,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "fse:S13092",
+      "min": 21,
+      "m": 1610,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "fse:S13201",
+      "min": 24,
+      "m": 1817,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "rfi:S11119",
+      "min": 25,
+      "m": 1871,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "rfi:S11121",
+      "min": 28,
+      "m": 2085,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_03",
+      "a": "rfi:S11125",
+      "min": 34,
+      "m": 2540,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "fal:S02110",
+      "min": 28,
+      "m": 2079,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "fnb:S01110",
+      "min": 23,
+      "m": 1695,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "fnb:S01115",
+      "min": 31,
+      "m": 2336,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "fse:S13092",
+      "min": 19,
+      "m": 1407,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "fse:S13201",
+      "min": 21,
+      "m": 1581,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "rfi:S11119",
+      "min": 22,
+      "m": 1635,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "rfi:S11121",
+      "min": 25,
+      "m": 1881,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_04",
+      "a": "rfi:S11125",
+      "min": 34,
+      "m": 2524,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "fal:S02110",
+      "min": 28,
+      "m": 2085,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "fnb:S01110",
+      "min": 23,
+      "m": 1702,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "fnb:S01115",
+      "min": 31,
+      "m": 2342,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "fse:S13092",
+      "min": 19,
+      "m": 1432,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "fse:S13201",
+      "min": 21,
+      "m": 1587,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "rfi:S11119",
+      "min": 22,
+      "m": 1642,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "rfi:S11121",
+      "min": 25,
+      "m": 1907,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_06",
+      "a": "rfi:S11125",
+      "min": 35,
+      "m": 2586,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_08",
+      "a": "fse:S13092",
+      "min": 32,
+      "m": 2381,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_08",
+      "a": "rfi:S11004",
+      "min": 34,
+      "m": 2555,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_08",
+      "a": "rfi:S11121",
+      "min": 22,
+      "m": 1673,
+      "fonte": "fossgis-20261123"
+    },
+    {
+      "da": "ED_08",
+      "a": "rfi:S11125",
+      "min": 9,
+      "m": 682,
+      "fonte": "fossgis-20261123"
     }
-  ]
+  ],
+  "fraSedi": [
+    {
+      "da": "E001",
+      "a": "E002",
+      "min": 2,
+      "m": 161
+    },
+    {
+      "da": "E001",
+      "a": "E003",
+      "min": 5,
+      "m": 355
+    },
+    {
+      "da": "E001",
+      "a": "E004",
+      "min": 5,
+      "m": 342
+    },
+    {
+      "da": "E001",
+      "a": "E005",
+      "min": 3,
+      "m": 219
+    },
+    {
+      "da": "E001",
+      "a": "E006",
+      "min": 1,
+      "m": 73
+    },
+    {
+      "da": "E001",
+      "a": "E007",
+      "min": 2,
+      "m": 173
+    },
+    {
+      "da": "E001",
+      "a": "E008",
+      "min": 5,
+      "m": 357
+    },
+    {
+      "da": "E001",
+      "a": "E009",
+      "min": 3,
+      "m": 225
+    },
+    {
+      "da": "E001",
+      "a": "E010",
+      "min": 3,
+      "m": 239
+    },
+    {
+      "da": "E001",
+      "a": "E011",
+      "min": 4,
+      "m": 285
+    },
+    {
+      "da": "E001",
+      "a": "E012",
+      "min": 10,
+      "m": 760
+    },
+    {
+      "da": "E001",
+      "a": "E018",
+      "min": 33,
+      "m": 2447
+    },
+    {
+      "da": "E001",
+      "a": "E019",
+      "min": 31,
+      "m": 2330
+    },
+    {
+      "da": "E001",
+      "a": "E020",
+      "min": 33,
+      "m": 2465
+    },
+    {
+      "da": "E001",
+      "a": "E022",
+      "min": 35,
+      "m": 2595
+    },
+    {
+      "da": "E001",
+      "a": "E024",
+      "min": 33,
+      "m": 2477
+    },
+    {
+      "da": "E001",
+      "a": "E025",
+      "min": 31,
+      "m": 2348
+    },
+    {
+      "da": "E001",
+      "a": "E026",
+      "min": 30,
+      "m": 2269
+    },
+    {
+      "da": "E001",
+      "a": "E034",
+      "min": 30,
+      "m": 2257
+    },
+    {
+      "da": "E001",
+      "a": "E035",
+      "min": 33,
+      "m": 2510
+    },
+    {
+      "da": "E001",
+      "a": "E037",
+      "min": 35,
+      "m": 2657
+    },
+    {
+      "da": "E001",
+      "a": "E038",
+      "min": 34,
+      "m": 2541
+    },
+    {
+      "da": "E001",
+      "a": "E041",
+      "min": 34,
+      "m": 2517
+    },
+    {
+      "da": "E001",
+      "a": "E044",
+      "min": 29,
+      "m": 2211
+    },
+    {
+      "da": "E001",
+      "a": "E046",
+      "min": 2,
+      "m": 159
+    },
+    {
+      "da": "E001",
+      "a": "E047",
+      "min": 10,
+      "m": 763
+    },
+    {
+      "da": "E001",
+      "a": "E048",
+      "min": 22,
+      "m": 1630
+    },
+    {
+      "da": "E001",
+      "a": "ED_02",
+      "min": 6,
+      "m": 433
+    },
+    {
+      "da": "E001",
+      "a": "ED_03",
+      "min": 5,
+      "m": 396
+    },
+    {
+      "da": "E001",
+      "a": "ED_04",
+      "min": 5,
+      "m": 381
+    },
+    {
+      "da": "E001",
+      "a": "ED_06",
+      "min": 6,
+      "m": 442
+    },
+    {
+      "da": "E001",
+      "a": "ED_08",
+      "min": 29,
+      "m": 2167
+    },
+    {
+      "da": "E002",
+      "a": "E003",
+      "min": 4,
+      "m": 327
+    },
+    {
+      "da": "E002",
+      "a": "E004",
+      "min": 3,
+      "m": 199
+    },
+    {
+      "da": "E002",
+      "a": "E005",
+      "min": 1,
+      "m": 76
+    },
+    {
+      "da": "E002",
+      "a": "E006",
+      "min": 1,
+      "m": 88
+    },
+    {
+      "da": "E002",
+      "a": "E007",
+      "min": 3,
+      "m": 259
+    },
+    {
+      "da": "E002",
+      "a": "E008",
+      "min": 4,
+      "m": 308
+    },
+    {
+      "da": "E002",
+      "a": "E009",
+      "min": 4,
+      "m": 304
+    },
+    {
+      "da": "E002",
+      "a": "E010",
+      "min": 3,
+      "m": 242
+    },
+    {
+      "da": "E002",
+      "a": "E011",
+      "min": 5,
+      "m": 364
+    },
+    {
+      "da": "E002",
+      "a": "E012",
+      "min": 12,
+      "m": 926
+    },
+    {
+      "da": "E002",
+      "a": "E018",
+      "min": 35,
+      "m": 2613
+    },
+    {
+      "da": "E002",
+      "a": "E019",
+      "min": 33,
+      "m": 2496
+    },
+    {
+      "da": "E002",
+      "a": "E020",
+      "min": 35,
+      "m": 2631
+    },
+    {
+      "da": "E002",
+      "a": "E024",
+      "min": 34,
+      "m": 2557
+    },
+    {
+      "da": "E002",
+      "a": "E025",
+      "min": 32,
+      "m": 2427
+    },
+    {
+      "da": "E002",
+      "a": "E026",
+      "min": 31,
+      "m": 2348
+    },
+    {
+      "da": "E002",
+      "a": "E034",
+      "min": 31,
+      "m": 2336
+    },
+    {
+      "da": "E002",
+      "a": "E035",
+      "min": 35,
+      "m": 2590
+    },
+    {
+      "da": "E002",
+      "a": "E044",
+      "min": 31,
+      "m": 2290
+    },
+    {
+      "da": "E002",
+      "a": "E046",
+      "min": 3,
+      "m": 245
+    },
+    {
+      "da": "E002",
+      "a": "E047",
+      "min": 11,
+      "m": 843
+    },
+    {
+      "da": "E002",
+      "a": "E048",
+      "min": 23,
+      "m": 1709
+    },
+    {
+      "da": "E002",
+      "a": "ED_02",
+      "min": 7,
+      "m": 512
+    },
+    {
+      "da": "E002",
+      "a": "ED_03",
+      "min": 6,
+      "m": 476
+    },
+    {
+      "da": "E002",
+      "a": "ED_04",
+      "min": 6,
+      "m": 460
+    },
+    {
+      "da": "E002",
+      "a": "ED_06",
+      "min": 7,
+      "m": 522
+    },
+    {
+      "da": "E002",
+      "a": "ED_08",
+      "min": 28,
+      "m": 2113
+    },
+    {
+      "da": "E003",
+      "a": "E004",
+      "min": 6,
+      "m": 432
+    },
+    {
+      "da": "E003",
+      "a": "E005",
+      "min": 4,
+      "m": 310
+    },
+    {
+      "da": "E003",
+      "a": "E006",
+      "min": 4,
+      "m": 311
+    },
+    {
+      "da": "E003",
+      "a": "E007",
+      "min": 6,
+      "m": 482
+    },
+    {
+      "da": "E003",
+      "a": "E008",
+      "min": 1,
+      "m": 58
+    },
+    {
+      "da": "E003",
+      "a": "E009",
+      "min": 3,
+      "m": 206
+    },
+    {
+      "da": "E003",
+      "a": "E010",
+      "min": 2,
+      "m": 184
+    },
+    {
+      "da": "E003",
+      "a": "E011",
+      "min": 3,
+      "m": 227
+    },
+    {
+      "da": "E003",
+      "a": "E012",
+      "min": 12,
+      "m": 871
+    },
+    {
+      "da": "E003",
+      "a": "E018",
+      "min": 32,
+      "m": 2400
+    },
+    {
+      "da": "E003",
+      "a": "E019",
+      "min": 30,
+      "m": 2283
+    },
+    {
+      "da": "E003",
+      "a": "E020",
+      "min": 31,
+      "m": 2294
+    },
+    {
+      "da": "E003",
+      "a": "E022",
+      "min": 32,
+      "m": 2423
+    },
+    {
+      "da": "E003",
+      "a": "E024",
+      "min": 31,
+      "m": 2290
+    },
+    {
+      "da": "E003",
+      "a": "E025",
+      "min": 29,
+      "m": 2161
+    },
+    {
+      "da": "E003",
+      "a": "E026",
+      "min": 28,
+      "m": 2082
+    },
+    {
+      "da": "E003",
+      "a": "E034",
+      "min": 28,
+      "m": 2069
+    },
+    {
+      "da": "E003",
+      "a": "E035",
+      "min": 31,
+      "m": 2323
+    },
+    {
+      "da": "E003",
+      "a": "E037",
+      "min": 33,
+      "m": 2485
+    },
+    {
+      "da": "E003",
+      "a": "E038",
+      "min": 35,
+      "m": 2652
+    },
+    {
+      "da": "E003",
+      "a": "E039",
+      "min": 34,
+      "m": 2513
+    },
+    {
+      "da": "E003",
+      "a": "E041",
+      "min": 31,
+      "m": 2345
+    },
+    {
+      "da": "E003",
+      "a": "E043",
+      "min": 35,
+      "m": 2634
+    },
+    {
+      "da": "E003",
+      "a": "E044",
+      "min": 27,
+      "m": 2023
+    },
+    {
+      "da": "E003",
+      "a": "E046",
+      "min": 6,
+      "m": 468
+    },
+    {
+      "da": "E003",
+      "a": "E047",
+      "min": 8,
+      "m": 576
+    },
+    {
+      "da": "E003",
+      "a": "E048",
+      "min": 19,
+      "m": 1442
+    },
+    {
+      "da": "E003",
+      "a": "ED_02",
+      "min": 5,
+      "m": 404
+    },
+    {
+      "da": "E003",
+      "a": "ED_03",
+      "min": 5,
+      "m": 368
+    },
+    {
+      "da": "E003",
+      "a": "ED_04",
+      "min": 4,
+      "m": 304
+    },
+    {
+      "da": "E003",
+      "a": "ED_06",
+      "min": 4,
+      "m": 330
+    },
+    {
+      "da": "E003",
+      "a": "ED_08",
+      "min": 33,
+      "m": 2441
+    },
+    {
+      "da": "E004",
+      "a": "E005",
+      "min": 2,
+      "m": 123
+    },
+    {
+      "da": "E004",
+      "a": "E006",
+      "min": 4,
+      "m": 268
+    },
+    {
+      "da": "E004",
+      "a": "E007",
+      "min": 6,
+      "m": 440
+    },
+    {
+      "da": "E004",
+      "a": "E008",
+      "min": 6,
+      "m": 413
+    },
+    {
+      "da": "E004",
+      "a": "E009",
+      "min": 5,
+      "m": 409
+    },
+    {
+      "da": "E004",
+      "a": "E010",
+      "min": 5,
+      "m": 347
+    },
+    {
+      "da": "E004",
+      "a": "E011",
+      "min": 6,
+      "m": 469
+    },
+    {
+      "da": "E004",
+      "a": "E012",
+      "min": 14,
+      "m": 1031
+    },
+    {
+      "da": "E004",
+      "a": "E019",
+      "min": 35,
+      "m": 2601
+    },
+    {
+      "da": "E004",
+      "a": "E024",
+      "min": 35,
+      "m": 2662
+    },
+    {
+      "da": "E004",
+      "a": "E025",
+      "min": 34,
+      "m": 2532
+    },
+    {
+      "da": "E004",
+      "a": "E026",
+      "min": 33,
+      "m": 2453
+    },
+    {
+      "da": "E004",
+      "a": "E034",
+      "min": 33,
+      "m": 2441
+    },
+    {
+      "da": "E004",
+      "a": "E044",
+      "min": 32,
+      "m": 2395
+    },
+    {
+      "da": "E004",
+      "a": "E046",
+      "min": 6,
+      "m": 425
+    },
+    {
+      "da": "E004",
+      "a": "E047",
+      "min": 13,
+      "m": 948
+    },
+    {
+      "da": "E004",
+      "a": "E048",
+      "min": 24,
+      "m": 1814
+    },
+    {
+      "da": "E004",
+      "a": "ED_02",
+      "min": 8,
+      "m": 617
+    },
+    {
+      "da": "E004",
+      "a": "ED_03",
+      "min": 8,
+      "m": 581
+    },
+    {
+      "da": "E004",
+      "a": "ED_04",
+      "min": 8,
+      "m": 565
+    },
+    {
+      "da": "E004",
+      "a": "ED_06",
+      "min": 8,
+      "m": 627
+    },
+    {
+      "da": "E004",
+      "a": "ED_08",
+      "min": 31,
+      "m": 2305
+    },
+    {
+      "da": "E005",
+      "a": "E006",
+      "min": 2,
+      "m": 146
+    },
+    {
+      "da": "E005",
+      "a": "E007",
+      "min": 4,
+      "m": 317
+    },
+    {
+      "da": "E005",
+      "a": "E008",
+      "min": 4,
+      "m": 290
+    },
+    {
+      "da": "E005",
+      "a": "E009",
+      "min": 4,
+      "m": 287
+    },
+    {
+      "da": "E005",
+      "a": "E010",
+      "min": 3,
+      "m": 224
+    },
+    {
+      "da": "E005",
+      "a": "E011",
+      "min": 5,
+      "m": 347
+    },
+    {
+      "da": "E005",
+      "a": "E012",
+      "min": 12,
+      "m": 909
+    },
+    {
+      "da": "E005",
+      "a": "E018",
+      "min": 35,
+      "m": 2596
+    },
+    {
+      "da": "E005",
+      "a": "E019",
+      "min": 33,
+      "m": 2478
+    },
+    {
+      "da": "E005",
+      "a": "E020",
+      "min": 35,
+      "m": 2614
+    },
+    {
+      "da": "E005",
+      "a": "E024",
+      "min": 34,
+      "m": 2539
+    },
+    {
+      "da": "E005",
+      "a": "E025",
+      "min": 32,
+      "m": 2410
+    },
+    {
+      "da": "E005",
+      "a": "E026",
+      "min": 31,
+      "m": 2330
+    },
+    {
+      "da": "E005",
+      "a": "E034",
+      "min": 31,
+      "m": 2318
+    },
+    {
+      "da": "E005",
+      "a": "E035",
+      "min": 34,
+      "m": 2572
+    },
+    {
+      "da": "E005",
+      "a": "E044",
+      "min": 30,
+      "m": 2272
+    },
+    {
+      "da": "E005",
+      "a": "E046",
+      "min": 4,
+      "m": 303
+    },
+    {
+      "da": "E005",
+      "a": "E047",
+      "min": 11,
+      "m": 825
+    },
+    {
+      "da": "E005",
+      "a": "E048",
+      "min": 23,
+      "m": 1691
+    },
+    {
+      "da": "E005",
+      "a": "ED_02",
+      "min": 7,
+      "m": 494
+    },
+    {
+      "da": "E005",
+      "a": "ED_03",
+      "min": 6,
+      "m": 458
+    },
+    {
+      "da": "E005",
+      "a": "ED_04",
+      "min": 6,
+      "m": 442
+    },
+    {
+      "da": "E005",
+      "a": "ED_06",
+      "min": 7,
+      "m": 504
+    },
+    {
+      "da": "E005",
+      "a": "ED_08",
+      "min": 29,
+      "m": 2183
+    },
+    {
+      "da": "E006",
+      "a": "E007",
+      "min": 2,
+      "m": 177
+    },
+    {
+      "da": "E006",
+      "a": "E008",
+      "min": 4,
+      "m": 292
+    },
+    {
+      "da": "E006",
+      "a": "E009",
+      "min": 4,
+      "m": 289
+    },
+    {
+      "da": "E006",
+      "a": "E010",
+      "min": 3,
+      "m": 226
+    },
+    {
+      "da": "E006",
+      "a": "E011",
+      "min": 5,
+      "m": 348
+    },
+    {
+      "da": "E006",
+      "a": "E012",
+      "min": 11,
+      "m": 833
+    },
+    {
+      "da": "E006",
+      "a": "E018",
+      "min": 34,
+      "m": 2521
+    },
+    {
+      "da": "E006",
+      "a": "E019",
+      "min": 32,
+      "m": 2403
+    },
+    {
+      "da": "E006",
+      "a": "E020",
+      "min": 34,
+      "m": 2539
+    },
+    {
+      "da": "E006",
+      "a": "E024",
+      "min": 34,
+      "m": 2541
+    },
+    {
+      "da": "E006",
+      "a": "E025",
+      "min": 32,
+      "m": 2411
+    },
+    {
+      "da": "E006",
+      "a": "E026",
+      "min": 31,
+      "m": 2332
+    },
+    {
+      "da": "E006",
+      "a": "E034",
+      "min": 31,
+      "m": 2320
+    },
+    {
+      "da": "E006",
+      "a": "E035",
+      "min": 34,
+      "m": 2574
+    },
+    {
+      "da": "E006",
+      "a": "E038",
+      "min": 35,
+      "m": 2614
+    },
+    {
+      "da": "E006",
+      "a": "E041",
+      "min": 35,
+      "m": 2590
+    },
+    {
+      "da": "E006",
+      "a": "E044",
+      "min": 30,
+      "m": 2274
+    },
+    {
+      "da": "E006",
+      "a": "E046",
+      "min": 2,
+      "m": 163
+    },
+    {
+      "da": "E006",
+      "a": "E047",
+      "min": 11,
+      "m": 827
+    },
+    {
+      "da": "E006",
+      "a": "E048",
+      "min": 23,
+      "m": 1693
+    },
+    {
+      "da": "E006",
+      "a": "ED_02",
+      "min": 7,
+      "m": 496
+    },
+    {
+      "da": "E006",
+      "a": "ED_03",
+      "min": 6,
+      "m": 460
+    },
+    {
+      "da": "E006",
+      "a": "ED_04",
+      "min": 6,
+      "m": 444
+    },
+    {
+      "da": "E006",
+      "a": "ED_06",
+      "min": 7,
+      "m": 506
+    },
+    {
+      "da": "E006",
+      "a": "ED_08",
+      "min": 29,
+      "m": 2171
+    },
+    {
+      "da": "E007",
+      "a": "E008",
+      "min": 6,
+      "m": 463
+    },
+    {
+      "da": "E007",
+      "a": "E009",
+      "min": 5,
+      "m": 398
+    },
+    {
+      "da": "E007",
+      "a": "E010",
+      "min": 5,
+      "m": 397
+    },
+    {
+      "da": "E007",
+      "a": "E011",
+      "min": 6,
+      "m": 458
+    },
+    {
+      "da": "E007",
+      "a": "E012",
+      "min": 13,
+      "m": 933
+    },
+    {
+      "da": "E007",
+      "a": "E018",
+      "min": 35,
+      "m": 2621
+    },
+    {
+      "da": "E007",
+      "a": "E019",
+      "min": 33,
+      "m": 2503
+    },
+    {
+      "da": "E007",
+      "a": "E020",
+      "min": 35,
+      "m": 2639
+    },
+    {
+      "da": "E007",
+      "a": "E024",
+      "min": 35,
+      "m": 2651
+    },
+    {
+      "da": "E007",
+      "a": "E025",
+      "min": 34,
+      "m": 2521
+    },
+    {
+      "da": "E007",
+      "a": "E026",
+      "min": 33,
+      "m": 2442
+    },
+    {
+      "da": "E007",
+      "a": "E034",
+      "min": 32,
+      "m": 2430
+    },
+    {
+      "da": "E007",
+      "a": "E044",
+      "min": 32,
+      "m": 2384
+    },
+    {
+      "da": "E007",
+      "a": "E046",
+      "min": 2,
+      "m": 114
+    },
+    {
+      "da": "E007",
+      "a": "E047",
+      "min": 12,
+      "m": 937
+    },
+    {
+      "da": "E007",
+      "a": "E048",
+      "min": 24,
+      "m": 1803
+    },
+    {
+      "da": "E007",
+      "a": "ED_02",
+      "min": 8,
+      "m": 606
+    },
+    {
+      "da": "E007",
+      "a": "ED_03",
+      "min": 8,
+      "m": 570
+    },
+    {
+      "da": "E007",
+      "a": "ED_04",
+      "min": 7,
+      "m": 554
+    },
+    {
+      "da": "E007",
+      "a": "ED_06",
+      "min": 8,
+      "m": 616
+    },
+    {
+      "da": "E007",
+      "a": "ED_08",
+      "min": 30,
+      "m": 2260
+    },
+    {
+      "da": "E008",
+      "a": "E009",
+      "min": 3,
+      "m": 191
+    },
+    {
+      "da": "E008",
+      "a": "E010",
+      "min": 2,
+      "m": 140
+    },
+    {
+      "da": "E008",
+      "a": "E011",
+      "min": 3,
+      "m": 246
+    },
+    {
+      "da": "E008",
+      "a": "E012",
+      "min": 12,
+      "m": 867
+    },
+    {
+      "da": "E008",
+      "a": "E018",
+      "min": 32,
+      "m": 2420
+    },
+    {
+      "da": "E008",
+      "a": "E019",
+      "min": 31,
+      "m": 2302
+    },
+    {
+      "da": "E008",
+      "a": "E020",
+      "min": 31,
+      "m": 2313
+    },
+    {
+      "da": "E008",
+      "a": "E022",
+      "min": 33,
+      "m": 2443
+    },
+    {
+      "da": "E008",
+      "a": "E024",
+      "min": 31,
+      "m": 2310
+    },
+    {
+      "da": "E008",
+      "a": "E025",
+      "min": 29,
+      "m": 2180
+    },
+    {
+      "da": "E008",
+      "a": "E026",
+      "min": 28,
+      "m": 2101
+    },
+    {
+      "da": "E008",
+      "a": "E034",
+      "min": 28,
+      "m": 2089
+    },
+    {
+      "da": "E008",
+      "a": "E035",
+      "min": 31,
+      "m": 2343
+    },
+    {
+      "da": "E008",
+      "a": "E037",
+      "min": 33,
+      "m": 2505
+    },
+    {
+      "da": "E008",
+      "a": "E038",
+      "min": 35,
+      "m": 2647
+    },
+    {
+      "da": "E008",
+      "a": "E039",
+      "min": 34,
+      "m": 2532
+    },
+    {
+      "da": "E008",
+      "a": "E041",
+      "min": 32,
+      "m": 2365
+    },
+    {
+      "da": "E008",
+      "a": "E043",
+      "min": 35,
+      "m": 2653
+    },
+    {
+      "da": "E008",
+      "a": "E044",
+      "min": 27,
+      "m": 2043
+    },
+    {
+      "da": "E008",
+      "a": "E046",
+      "min": 6,
+      "m": 449
+    },
+    {
+      "da": "E008",
+      "a": "E047",
+      "min": 8,
+      "m": 596
+    },
+    {
+      "da": "E008",
+      "a": "E048",
+      "min": 19,
+      "m": 1462
+    },
+    {
+      "da": "E008",
+      "a": "ED_02",
+      "min": 5,
+      "m": 399
+    },
+    {
+      "da": "E008",
+      "a": "ED_03",
+      "min": 5,
+      "m": 363
+    },
+    {
+      "da": "E008",
+      "a": "ED_04",
+      "min": 4,
+      "m": 323
+    },
+    {
+      "da": "E008",
+      "a": "ED_06",
+      "min": 5,
+      "m": 349
+    },
+    {
+      "da": "E008",
+      "a": "ED_08",
+      "min": 32,
+      "m": 2421
+    },
+    {
+      "da": "E009",
+      "a": "E010",
+      "min": 2,
+      "m": 151
+    },
+    {
+      "da": "E009",
+      "a": "E011",
+      "min": 2,
+      "m": 122
+    },
+    {
+      "da": "E009",
+      "a": "E012",
+      "min": 10,
+      "m": 725
+    },
+    {
+      "da": "E009",
+      "a": "E018",
+      "min": 32,
+      "m": 2412
+    },
+    {
+      "da": "E009",
+      "a": "E019",
+      "min": 31,
+      "m": 2295
+    },
+    {
+      "da": "E009",
+      "a": "E020",
+      "min": 32,
+      "m": 2430
+    },
+    {
+      "da": "E009",
+      "a": "E022",
+      "min": 34,
+      "m": 2559
+    },
+    {
+      "da": "E009",
+      "a": "E024",
+      "min": 31,
+      "m": 2314
+    },
+    {
+      "da": "E009",
+      "a": "E025",
+      "min": 29,
+      "m": 2185
+    },
+    {
+      "da": "E009",
+      "a": "E026",
+      "min": 28,
+      "m": 2106
+    },
+    {
+      "da": "E009",
+      "a": "E034",
+      "min": 28,
+      "m": 2093
+    },
+    {
+      "da": "E009",
+      "a": "E035",
+      "min": 31,
+      "m": 2347
+    },
+    {
+      "da": "E009",
+      "a": "E037",
+      "min": 35,
+      "m": 2621
+    },
+    {
+      "da": "E009",
+      "a": "E038",
+      "min": 33,
+      "m": 2506
+    },
+    {
+      "da": "E009",
+      "a": "E039",
+      "min": 35,
+      "m": 2649
+    },
+    {
+      "da": "E009",
+      "a": "E041",
+      "min": 33,
+      "m": 2482
+    },
+    {
+      "da": "E009",
+      "a": "E044",
+      "min": 27,
+      "m": 2047
+    },
+    {
+      "da": "E009",
+      "a": "E046",
+      "min": 5,
+      "m": 384
+    },
+    {
+      "da": "E009",
+      "a": "E047",
+      "min": 8,
+      "m": 600
+    },
+    {
+      "da": "E009",
+      "a": "E048",
+      "min": 20,
+      "m": 1466
+    },
+    {
+      "da": "E009",
+      "a": "ED_02",
+      "min": 4,
+      "m": 268
+    },
+    {
+      "da": "E009",
+      "a": "ED_03",
+      "min": 3,
+      "m": 232
+    },
+    {
+      "da": "E009",
+      "a": "ED_04",
+      "min": 3,
+      "m": 217
+    },
+    {
+      "da": "E009",
+      "a": "ED_06",
+      "min": 4,
+      "m": 279
+    },
+    {
+      "da": "E009",
+      "a": "ED_08",
+      "min": 32,
+      "m": 2392
+    },
+    {
+      "da": "E010",
+      "a": "E011",
+      "min": 3,
+      "m": 211
+    },
+    {
+      "da": "E010",
+      "a": "E012",
+      "min": 11,
+      "m": 816
+    },
+    {
+      "da": "E010",
+      "a": "E018",
+      "min": 33,
+      "m": 2503
+    },
+    {
+      "da": "E010",
+      "a": "E019",
+      "min": 32,
+      "m": 2386
+    },
+    {
+      "da": "E010",
+      "a": "E020",
+      "min": 34,
+      "m": 2521
+    },
+    {
+      "da": "E010",
+      "a": "E022",
+      "min": 35,
+      "m": 2650
+    },
+    {
+      "da": "E010",
+      "a": "E024",
+      "min": 32,
+      "m": 2403
+    },
+    {
+      "da": "E010",
+      "a": "E025",
+      "min": 30,
+      "m": 2274
+    },
+    {
+      "da": "E010",
+      "a": "E026",
+      "min": 29,
+      "m": 2195
+    },
+    {
+      "da": "E010",
+      "a": "E034",
+      "min": 29,
+      "m": 2183
+    },
+    {
+      "da": "E010",
+      "a": "E035",
+      "min": 32,
+      "m": 2436
+    },
+    {
+      "da": "E010",
+      "a": "E038",
+      "min": 35,
+      "m": 2596
+    },
+    {
+      "da": "E010",
+      "a": "E041",
+      "min": 34,
+      "m": 2572
+    },
+    {
+      "da": "E010",
+      "a": "E044",
+      "min": 28,
+      "m": 2137
+    },
+    {
+      "da": "E010",
+      "a": "E046",
+      "min": 5,
+      "m": 383
+    },
+    {
+      "da": "E010",
+      "a": "E047",
+      "min": 9,
+      "m": 689
+    },
+    {
+      "da": "E010",
+      "a": "E048",
+      "min": 21,
+      "m": 1556
+    },
+    {
+      "da": "E010",
+      "a": "ED_02",
+      "min": 5,
+      "m": 359
+    },
+    {
+      "da": "E010",
+      "a": "ED_03",
+      "min": 4,
+      "m": 322
+    },
+    {
+      "da": "E010",
+      "a": "ED_04",
+      "min": 4,
+      "m": 307
+    },
+    {
+      "da": "E010",
+      "a": "ED_06",
+      "min": 5,
+      "m": 368
+    },
+    {
+      "da": "E010",
+      "a": "ED_08",
+      "min": 31,
+      "m": 2355
+    },
+    {
+      "da": "E011",
+      "a": "E012",
+      "min": 10,
+      "m": 750
+    },
+    {
+      "da": "E011",
+      "a": "E018",
+      "min": 32,
+      "m": 2373
+    },
+    {
+      "da": "E011",
+      "a": "E019",
+      "min": 30,
+      "m": 2256
+    },
+    {
+      "da": "E011",
+      "a": "E020",
+      "min": 30,
+      "m": 2267
+    },
+    {
+      "da": "E011",
+      "a": "E022",
+      "min": 32,
+      "m": 2396
+    },
+    {
+      "da": "E011",
+      "a": "E024",
+      "min": 30,
+      "m": 2263
+    },
+    {
+      "da": "E011",
+      "a": "E025",
+      "min": 28,
+      "m": 2134
+    },
+    {
+      "da": "E011",
+      "a": "E026",
+      "min": 27,
+      "m": 2054
+    },
+    {
+      "da": "E011",
+      "a": "E034",
+      "min": 27,
+      "m": 2042
+    },
+    {
+      "da": "E011",
+      "a": "E035",
+      "min": 31,
+      "m": 2296
+    },
+    {
+      "da": "E011",
+      "a": "E037",
+      "min": 33,
+      "m": 2458
+    },
+    {
+      "da": "E011",
+      "a": "E038",
+      "min": 34,
+      "m": 2530
+    },
+    {
+      "da": "E011",
+      "a": "E039",
+      "min": 33,
+      "m": 2485
+    },
+    {
+      "da": "E011",
+      "a": "E041",
+      "min": 31,
+      "m": 2318
+    },
+    {
+      "da": "E011",
+      "a": "E043",
+      "min": 35,
+      "m": 2607
+    },
+    {
+      "da": "E011",
+      "a": "E044",
+      "min": 27,
+      "m": 1996
+    },
+    {
+      "da": "E011",
+      "a": "E046",
+      "min": 6,
+      "m": 444
+    },
+    {
+      "da": "E011",
+      "a": "E047",
+      "min": 7,
+      "m": 549
+    },
+    {
+      "da": "E011",
+      "a": "E048",
+      "min": 19,
+      "m": 1415
+    },
+    {
+      "da": "E011",
+      "a": "ED_02",
+      "min": 4,
+      "m": 283
+    },
+    {
+      "da": "E011",
+      "a": "ED_03",
+      "min": 3,
+      "m": 246
+    },
+    {
+      "da": "E011",
+      "a": "ED_04",
+      "min": 2,
+      "m": 187
+    },
+    {
+      "da": "E011",
+      "a": "ED_06",
+      "min": 3,
+      "m": 248
+    },
+    {
+      "da": "E011",
+      "a": "ED_08",
+      "min": 33,
+      "m": 2452
+    },
+    {
+      "da": "E012",
+      "a": "E018",
+      "min": 32,
+      "m": 2407
+    },
+    {
+      "da": "E012",
+      "a": "E019",
+      "min": 31,
+      "m": 2290
+    },
+    {
+      "da": "E012",
+      "a": "E020",
+      "min": 32,
+      "m": 2383
+    },
+    {
+      "da": "E012",
+      "a": "E022",
+      "min": 34,
+      "m": 2512
+    },
+    {
+      "da": "E012",
+      "a": "E024",
+      "min": 34,
+      "m": 2510
+    },
+    {
+      "da": "E012",
+      "a": "E025",
+      "min": 32,
+      "m": 2381
+    },
+    {
+      "da": "E012",
+      "a": "E026",
+      "min": 31,
+      "m": 2301
+    },
+    {
+      "da": "E012",
+      "a": "E034",
+      "min": 31,
+      "m": 2289
+    },
+    {
+      "da": "E012",
+      "a": "E035",
+      "min": 34,
+      "m": 2543
+    },
+    {
+      "da": "E012",
+      "a": "E037",
+      "min": 34,
+      "m": 2575
+    },
+    {
+      "da": "E012",
+      "a": "E038",
+      "min": 31,
+      "m": 2326
+    },
+    {
+      "da": "E012",
+      "a": "E039",
+      "min": 35,
+      "m": 2602
+    },
+    {
+      "da": "E012",
+      "a": "E041",
+      "min": 33,
+      "m": 2435
+    },
+    {
+      "da": "E012",
+      "a": "E043",
+      "min": 35,
+      "m": 2621
+    },
+    {
+      "da": "E012",
+      "a": "E044",
+      "min": 30,
+      "m": 2243
+    },
+    {
+      "da": "E012",
+      "a": "E046",
+      "min": 12,
+      "m": 919
+    },
+    {
+      "da": "E012",
+      "a": "E047",
+      "min": 16,
+      "m": 1228
+    },
+    {
+      "da": "E012",
+      "a": "E048",
+      "min": 22,
+      "m": 1658
+    },
+    {
+      "da": "E012",
+      "a": "ED_02",
+      "min": 11,
+      "m": 809
+    },
+    {
+      "da": "E012",
+      "a": "ED_03",
+      "min": 10,
+      "m": 772
+    },
+    {
+      "da": "E012",
+      "a": "ED_04",
+      "min": 9,
+      "m": 687
+    },
+    {
+      "da": "E012",
+      "a": "ED_06",
+      "min": 10,
+      "m": 725
+    },
+    {
+      "da": "E012",
+      "a": "ED_08",
+      "min": 33,
+      "m": 2469
+    },
+    {
+      "da": "E013",
+      "a": "E018",
+      "min": 34,
+      "m": 2576
+    },
+    {
+      "da": "E013",
+      "a": "E019",
+      "min": 33,
+      "m": 2442
+    },
+    {
+      "da": "E013",
+      "a": "E038",
+      "min": 33,
+      "m": 2435
+    },
+    {
+      "da": "E018",
+      "a": "E019",
+      "min": 2,
+      "m": 186
+    },
+    {
+      "da": "E018",
+      "a": "E020",
+      "min": 7,
+      "m": 510
+    },
+    {
+      "da": "E018",
+      "a": "E022",
+      "min": 9,
+      "m": 639
+    },
+    {
+      "da": "E018",
+      "a": "E024",
+      "min": 26,
+      "m": 1926
+    },
+    {
+      "da": "E018",
+      "a": "E025",
+      "min": 23,
+      "m": 1738
+    },
+    {
+      "da": "E018",
+      "a": "E026",
+      "min": 21,
+      "m": 1594
+    },
+    {
+      "da": "E018",
+      "a": "E034",
+      "min": 25,
+      "m": 1888
+    },
+    {
+      "da": "E018",
+      "a": "E035",
+      "min": 23,
+      "m": 1755
+    },
+    {
+      "da": "E018",
+      "a": "E037",
+      "min": 9,
+      "m": 702
+    },
+    {
+      "da": "E018",
+      "a": "E038",
+      "min": 7,
+      "m": 502
+    },
+    {
+      "da": "E018",
+      "a": "E039",
+      "min": 10,
+      "m": 729
+    },
+    {
+      "da": "E018",
+      "a": "E041",
+      "min": 7,
+      "m": 562
+    },
+    {
+      "da": "E018",
+      "a": "E043",
+      "min": 11,
+      "m": 796
+    },
+    {
+      "da": "E018",
+      "a": "E044",
+      "min": 22,
+      "m": 1671
+    },
+    {
+      "da": "E018",
+      "a": "E046",
+      "min": 35,
+      "m": 2606
+    },
+    {
+      "da": "E018",
+      "a": "E047",
+      "min": 33,
+      "m": 2478
+    },
+    {
+      "da": "E018",
+      "a": "E048",
+      "min": 20,
+      "m": 1505
+    },
+    {
+      "da": "E018",
+      "a": "ED_02",
+      "min": 33,
+      "m": 2458
+    },
+    {
+      "da": "E018",
+      "a": "ED_03",
+      "min": 32,
+      "m": 2423
+    },
+    {
+      "da": "E018",
+      "a": "ED_04",
+      "min": 29,
+      "m": 2187
+    },
+    {
+      "da": "E018",
+      "a": "ED_06",
+      "min": 29,
+      "m": 2193
+    },
+    {
+      "da": "E019",
+      "a": "E020",
+      "min": 6,
+      "m": 475
+    },
+    {
+      "da": "E019",
+      "a": "E022",
+      "min": 8,
+      "m": 604
+    },
+    {
+      "da": "E019",
+      "a": "E024",
+      "min": 24,
+      "m": 1809
+    },
+    {
+      "da": "E019",
+      "a": "E025",
+      "min": 22,
+      "m": 1621
+    },
+    {
+      "da": "E019",
+      "a": "E026",
+      "min": 20,
+      "m": 1476
+    },
+    {
+      "da": "E019",
+      "a": "E034",
+      "min": 24,
+      "m": 1771
+    },
+    {
+      "da": "E019",
+      "a": "E035",
+      "min": 22,
+      "m": 1638
+    },
+    {
+      "da": "E019",
+      "a": "E037",
+      "min": 9,
+      "m": 666
+    },
+    {
+      "da": "E019",
+      "a": "E038",
+      "min": 5,
+      "m": 367
+    },
+    {
+      "da": "E019",
+      "a": "E039",
+      "min": 9,
+      "m": 694
+    },
+    {
+      "da": "E019",
+      "a": "E041",
+      "min": 7,
+      "m": 526
+    },
+    {
+      "da": "E019",
+      "a": "E043",
+      "min": 9,
+      "m": 662
+    },
+    {
+      "da": "E019",
+      "a": "E044",
+      "min": 21,
+      "m": 1554
+    },
+    {
+      "da": "E019",
+      "a": "E046",
+      "min": 33,
+      "m": 2489
+    },
+    {
+      "da": "E019",
+      "a": "E047",
+      "min": 32,
+      "m": 2361
+    },
+    {
+      "da": "E019",
+      "a": "E048",
+      "min": 19,
+      "m": 1388
+    },
+    {
+      "da": "E019",
+      "a": "ED_02",
+      "min": 31,
+      "m": 2341
+    },
+    {
+      "da": "E019",
+      "a": "ED_03",
+      "min": 31,
+      "m": 2306
+    },
+    {
+      "da": "E019",
+      "a": "ED_04",
+      "min": 28,
+      "m": 2070
+    },
+    {
+      "da": "E019",
+      "a": "ED_06",
+      "min": 28,
+      "m": 2076
+    },
+    {
+      "da": "E020",
+      "a": "E022",
+      "min": 3,
+      "m": 220
+    },
+    {
+      "da": "E020",
+      "a": "E024",
+      "min": 24,
+      "m": 1820
+    },
+    {
+      "da": "E020",
+      "a": "E025",
+      "min": 22,
+      "m": 1632
+    },
+    {
+      "da": "E020",
+      "a": "E026",
+      "min": 20,
+      "m": 1487
+    },
+    {
+      "da": "E020",
+      "a": "E034",
+      "min": 24,
+      "m": 1782
+    },
+    {
+      "da": "E020",
+      "a": "E035",
+      "min": 22,
+      "m": 1649
+    },
+    {
+      "da": "E020",
+      "a": "E037",
+      "min": 4,
+      "m": 295
+    },
+    {
+      "da": "E020",
+      "a": "E038",
+      "min": 10,
+      "m": 742
+    },
+    {
+      "da": "E020",
+      "a": "E039",
+      "min": 4,
+      "m": 323
+    },
+    {
+      "da": "E020",
+      "a": "E041",
+      "min": 2,
+      "m": 156
+    },
+    {
+      "da": "E020",
+      "a": "E043",
+      "min": 6,
+      "m": 431
+    },
+    {
+      "da": "E020",
+      "a": "E044",
+      "min": 21,
+      "m": 1565
+    },
+    {
+      "da": "E020",
+      "a": "E046",
+      "min": 35,
+      "m": 2625
+    },
+    {
+      "da": "E020",
+      "a": "E047",
+      "min": 32,
+      "m": 2372
+    },
+    {
+      "da": "E020",
+      "a": "E048",
+      "min": 19,
+      "m": 1399
+    },
+    {
+      "da": "E020",
+      "a": "ED_02",
+      "min": 32,
+      "m": 2411
+    },
+    {
+      "da": "E020",
+      "a": "ED_03",
+      "min": 32,
+      "m": 2376
+    },
+    {
+      "da": "E020",
+      "a": "ED_04",
+      "min": 29,
+      "m": 2140
+    },
+    {
+      "da": "E020",
+      "a": "ED_06",
+      "min": 29,
+      "m": 2147
+    },
+    {
+      "da": "E022",
+      "a": "E024",
+      "min": 26,
+      "m": 1949
+    },
+    {
+      "da": "E022",
+      "a": "E025",
+      "min": 24,
+      "m": 1761
+    },
+    {
+      "da": "E022",
+      "a": "E026",
+      "min": 22,
+      "m": 1616
+    },
+    {
+      "da": "E022",
+      "a": "E034",
+      "min": 26,
+      "m": 1911
+    },
+    {
+      "da": "E022",
+      "a": "E035",
+      "min": 24,
+      "m": 1778
+    },
+    {
+      "da": "E022",
+      "a": "E037",
+      "min": 3,
+      "m": 248
+    },
+    {
+      "da": "E022",
+      "a": "E038",
+      "min": 9,
+      "m": 689
+    },
+    {
+      "da": "E022",
+      "a": "E039",
+      "min": 4,
+      "m": 275
+    },
+    {
+      "da": "E022",
+      "a": "E041",
+      "min": 3,
+      "m": 200
+    },
+    {
+      "da": "E022",
+      "a": "E043",
+      "min": 5,
+      "m": 378
+    },
+    {
+      "da": "E022",
+      "a": "E044",
+      "min": 23,
+      "m": 1694
+    },
+    {
+      "da": "E022",
+      "a": "E047",
+      "min": 33,
+      "m": 2501
+    },
+    {
+      "da": "E022",
+      "a": "E048",
+      "min": 20,
+      "m": 1528
+    },
+    {
+      "da": "E022",
+      "a": "ED_02",
+      "min": 34,
+      "m": 2540
+    },
+    {
+      "da": "E022",
+      "a": "ED_03",
+      "min": 33,
+      "m": 2505
+    },
+    {
+      "da": "E022",
+      "a": "ED_04",
+      "min": 30,
+      "m": 2269
+    },
+    {
+      "da": "E022",
+      "a": "ED_06",
+      "min": 30,
+      "m": 2276
+    },
+    {
+      "da": "E024",
+      "a": "E025",
+      "min": 3,
+      "m": 223
+    },
+    {
+      "da": "E024",
+      "a": "E026",
+      "min": 5,
+      "m": 394
+    },
+    {
+      "da": "E024",
+      "a": "E034",
+      "min": 5,
+      "m": 373
+    },
+    {
+      "da": "E024",
+      "a": "E035",
+      "min": 2,
+      "m": 171
+    },
+    {
+      "da": "E024",
+      "a": "E037",
+      "min": 27,
+      "m": 2011
+    },
+    {
+      "da": "E024",
+      "a": "E038",
+      "min": 28,
+      "m": 2124
+    },
+    {
+      "da": "E024",
+      "a": "E039",
+      "min": 27,
+      "m": 2038
+    },
+    {
+      "da": "E024",
+      "a": "E041",
+      "min": 25,
+      "m": 1871
+    },
+    {
+      "da": "E024",
+      "a": "E043",
+      "min": 29,
+      "m": 2160
+    },
+    {
+      "da": "E024",
+      "a": "E044",
+      "min": 4,
+      "m": 316
+    },
+    {
+      "da": "E024",
+      "a": "E046",
+      "min": 35,
+      "m": 2636
+    },
+    {
+      "da": "E024",
+      "a": "E047",
+      "min": 28,
+      "m": 2087
+    },
+    {
+      "da": "E024",
+      "a": "E048",
+      "min": 13,
+      "m": 942
+    },
+    {
+      "da": "E024",
+      "a": "ED_02",
+      "min": 32,
+      "m": 2419
+    },
+    {
+      "da": "E024",
+      "a": "ED_03",
+      "min": 32,
+      "m": 2384
+    },
+    {
+      "da": "E024",
+      "a": "ED_04",
+      "min": 29,
+      "m": 2149
+    },
+    {
+      "da": "E024",
+      "a": "ED_06",
+      "min": 29,
+      "m": 2155
+    },
+    {
+      "da": "E025",
+      "a": "E026",
+      "min": 3,
+      "m": 219
+    },
+    {
+      "da": "E025",
+      "a": "E034",
+      "min": 4,
+      "m": 273
+    },
+    {
+      "da": "E025",
+      "a": "E035",
+      "min": 3,
+      "m": 213
+    },
+    {
+      "da": "E025",
+      "a": "E037",
+      "min": 24,
+      "m": 1823
+    },
+    {
+      "da": "E025",
+      "a": "E038",
+      "min": 26,
+      "m": 1936
+    },
+    {
+      "da": "E025",
+      "a": "E039",
+      "min": 25,
+      "m": 1851
+    },
+    {
+      "da": "E025",
+      "a": "E041",
+      "min": 23,
+      "m": 1684
+    },
+    {
+      "da": "E025",
+      "a": "E043",
+      "min": 26,
+      "m": 1972
+    },
+    {
+      "da": "E025",
+      "a": "E044",
+      "min": 2,
+      "m": 141
+    },
+    {
+      "da": "E025",
+      "a": "E046",
+      "min": 33,
+      "m": 2507
+    },
+    {
+      "da": "E025",
+      "a": "E047",
+      "min": 26,
+      "m": 1958
+    },
+    {
+      "da": "E025",
+      "a": "E048",
+      "min": 11,
+      "m": 797
+    },
+    {
+      "da": "E025",
+      "a": "ED_02",
+      "min": 31,
+      "m": 2290
+    },
+    {
+      "da": "E025",
+      "a": "ED_03",
+      "min": 30,
+      "m": 2255
+    },
+    {
+      "da": "E025",
+      "a": "ED_04",
+      "min": 27,
+      "m": 2019
+    },
+    {
+      "da": "E025",
+      "a": "ED_06",
+      "min": 27,
+      "m": 2026
+    },
+    {
+      "da": "E026",
+      "a": "E034",
+      "min": 6,
+      "m": 417
+    },
+    {
+      "da": "E026",
+      "a": "E035",
+      "min": 4,
+      "m": 304
+    },
+    {
+      "da": "E026",
+      "a": "E037",
+      "min": 22,
+      "m": 1679
+    },
+    {
+      "da": "E026",
+      "a": "E038",
+      "min": 24,
+      "m": 1792
+    },
+    {
+      "da": "E026",
+      "a": "E039",
+      "min": 23,
+      "m": 1706
+    },
+    {
+      "da": "E026",
+      "a": "E041",
+      "min": 21,
+      "m": 1539
+    },
+    {
+      "da": "E026",
+      "a": "E043",
+      "min": 24,
+      "m": 1827
+    },
+    {
+      "da": "E026",
+      "a": "E044",
+      "min": 1,
+      "m": 82
+    },
+    {
+      "da": "E026",
+      "a": "E046",
+      "min": 32,
+      "m": 2428
+    },
+    {
+      "da": "E026",
+      "a": "E047",
+      "min": 25,
+      "m": 1879
+    },
+    {
+      "da": "E026",
+      "a": "E048",
+      "min": 10,
+      "m": 717
+    },
+    {
+      "da": "E026",
+      "a": "ED_02",
+      "min": 29,
+      "m": 2211
+    },
+    {
+      "da": "E026",
+      "a": "ED_03",
+      "min": 29,
+      "m": 2176
+    },
+    {
+      "da": "E026",
+      "a": "ED_04",
+      "min": 26,
+      "m": 1940
+    },
+    {
+      "da": "E026",
+      "a": "ED_06",
+      "min": 26,
+      "m": 1946
+    },
+    {
+      "da": "E028",
+      "a": "E032",
+      "min": 19,
+      "m": 1409
+    },
+    {
+      "da": "E034",
+      "a": "E035",
+      "min": 5,
+      "m": 406
+    },
+    {
+      "da": "E034",
+      "a": "E037",
+      "min": 26,
+      "m": 1973
+    },
+    {
+      "da": "E034",
+      "a": "E038",
+      "min": 28,
+      "m": 2086
+    },
+    {
+      "da": "E034",
+      "a": "E039",
+      "min": 27,
+      "m": 2001
+    },
+    {
+      "da": "E034",
+      "a": "E041",
+      "min": 25,
+      "m": 1833
+    },
+    {
+      "da": "E034",
+      "a": "E043",
+      "min": 28,
+      "m": 2122
+    },
+    {
+      "da": "E034",
+      "a": "E044",
+      "min": 5,
+      "m": 339
+    },
+    {
+      "da": "E034",
+      "a": "E046",
+      "min": 32,
+      "m": 2416
+    },
+    {
+      "da": "E034",
+      "a": "E047",
+      "min": 25,
+      "m": 1867
+    },
+    {
+      "da": "E034",
+      "a": "E048",
+      "min": 10,
+      "m": 734
+    },
+    {
+      "da": "E034",
+      "a": "ED_02",
+      "min": 29,
+      "m": 2199
+    },
+    {
+      "da": "E034",
+      "a": "ED_03",
+      "min": 29,
+      "m": 2164
+    },
+    {
+      "da": "E034",
+      "a": "ED_04",
+      "min": 26,
+      "m": 1928
+    },
+    {
+      "da": "E034",
+      "a": "ED_06",
+      "min": 26,
+      "m": 1934
+    },
+    {
+      "da": "E035",
+      "a": "E037",
+      "min": 25,
+      "m": 1840
+    },
+    {
+      "da": "E035",
+      "a": "E038",
+      "min": 26,
+      "m": 1953
+    },
+    {
+      "da": "E035",
+      "a": "E039",
+      "min": 25,
+      "m": 1867
+    },
+    {
+      "da": "E035",
+      "a": "E041",
+      "min": 23,
+      "m": 1700
+    },
+    {
+      "da": "E035",
+      "a": "E043",
+      "min": 27,
+      "m": 1989
+    },
+    {
+      "da": "E035",
+      "a": "E044",
+      "min": 5,
+      "m": 349
+    },
+    {
+      "da": "E035",
+      "a": "E047",
+      "min": 28,
+      "m": 2120
+    },
+    {
+      "da": "E035",
+      "a": "E048",
+      "min": 13,
+      "m": 975
+    },
+    {
+      "da": "E035",
+      "a": "ED_02",
+      "min": 33,
+      "m": 2453
+    },
+    {
+      "da": "E035",
+      "a": "ED_03",
+      "min": 32,
+      "m": 2418
+    },
+    {
+      "da": "E035",
+      "a": "ED_04",
+      "min": 29,
+      "m": 2182
+    },
+    {
+      "da": "E035",
+      "a": "ED_06",
+      "min": 29,
+      "m": 2188
+    },
+    {
+      "da": "E037",
+      "a": "E038",
+      "min": 8,
+      "m": 572
+    },
+    {
+      "da": "E037",
+      "a": "E039",
+      "min": 1,
+      "m": 99
+    },
+    {
+      "da": "E037",
+      "a": "E041",
+      "min": 3,
+      "m": 190
+    },
+    {
+      "da": "E037",
+      "a": "E043",
+      "min": 3,
+      "m": 261
+    },
+    {
+      "da": "E037",
+      "a": "E044",
+      "min": 23,
+      "m": 1757
+    },
+    {
+      "da": "E037",
+      "a": "E047",
+      "min": 34,
+      "m": 2563
+    },
+    {
+      "da": "E037",
+      "a": "E048",
+      "min": 21,
+      "m": 1590
+    },
+    {
+      "da": "E037",
+      "a": "ED_02",
+      "min": 35,
+      "m": 2602
+    },
+    {
+      "da": "E037",
+      "a": "ED_03",
+      "min": 34,
+      "m": 2567
+    },
+    {
+      "da": "E037",
+      "a": "ED_04",
+      "min": 31,
+      "m": 2332
+    },
+    {
+      "da": "E037",
+      "a": "ED_06",
+      "min": 31,
+      "m": 2338
+    },
+    {
+      "da": "E038",
+      "a": "E039",
+      "min": 8,
+      "m": 599
+    },
+    {
+      "da": "E038",
+      "a": "E041",
+      "min": 9,
+      "m": 648
+    },
+    {
+      "da": "E038",
+      "a": "E043",
+      "min": 5,
+      "m": 397
+    },
+    {
+      "da": "E038",
+      "a": "E044",
+      "min": 25,
+      "m": 1869
+    },
+    {
+      "da": "E038",
+      "a": "E048",
+      "min": 23,
+      "m": 1703
+    },
+    {
+      "da": "E038",
+      "a": "ED_02",
+      "min": 34,
+      "m": 2575
+    },
+    {
+      "da": "E038",
+      "a": "ED_03",
+      "min": 34,
+      "m": 2540
+    },
+    {
+      "da": "E038",
+      "a": "ED_04",
+      "min": 31,
+      "m": 2304
+    },
+    {
+      "da": "E038",
+      "a": "ED_06",
+      "min": 31,
+      "m": 2310
+    },
+    {
+      "da": "E039",
+      "a": "E041",
+      "min": 3,
+      "m": 217
+    },
+    {
+      "da": "E039",
+      "a": "E043",
+      "min": 4,
+      "m": 288
+    },
+    {
+      "da": "E039",
+      "a": "E044",
+      "min": 24,
+      "m": 1784
+    },
+    {
+      "da": "E039",
+      "a": "E047",
+      "min": 35,
+      "m": 2591
+    },
+    {
+      "da": "E039",
+      "a": "E048",
+      "min": 22,
+      "m": 1618
+    },
+    {
+      "da": "E039",
+      "a": "ED_02",
+      "min": 35,
+      "m": 2630
+    },
+    {
+      "da": "E039",
+      "a": "ED_03",
+      "min": 35,
+      "m": 2595
+    },
+    {
+      "da": "E039",
+      "a": "ED_04",
+      "min": 31,
+      "m": 2359
+    },
+    {
+      "da": "E039",
+      "a": "ED_06",
+      "min": 32,
+      "m": 2365
+    },
+    {
+      "da": "E041",
+      "a": "E043",
+      "min": 4,
+      "m": 337
+    },
+    {
+      "da": "E041",
+      "a": "E044",
+      "min": 22,
+      "m": 1617
+    },
+    {
+      "da": "E041",
+      "a": "E047",
+      "min": 32,
+      "m": 2424
+    },
+    {
+      "da": "E041",
+      "a": "E048",
+      "min": 19,
+      "m": 1451
+    },
+    {
+      "da": "E041",
+      "a": "ED_02",
+      "min": 33,
+      "m": 2463
+    },
+    {
+      "da": "E041",
+      "a": "ED_03",
+      "min": 32,
+      "m": 2427
+    },
+    {
+      "da": "E041",
+      "a": "ED_04",
+      "min": 29,
+      "m": 2192
+    },
+    {
+      "da": "E041",
+      "a": "ED_06",
+      "min": 29,
+      "m": 2198
+    },
+    {
+      "da": "E043",
+      "a": "E044",
+      "min": 25,
+      "m": 1905
+    },
+    {
+      "da": "E043",
+      "a": "E048",
+      "min": 23,
+      "m": 1739
+    },
+    {
+      "da": "E043",
+      "a": "ED_04",
+      "min": 33,
+      "m": 2480
+    },
+    {
+      "da": "E043",
+      "a": "ED_06",
+      "min": 33,
+      "m": 2487
+    },
+    {
+      "da": "E044",
+      "a": "E046",
+      "min": 32,
+      "m": 2370
+    },
+    {
+      "da": "E044",
+      "a": "E047",
+      "min": 24,
+      "m": 1821
+    },
+    {
+      "da": "E044",
+      "a": "E048",
+      "min": 9,
+      "m": 659
+    },
+    {
+      "da": "E044",
+      "a": "ED_02",
+      "min": 29,
+      "m": 2153
+    },
+    {
+      "da": "E044",
+      "a": "ED_03",
+      "min": 28,
+      "m": 2118
+    },
+    {
+      "da": "E044",
+      "a": "ED_04",
+      "min": 25,
+      "m": 1882
+    },
+    {
+      "da": "E044",
+      "a": "ED_06",
+      "min": 25,
+      "m": 1888
+    },
+    {
+      "da": "E046",
+      "a": "E047",
+      "min": 12,
+      "m": 922
+    },
+    {
+      "da": "E046",
+      "a": "E048",
+      "min": 24,
+      "m": 1789
+    },
+    {
+      "da": "E046",
+      "a": "ED_02",
+      "min": 8,
+      "m": 592
+    },
+    {
+      "da": "E046",
+      "a": "ED_03",
+      "min": 7,
+      "m": 555
+    },
+    {
+      "da": "E046",
+      "a": "ED_04",
+      "min": 7,
+      "m": 540
+    },
+    {
+      "da": "E046",
+      "a": "ED_06",
+      "min": 8,
+      "m": 601
+    },
+    {
+      "da": "E046",
+      "a": "ED_08",
+      "min": 30,
+      "m": 2246
+    },
+    {
+      "da": "E047",
+      "a": "E048",
+      "min": 17,
+      "m": 1271
+    },
+    {
+      "da": "E047",
+      "a": "ED_02",
+      "min": 10,
+      "m": 761
+    },
+    {
+      "da": "E047",
+      "a": "ED_03",
+      "min": 10,
+      "m": 725
+    },
+    {
+      "da": "E047",
+      "a": "ED_04",
+      "min": 7,
+      "m": 521
+    },
+    {
+      "da": "E047",
+      "a": "ED_06",
+      "min": 7,
+      "m": 547
+    },
+    {
+      "da": "E048",
+      "a": "ED_02",
+      "min": 21,
+      "m": 1568
+    },
+    {
+      "da": "E048",
+      "a": "ED_03",
+      "min": 20,
+      "m": 1533
+    },
+    {
+      "da": "E048",
+      "a": "ED_04",
+      "min": 17,
+      "m": 1297
+    },
+    {
+      "da": "E048",
+      "a": "ED_06",
+      "min": 17,
+      "m": 1304
+    },
+    {
+      "da": "ED_02",
+      "a": "ED_03",
+      "min": 2,
+      "m": 124
+    },
+    {
+      "da": "ED_02",
+      "a": "ED_04",
+      "min": 5,
+      "m": 378
+    },
+    {
+      "da": "ED_02",
+      "a": "ED_06",
+      "min": 6,
+      "m": 443
+    },
+    {
+      "da": "ED_02",
+      "a": "ED_08",
+      "min": 35,
+      "m": 2600
+    },
+    {
+      "da": "ED_03",
+      "a": "ED_04",
+      "min": 5,
+      "m": 342
+    },
+    {
+      "da": "ED_03",
+      "a": "ED_06",
+      "min": 5,
+      "m": 408
+    },
+    {
+      "da": "ED_03",
+      "a": "ED_08",
+      "min": 34,
+      "m": 2563
+    },
+    {
+      "da": "ED_04",
+      "a": "ED_06",
+      "min": 1,
+      "m": 62
+    },
+    {
+      "da": "ED_04",
+      "a": "ED_08",
+      "min": 34,
+      "m": 2548
+    },
+    {
+      "da": "ED_06",
+      "a": "ED_08",
+      "min": 35,
+      "m": 2609
+    }
+  ],
+  "fraSediFonte": "fossgis-20261123"
 }
