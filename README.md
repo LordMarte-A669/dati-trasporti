@@ -124,6 +124,9 @@ FDG e i bus non hanno un codice eticket, quindi restano `nap-`. Il quinto campo 
 
 - Tutti gli orari vengono dal **Punto di Accesso Nazionale** italiano (NeTEx, Reg. UE 2017/1926):
   Trenitalia, Ferrotramviaria, Ferrovie Appulo Lucane e Ferrovie del Gargano.
+- Gli orari di Ferrotramviaria, Ferrovie Appulo Lucane e Ferrovie del Gargano (`treni-FNB.json`,
+  `treni-FAL.json`, `treni-FDG.json`) sono © **Regione Puglia** (dataset «RAP Puglia - NeTEx Livello 1»),
+  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it), rielaborati in JSON da Sciamn.
 - I confini delle regioni usati per scegliere le corse del Sud vengono da
   [openpolis/geojson-italy](https://github.com/openpolis/geojson-italy) (ISTAT, CC-BY-4.0).
 - Coordinate delle stazioni e delle sedi © **OpenStreetMap** contributors,
@@ -133,6 +136,6 @@ FDG e i bus non hanno un codice eticket, quindi restano `nap-`. Il quinto campo 
   siti, che non dichiarano una licenza.
 - Scioperi dal feed pubblico del Ministero delle Infrastrutture e dei Trasporti.
 
-La licenza di ogni file è in [`LICENZA.md`](LICENZA.md): `stazioni.json` e `sedi.json` sono ODbL, la
-licenza degli orari è in attesa di conferma dai titolari. Orari indicativi: per viaggiare fanno fede le
-fonti ufficiali.
+La licenza di ogni file è in [`LICENZA.md`](LICENZA.md): `stazioni.json` e `sedi.json` sono ODbL, gli
+orari FNB, FAL e FDG CC-BY 4.0; la licenza degli orari Trenitalia è in attesa di conferma. Orari
+indicativi: per viaggiare fanno fede le fonti ufficiali.

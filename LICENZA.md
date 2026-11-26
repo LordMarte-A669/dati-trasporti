@@ -2,9 +2,15 @@
 
 Questi file raccolgono orari di treni a scopo informativo.
 
-- **Orari**: dati del Punto di Accesso Nazionale (NAP) alla mobilità multimodale, pubblicati dagli
-  operatori (Trenitalia, Ferrovie del Nord Barese, Ferrovie Appulo Lucane, Ferrovie del Gargano) ai sensi
-  del Regolamento delegato (UE) 2017/1926. Restano dei rispettivi titolari.
+- **Orari di Ferrotramviaria (FNB), Ferrovie Appulo Lucane (FAL) e Ferrovie del Gargano (FDG)**
+  (`treni-FNB.json`, `treni-FAL.json`, `treni-FDG.json`): © Regione Puglia, dataset «RAP Puglia - NeTEx
+  Livello 1» del Punto di Accesso Nazionale (NAP) alla mobilità multimodale, licenza
+  [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it) (licenza di default della Regione,
+  confermata dal Dipartimento Transizione Digitale il 26/11/2026). Modifiche: convertiti da NeTEx a JSON,
+  ritagliati sulle corse e le fermate utili, compressi.
+- **Orari di Trenitalia** (`treni-TI.json`): dataset «Trenitalia NeTEx Livello 1» del NAP, pubblicato
+  dall'operatore ai sensi del Regolamento delegato (UE) 2017/1926. Restano di Trenitalia; licenza non
+  dichiarata nei metadati, in attesa di conferma.
 - **Confini delle regioni**: ISTAT, rielaborati dal progetto openpolis/geojson-italy, licenza CC-BY-4.0
   (attribuzione: ISTAT, openpolis).
 - **Scioperi**: RSS pubblica del Ministero delle Infrastrutture e dei Trasporti (`https://scioperi.mit.gov.it`),
